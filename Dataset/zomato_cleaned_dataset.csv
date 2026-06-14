@@ -1,0 +1,1001 @@
+Restaurant_ID,Restaurant_Name,City,Locality,Cuisines,Restaurant_Type,Online_Order,Table_Booking,Rating,Votes,Approx_Cost_for_Two,Listed_In,Has_Parking,Is_Newly_Opened,Delivery_Time_mins,Rating_Category,Cost_Category,Engagement_Score
+ZOM1000,Desi Zaika (Con),Delhi,Connaught Place,Biryani,Delivery Only,Yes,No,4.1,865,220,Dine-out,No,Yes,43,Very Good (4.0-4.5),Budget (<300),27.73
+ZOM1001,Spice Garden (MI ),Jaipur,MI Road,Bengali,Dhaba,Yes,No,3.3,135,508,Delivery,Yes,No,21,Average (2.5-3.5),Mid-range (300-700),16.21
+ZOM1002,Food Junction (Jag),Jaipur,Jagatpura,North Indian,Cafe,No,No,3.4,2396,1355,Dine-out,No,No,0,Average (2.5-3.5),Premium (700-1500),26.46
+ZOM1003,Masala Magic (Ban),Mumbai,Bandra,Biryani,Dhaba,Yes,No,4.1,1189,659,Dine-out,Yes,No,77,Very Good (4.0-4.5),Mid-range (300-700),29.04
+ZOM1004,The Biryani Bowl (Con),Delhi,Connaught Place,Continental,Quick Bites,Yes,No,2.0,4122,337,Pubs and Bars,No,Yes,34,Poor (<2.5),Mid-range (300-700),16.65
+ZOM1005,Urban Bites (Man),Ahmedabad,Maninagar,South Indian,Dhaba,Yes,No,4.1,194,762,Pubs and Bars,No,No,74,Very Good (4.0-4.5),Premium (700-1500),21.62
+ZOM1006,The Sandwich Shop (Con),Delhi,Connaught Place,Gujarati,Cafe,Yes,No,3.3,1272,1046,Delivery,Yes,Yes,40,Average (2.5-3.5),Premium (700-1500),23.59
+ZOM1007,The Food Factory (Hin),Pune,Hinjewadi,Mexican,Bakery,Yes,No,3.8,2893,366,Dine-out,Yes,No,37,Good (3.5-4.0),Mid-range (300-700),30.29
+ZOM1008,The Grill House (Sak),Delhi,Saket,Gujarati,Fine Dining,Yes,No,3.8,2440,3541,Desserts,No,No,28,Good (3.5-4.0),Luxury (1500+),29.64
+ZOM1009,Idli House (Par),Kolkata,Park Street,Italian,Casual Dining,Yes,Yes,4.2,2617,1297,Delivery,Yes,No,79,Very Good (4.0-4.5),Premium (700-1500),33.05
+ZOM1010,Tikka Town (Sec),Hyderabad,Secunderabad,Mexican,Dhaba,No,No,4.5,1483,234,Dine-out,No,No,0,Very Good (4.0-4.5),Budget (<300),32.86
+ZOM1011,Chaat Corner (Sec),Hyderabad,Secunderabad,Thai,Delivery Only,No,No,4.0,3157,761,Pubs and Bars,No,No,0,Good (3.5-4.0),Premium (700-1500),32.23
+ZOM1012,Urban Bites (Jub),Hyderabad,Jubilee Hills,Thai,Food Court,Yes,No,3.4,3948,765,Delivery,Yes,No,23,Average (2.5-3.5),Premium (700-1500),28.16
+ZOM1013,Green Leaf Cafe (Kot),Pune,Kothrud,South Indian,Dhaba,No,No,4.8,1505,601,Pubs and Bars,No,Yes,0,Excellent (4.5+),Mid-range (300-700),35.12
+ZOM1014,The Sandwich Shop (Dwa),Delhi,Dwarka,Thai,Delivery Only,Yes,No,4.2,166,470,Delivery,No,No,81,Very Good (4.0-4.5),Mid-range (300-700),21.5
+ZOM1015,Saffron Kitchen (HSR),Bangalore,HSR Layout,North Indian,Delivery Only,Yes,No,3.6,342,252,Pubs and Bars,Yes,No,43,Good (3.5-4.0),Budget (<300),21.02
+ZOM1016,The Biryani Bowl (Jag),Jaipur,Jagatpura,Italian,Fine Dining,Yes,Yes,3.8,3998,1992,Pubs and Bars,Yes,No,60,Good (3.5-4.0),Luxury (1500+),31.52
+ZOM1017,Tikka Town (Nav),Ahmedabad,Navrangpura,South Indian,Bakery,Yes,No,4.0,2067,264,Dine-out,Yes,No,28,Good (3.5-4.0),Budget (<300),30.54
+ZOM1018,Dosa Point (Haz),Lucknow,Hazratganj,South Indian,Food Court,Yes,No,4.1,2032,618,Pubs and Bars,Yes,No,52,Very Good (4.0-4.5),Mid-range (300-700),31.23
+ZOM1019,Saffron Kitchen (Man),Ahmedabad,Maninagar,Chinese,Delivery Only,No,No,3.1,4479,689,Dine-out,No,No,0,Average (2.5-3.5),Mid-range (300-700),26.06
+ZOM1020,Burger House (Vel),Chennai,Velachery,Gujarati,Bakery,No,No,4.2,2283,400,Delivery,Yes,No,0,Very Good (4.0-4.5),Mid-range (300-700),32.48
+ZOM1021,Punjabi Tadka (Laj),Delhi,Lajpat Nagar,North Indian,Cafe,Yes,No,3.9,4880,1329,Delivery,Yes,Yes,52,Good (3.5-4.0),Premium (700-1500),33.12
+ZOM1022,Urban Bites (Ban),Hyderabad,Banjara Hills,North Indian,Bakery,Yes,No,2.9,4603,298,Dine-out,No,No,63,Average (2.5-3.5),Budget (<300),24.46
+ZOM1023,Desi Zaika (Mad),Hyderabad,Madhapur,Chinese,Food Court,No,No,2.9,2778,746,Desserts,Yes,Yes,0,Average (2.5-3.5),Premium (700-1500),23.0
+ZOM1024,The Pizza Place (Dwa),Delhi,Dwarka,Continental,Bakery,No,No,4.0,2695,597,Desserts,No,Yes,0,Good (3.5-4.0),Mid-range (300-700),31.6
+ZOM1025,Idli House (Con),Delhi,Connaught Place,Continental,Bakery,Yes,No,4.8,875,592,Dine-out,Yes,No,34,Excellent (4.5+),Mid-range (300-700),32.52
+ZOM1026,The Food Factory (Civ),Jaipur,Civil Lines,Chinese,Dhaba,Yes,No,3.8,1489,440,Desserts,Yes,Yes,71,Good (3.5-4.0),Mid-range (300-700),27.76
+ZOM1027,Olive Garden (Man),Ahmedabad,Maninagar,South Indian,Casual Dining,Yes,Yes,3.6,4196,884,Dine-out,Yes,No,42,Good (3.5-4.0),Premium (700-1500),30.03
+ZOM1028,Tikka Town (Pra),Ahmedabad,Prahlad Nagar,Italian,Dhaba,Yes,No,3.1,1683,359,Dine-out,No,Yes,78,Average (2.5-3.5),Mid-range (300-700),23.03
+ZOM1029,The Pizza Place (Hin),Pune,Hinjewadi,Mexican,Delivery Only,No,No,4.2,3319,285,Dine-out,Yes,No,0,Very Good (4.0-4.5),Budget (<300),34.05
+ZOM1030,Chaat Corner (Ban),Hyderabad,Banjara Hills,Bengali,Casual Dining,Yes,No,2.7,2630,1412,Pubs and Bars,No,No,25,Average (2.5-3.5),Premium (700-1500),21.26
+ZOM1031,Urban Bites (Dad),Mumbai,Dadar,South Indian,Fine Dining,Yes,Yes,4.3,4896,2551,Dine-out,No,Yes,63,Very Good (4.0-4.5),Luxury (1500+),36.53
+ZOM1032,South Kitchen (Gom),Lucknow,Gomti Nagar,Bengali,Casual Dining,Yes,Yes,3.8,1368,589,Pubs and Bars,No,No,20,Good (3.5-4.0),Mid-range (300-700),27.44
+ZOM1033,Desi Zaika (T N),Chennai,T Nagar,Gujarati,Bakery,Yes,No,4.4,1311,458,Desserts,Yes,No,89,Very Good (4.0-4.5),Mid-range (300-700),31.59
+ZOM1034,Burger House (SG ),Ahmedabad,SG Highway,South Indian,Casual Dining,Yes,No,5.0,4749,1083,Dine-out,No,No,43,Excellent (4.5+),Premium (700-1500),42.33
+ZOM1035,The Biryani Bowl (Whi),Bangalore,Whitefield,South Indian,Cafe,Yes,No,3.6,2003,841,Dine-out,No,No,71,Good (3.5-4.0),Premium (700-1500),27.37
+ZOM1036,The Diner (Ali),Lucknow,Aliganj,Thai,Casual Dining,Yes,Yes,3.7,1296,1351,Delivery,Yes,No,78,Good (3.5-4.0),Premium (700-1500),26.52
+ZOM1037,The Curry House (Con),Delhi,Connaught Place,Biryani,Fine Dining,Yes,Yes,2.5,2165,1501,Dine-out,Yes,No,21,Poor (<2.5),Luxury (1500+),19.2
+ZOM1038,Urban Bites (Civ),Jaipur,Civil Lines,Fast Food,Casual Dining,No,Yes,4.0,859,1476,Delivery,Yes,No,0,Good (3.5-4.0),Premium (700-1500),27.03
+ZOM1039,Chaat Corner (MG ),Bangalore,MG Road,Fast Food,Fine Dining,No,Yes,3.5,1712,4277,Desserts,No,Yes,0,Average (2.5-3.5),Luxury (1500+),26.06
+ZOM1040,The Grill House (Con),Delhi,Connaught Place,Biryani,Fine Dining,Yes,Yes,4.2,1738,1702,Pubs and Bars,No,No,75,Very Good (4.0-4.5),Luxury (1500+),31.34
+ZOM1041,The Biryani Bowl (Aun),Pune,Aundh,North Indian,Delivery Only,Yes,No,2.9,4223,600,Dine-out,Yes,No,57,Average (2.5-3.5),Mid-range (300-700),24.21
+ZOM1042,South Kitchen (Laj),Delhi,Lajpat Nagar,Thai,Dhaba,Yes,No,3.9,2332,710,Dine-out,Yes,No,35,Good (3.5-4.0),Premium (700-1500),30.24
+ZOM1043,Idli House (Kor),Pune,Koregaon Park,Chinese,Bakery,No,No,3.7,613,400,Dine-out,No,No,0,Good (3.5-4.0),Mid-range (300-700),23.75
+ZOM1044,Desi Zaika (Kar),Delhi,Karol Bagh,North Indian,Food Court,Yes,No,5.0,1152,602,Desserts,No,No,86,Excellent (4.5+),Mid-range (300-700),35.25
+ZOM1045,Green Leaf Cafe (Jub),Hyderabad,Jubilee Hills,North Indian,Cafe,Yes,No,3.8,151,1263,Dine-out,Yes,No,71,Good (3.5-4.0),Premium (700-1500),19.09
+ZOM1046,The Diner (Beh),Kolkata,Behala,Thai,Dhaba,Yes,No,3.1,493,537,Delivery,Yes,No,20,Average (2.5-3.5),Mid-range (300-700),19.23
+ZOM1047,Royal Feast (Jay),Bangalore,Jayanagar,Fast Food,Casual Dining,No,Yes,4.8,1807,872,Dine-out,No,Yes,0,Excellent (4.5+),Premium (700-1500),36.0
+ZOM1048,Spice Garden (Kot),Pune,Kothrud,Italian,Delivery Only,No,No,3.0,4066,343,Delivery,No,No,0,Average (2.5-3.5),Mid-range (300-700),24.93
+ZOM1049,South Kitchen (Bal),Kolkata,Ballygunge,South Indian,Bakery,Yes,No,4.2,628,771,Delivery,No,No,21,Very Good (4.0-4.5),Premium (700-1500),27.07
+ZOM1050,Masala Magic (Mal),Jaipur,Malviya Nagar,Gujarati,Dhaba,No,No,4.4,3728,208,Dine-out,No,No,0,Very Good (4.0-4.5),Budget (<300),36.19
+ZOM1051,The Diner (Hit),Hyderabad,Hitech City,Gujarati,Dhaba,Yes,No,3.8,3175,407,Pubs and Bars,No,No,22,Good (3.5-4.0),Mid-range (300-700),30.64
+ZOM1052,Bombay Bites (Kot),Pune,Kothrud,North Indian,Delivery Only,Yes,No,3.9,4504,786,Desserts,No,No,55,Good (3.5-4.0),Premium (700-1500),32.81
+ZOM1053,Saffron Kitchen (Pra),Ahmedabad,Prahlad Nagar,Mexican,Cafe,No,No,3.9,1450,503,Dine-out,No,Yes,0,Good (3.5-4.0),Mid-range (300-700),28.39
+ZOM1054,Urban Bites (Nun),Chennai,Nungambakkam,Gujarati,Bakery,Yes,No,2.4,3928,672,Dine-out,Yes,No,44,Poor (<2.5),Mid-range (300-700),19.86
+ZOM1055,Noodle Box (Kor),Bangalore,Koramangala,North Indian,Cafe,Yes,No,4.5,2966,1277,Desserts,No,No,85,Very Good (4.0-4.5),Premium (700-1500),35.98
+ZOM1056,Taste of India (Vim),Pune,Viman Nagar,Continental,Cafe,Yes,No,3.8,2874,560,Delivery,No,No,87,Good (3.5-4.0),Mid-range (300-700),30.26
+ZOM1057,Spice Garden (MG ),Bangalore,MG Road,Thai,Food Court,Yes,No,3.7,4498,476,Delivery,No,No,67,Good (3.5-4.0),Mid-range (300-700),31.12
+ZOM1058,The Sandwich Shop (CG ),Ahmedabad,CG Road,Thai,Bakery,No,No,4.6,3992,394,Pubs and Bars,No,No,0,Excellent (4.5+),Mid-range (300-700),38.14
+ZOM1059,Burger House (Civ),Jaipur,Civil Lines,Chinese,Food Court,Yes,No,3.2,4501,232,Dine-out,No,No,67,Average (2.5-3.5),Budget (<300),26.92
+ZOM1060,The Curry House (Civ),Jaipur,Civil Lines,Gujarati,Cafe,No,No,5.0,4560,1445,Delivery,No,No,0,Excellent (4.5+),Premium (700-1500),42.13
+ZOM1061,Tikka Town (Gac),Hyderabad,Gachibowli,Mughlai,Bakery,Yes,No,3.8,1698,237,Dine-out,Yes,No,70,Good (3.5-4.0),Budget (<300),28.26
+ZOM1062,Urban Bites (Cam),Pune,Camp,Chinese,Cafe,No,No,3.6,2490,1197,Desserts,No,No,0,Good (3.5-4.0),Premium (700-1500),28.15
+ZOM1063,Green Leaf Cafe (Kor),Pune,Koregaon Park,Italian,Dhaba,Yes,No,4.3,964,680,Pubs and Bars,No,No,88,Very Good (4.0-4.5),Mid-range (300-700),29.55
+ZOM1064,The Kebab Studio (Juh),Mumbai,Juhu,Fast Food,Dhaba,No,No,3.0,3072,746,Pubs and Bars,No,No,0,Average (2.5-3.5),Premium (700-1500),24.09
+ZOM1065,Noodle Box (Vas),Ahmedabad,Vastrapur,Fast Food,Dhaba,Yes,No,4.4,3125,711,Desserts,No,No,36,Very Good (4.0-4.5),Premium (700-1500),35.41
+ZOM1066,Curry Leaf (HSR),Bangalore,HSR Layout,Chinese,Casual Dining,No,Yes,2.5,1248,917,Delivery,Yes,No,0,Poor (<2.5),Premium (700-1500),17.83
+ZOM1067,The Curry House (HSR),Bangalore,HSR Layout,Chinese,Casual Dining,No,Yes,3.5,1065,679,Desserts,No,No,0,Average (2.5-3.5),Mid-range (300-700),24.4
+ZOM1068,Dosa Point (Hin),Pune,Hinjewadi,Continental,Delivery Only,Yes,No,4.0,3425,298,Desserts,Yes,Yes,79,Good (3.5-4.0),Budget (<300),32.56
+ZOM1069,The Sandwich Shop (Sal),Kolkata,Salt Lake,Gujarati,Quick Bites,Yes,No,3.6,1144,340,Delivery,Yes,No,51,Good (3.5-4.0),Mid-range (300-700),25.36
+ZOM1070,Taste of India (Dad),Mumbai,Dadar,Chinese,Cafe,No,No,3.1,1189,965,Delivery,No,No,0,Average (2.5-3.5),Premium (700-1500),21.95
+ZOM1071,The Food Factory (CG ),Ahmedabad,CG Road,Fast Food,Bakery,Yes,No,3.3,574,522,Dine-out,No,Yes,65,Average (2.5-3.5),Mid-range (300-700),20.97
+ZOM1072,Green Leaf Cafe (Haz),Lucknow,Hazratganj,Fast Food,Dhaba,Yes,No,4.1,3868,354,Delivery,No,No,21,Very Good (4.0-4.5),Mid-range (300-700),33.87
+ZOM1073,Idli House (Dwa),Delhi,Dwarka,Fast Food,Quick Bites,Yes,No,2.9,4062,422,Dine-out,No,No,52,Average (2.5-3.5),Mid-range (300-700),24.1
+ZOM1074,The Grand Kitchen (Par),Kolkata,Park Street,Thai,Bakery,No,No,2.7,4346,737,Desserts,Yes,No,0,Average (2.5-3.5),Premium (700-1500),22.62
+ZOM1075,The Pizza Place (Beh),Kolkata,Behala,Mexican,Fine Dining,Yes,Yes,3.0,1846,2420,Dine-out,No,No,43,Average (2.5-3.5),Luxury (1500+),22.56
+ZOM1076,Masala Magic (Pra),Ahmedabad,Prahlad Nagar,Biryani,Delivery Only,Yes,No,2.9,529,711,Delivery,No,No,35,Average (2.5-3.5),Premium (700-1500),18.19
+ZOM1077,Masala Magic (Hit),Hyderabad,Hitech City,Bengali,Dhaba,Yes,No,4.0,2706,670,Desserts,No,No,34,Good (3.5-4.0),Mid-range (300-700),31.61
+ZOM1078,Masala Magic (Vas),Ahmedabad,Vastrapur,Mughlai,Delivery Only,Yes,No,5.0,4934,250,Pubs and Bars,No,No,44,Excellent (4.5+),Budget (<300),42.52
+ZOM1079,Urban Bites (MI ),Jaipur,MI Road,Thai,Cafe,Yes,No,3.2,3774,974,Desserts,No,No,81,Average (2.5-3.5),Premium (700-1500),26.36
+ZOM1080,Burger House (CG ),Ahmedabad,CG Road,Biryani,Food Court,Yes,No,3.8,1153,504,Delivery,No,No,71,Good (3.5-4.0),Mid-range (300-700),26.79
+ZOM1081,The Diner (Cam),Pune,Camp,Italian,Delivery Only,Yes,No,3.8,4782,253,Desserts,No,No,79,Good (3.5-4.0),Budget (<300),32.2
+ZOM1082,The Biryani Bowl (Cam),Pune,Camp,Thai,Bakery,No,No,4.8,2665,204,Dine-out,No,No,0,Excellent (4.5+),Budget (<300),37.86
+ZOM1083,Masala Magic (Ban),Hyderabad,Banjara Hills,Biryani,Cafe,Yes,No,3.8,4874,1276,Pubs and Bars,No,No,66,Good (3.5-4.0),Premium (700-1500),32.27
+ZOM1084,The Curry House (Jub),Hyderabad,Jubilee Hills,Biryani,Food Court,Yes,No,3.6,4369,257,Delivery,Yes,No,74,Good (3.5-4.0),Budget (<300),30.18
+ZOM1085,The Grand Kitchen (Gac),Hyderabad,Gachibowli,Chinese,Delivery Only,Yes,No,3.4,1374,673,Dine-out,Yes,Yes,81,Average (2.5-3.5),Mid-range (300-700),24.57
+ZOM1086,Olive Garden (Mal),Jaipur,Malviya Nagar,Biryani,Fine Dining,No,No,4.9,2843,3164,Delivery,No,No,0,Excellent (4.5+),Luxury (1500+),38.97
+ZOM1087,The Food Factory (Pra),Ahmedabad,Prahlad Nagar,Mexican,Bakery,Yes,No,3.2,1086,712,Dine-out,No,Yes,53,Average (2.5-3.5),Premium (700-1500),22.37
+ZOM1088,Punjabi Tadka (Kar),Delhi,Karol Bagh,Mexican,Quick Bites,Yes,No,3.9,564,341,Dine-out,Yes,No,82,Good (3.5-4.0),Mid-range (300-700),24.71
+ZOM1089,South Kitchen (Hau),Delhi,Hauz Khas,South Indian,Dhaba,Yes,No,5.0,585,446,Pubs and Bars,No,No,86,Excellent (4.5+),Mid-range (300-700),31.87
+ZOM1090,Bombay Bites (SG ),Ahmedabad,SG Highway,Bengali,Dhaba,Yes,No,2.9,3152,285,Pubs and Bars,No,Yes,76,Average (2.5-3.5),Budget (<300),23.36
+ZOM1091,The Diner (Sec),Hyderabad,Secunderabad,Italian,Delivery Only,Yes,No,3.9,3361,419,Dine-out,Yes,No,88,Good (3.5-4.0),Mid-range (300-700),31.67
+ZOM1092,The Pizza Place (MI ),Jaipur,MI Road,Chinese,Casual Dining,No,Yes,3.5,3123,617,Desserts,No,Yes,0,Average (2.5-3.5),Mid-range (300-700),28.16
+ZOM1093,Food Junction (Gac),Hyderabad,Gachibowli,Biryani,Delivery Only,No,No,5.0,2484,540,Delivery,No,No,0,Excellent (4.5+),Mid-range (300-700),39.09
+ZOM1094,The Pizza Place (Myl),Chennai,Mylapore,Bengali,Cafe,Yes,No,3.4,4651,756,Pubs and Bars,Yes,No,42,Average (2.5-3.5),Premium (700-1500),28.71
+ZOM1095,The Food Factory (T N),Chennai,T Nagar,South Indian,Casual Dining,Yes,Yes,2.2,2854,1161,Pubs and Bars,No,No,38,Poor (<2.5),Premium (700-1500),17.51
+ZOM1096,Food Junction (Kar),Delhi,Karol Bagh,Biryani,Delivery Only,No,No,5.0,2494,715,Dine-out,No,No,0,Excellent (4.5+),Premium (700-1500),39.11
+ZOM1097,Tikka Town (Nav),Ahmedabad,Navrangpura,Bengali,Casual Dining,No,Yes,3.8,3092,1191,Pubs and Bars,No,Yes,0,Good (3.5-4.0),Premium (700-1500),30.54
+ZOM1098,The Sandwich Shop (Hau),Delhi,Hauz Khas,Gujarati,Casual Dining,Yes,Yes,3.6,340,1295,Dine-out,No,No,51,Good (3.5-4.0),Premium (700-1500),20.99
+ZOM1099,Olive Garden (T N),Chennai,T Nagar,Bengali,Dhaba,No,No,3.7,3551,579,Delivery,No,No,0,Good (3.5-4.0),Mid-range (300-700),30.25
+ZOM1100,The Kebab Studio (Hin),Pune,Hinjewadi,Mughlai,Quick Bites,Yes,No,5.0,1573,250,Dine-out,No,No,31,Excellent (4.5+),Budget (<300),36.81
+ZOM1101,Burger House (Myl),Chennai,Mylapore,Continental,Casual Dining,Yes,Yes,2.3,3918,1466,Dine-out,Yes,No,63,Poor (<2.5),Premium (700-1500),19.03
+ZOM1102,The Pizza Place (MI ),Jaipur,MI Road,Gujarati,Food Court,Yes,No,3.4,4385,617,Dine-out,No,No,26,Average (2.5-3.5),Mid-range (300-700),28.51
+ZOM1103,The Sandwich Shop (Ind),Lucknow,Indira Nagar,Gujarati,Food Court,Yes,No,3.8,3272,700,Dine-out,No,No,48,Good (3.5-4.0),Mid-range (300-700),30.76
+ZOM1104,Royal Feast (Vel),Chennai,Velachery,Biryani,Food Court,Yes,No,3.3,733,593,Pubs and Bars,Yes,No,43,Average (2.5-3.5),Mid-range (300-700),21.78
+ZOM1105,Urban Bites (Nun),Chennai,Nungambakkam,North Indian,Dhaba,Yes,No,4.3,2791,298,Delivery,No,Yes,55,Very Good (4.0-4.5),Budget (<300),34.12
+ZOM1106,Saffron Kitchen (HSR),Bangalore,HSR Layout,Biryani,Delivery Only,Yes,No,4.1,2148,236,Desserts,No,No,31,Very Good (4.0-4.5),Budget (<300),31.46
+ZOM1107,Green Leaf Cafe (Hit),Hyderabad,Hitech City,Thai,Fine Dining,Yes,Yes,3.6,3445,3048,Pubs and Bars,No,No,42,Good (3.5-4.0),Luxury (1500+),29.32
+ZOM1108,Curry Leaf (Laj),Delhi,Lajpat Nagar,Continental,Bakery,Yes,No,4.6,2919,541,Delivery,No,No,32,Excellent (4.5+),Mid-range (300-700),36.7
+ZOM1109,The Kebab Studio (Ami),Lucknow,Aminabad,Gujarati,Food Court,Yes,No,3.7,703,218,Desserts,No,No,68,Good (3.5-4.0),Budget (<300),24.26
+ZOM1110,Burger House (New),Kolkata,New Town,Thai,Dhaba,Yes,No,4.0,400,583,Dine-out,No,No,71,Good (3.5-4.0),Mid-range (300-700),23.98
+ZOM1111,Spice Garden (Ind),Lucknow,Indira Nagar,Italian,Dhaba,Yes,No,3.6,4951,705,Desserts,No,No,35,Good (3.5-4.0),Premium (700-1500),30.63
+ZOM1112,Noodle Box (Cam),Pune,Camp,Gujarati,Fine Dining,Yes,No,3.8,4985,4495,Pubs and Bars,No,Yes,72,Good (3.5-4.0),Luxury (1500+),32.35
+ZOM1113,The Grand Kitchen (Nav),Ahmedabad,Navrangpura,Thai,Food Court,Yes,No,3.1,3227,343,Desserts,No,No,76,Average (2.5-3.5),Mid-range (300-700),25.05
+ZOM1114,South Kitchen (Kar),Delhi,Karol Bagh,Fast Food,Bakery,No,No,3.7,1067,597,Delivery,No,No,0,Good (3.5-4.0),Mid-range (300-700),25.8
+ZOM1115,The Kebab Studio (Beh),Kolkata,Behala,Biryani,Food Court,Yes,No,3.1,3299,332,Pubs and Bars,Yes,No,54,Average (2.5-3.5),Mid-range (300-700),25.12
+ZOM1116,The Pizza Place (T N),Chennai,T Nagar,Biryani,Quick Bites,Yes,No,3.1,737,225,Delivery,No,No,28,Average (2.5-3.5),Budget (<300),20.47
+ZOM1117,Idli House (Ann),Chennai,Anna Nagar,North Indian,Bakery,Yes,No,3.5,958,691,Dine-out,No,No,36,Average (2.5-3.5),Mid-range (300-700),24.03
+ZOM1118,Punjabi Tadka (Aun),Pune,Aundh,Italian,Dhaba,Yes,No,3.5,3329,367,Dine-out,Yes,Yes,61,Average (2.5-3.5),Mid-range (300-700),28.39
+ZOM1119,Noodle Box (Ind),Lucknow,Indira Nagar,Bengali,Cafe,Yes,No,4.5,2998,1194,Dine-out,No,No,85,Very Good (4.0-4.5),Premium (700-1500),36.03
+ZOM1120,Tikka Town (SG ),Ahmedabad,SG Highway,Gujarati,Casual Dining,No,Yes,2.6,1545,899,Pubs and Bars,Yes,Yes,0,Average (2.5-3.5),Premium (700-1500),19.09
+ZOM1121,Olive Garden (SG ),Ahmedabad,SG Highway,Bengali,Delivery Only,No,No,3.8,1685,710,Dine-out,No,No,0,Good (3.5-4.0),Premium (700-1500),28.23
+ZOM1122,Desi Zaika (Hit),Hyderabad,Hitech City,Mexican,Quick Bites,No,No,2.5,4317,401,Pubs and Bars,No,No,0,Poor (<2.5),Mid-range (300-700),20.93
+ZOM1123,The Curry House (Ann),Chennai,Anna Nagar,Gujarati,Dhaba,Yes,No,4.4,3491,644,Pubs and Bars,No,Yes,73,Very Good (4.0-4.5),Mid-range (300-700),35.9
+ZOM1124,The Sandwich Shop (Ali),Lucknow,Aliganj,Mexican,Delivery Only,Yes,No,4.3,2219,238,Pubs and Bars,No,No,86,Very Good (4.0-4.5),Budget (<300),33.13
+ZOM1125,Olive Garden (Mad),Hyderabad,Madhapur,Fast Food,Fine Dining,Yes,Yes,3.6,4273,2152,Delivery,No,No,77,Good (3.5-4.0),Luxury (1500+),30.1
+ZOM1126,Urban Bites (Dad),Mumbai,Dadar,Mughlai,Fine Dining,Yes,Yes,3.9,460,4572,Desserts,Yes,No,22,Good (3.5-4.0),Luxury (1500+),23.92
+ZOM1127,Dosa Point (Jay),Bangalore,Jayanagar,Mughlai,Delivery Only,Yes,No,3.1,2001,547,Dine-out,No,No,81,Average (2.5-3.5),Mid-range (300-700),23.57
+ZOM1128,Taste of India (Par),Kolkata,Park Street,Mexican,Quick Bites,Yes,No,2.7,509,461,Desserts,No,No,52,Average (2.5-3.5),Mid-range (300-700),16.83
+ZOM1129,The Grill House (Kar),Delhi,Karol Bagh,North Indian,Delivery Only,Yes,No,3.1,138,257,Desserts,No,No,63,Average (2.5-3.5),Budget (<300),15.3
+ZOM1130,Royal Feast (Ind),Lucknow,Indira Nagar,Gujarati,Bakery,Yes,No,3.7,4785,402,Desserts,Yes,No,55,Good (3.5-4.0),Mid-range (300-700),31.35
+ZOM1131,Olive Garden (Gom),Lucknow,Gomti Nagar,Gujarati,Quick Bites,No,No,4.4,1255,296,Dine-out,No,No,0,Very Good (4.0-4.5),Budget (<300),31.4
+ZOM1132,Bombay Bites (Hau),Delhi,Hauz Khas,North Indian,Casual Dining,No,No,5.0,3517,1055,Dine-out,No,No,0,Excellent (4.5+),Premium (700-1500),40.83
+ZOM1133,Punjabi Tadka (Vim),Pune,Viman Nagar,Mughlai,Dhaba,Yes,No,4.0,475,211,Desserts,No,Yes,35,Good (3.5-4.0),Budget (<300),24.66
+ZOM1134,Spice Garden (Man),Ahmedabad,Maninagar,Continental,Delivery Only,Yes,No,5.0,362,207,Dine-out,No,No,55,Excellent (4.5+),Budget (<300),29.47
+ZOM1135,The Grill House (Gac),Hyderabad,Gachibowli,South Indian,Bakery,Yes,No,3.1,4190,515,Delivery,No,No,69,Average (2.5-3.5),Mid-range (300-700),25.86
+ZOM1136,The Diner (Ban),Hyderabad,Banjara Hills,Mexican,Quick Bites,Yes,No,2.4,544,361,Pubs and Bars,Yes,Yes,48,Poor (<2.5),Mid-range (300-700),15.12
+ZOM1137,Urban Bites (Sal),Kolkata,Salt Lake,Chinese,Cafe,Yes,No,4.0,2961,789,Pubs and Bars,Yes,No,88,Good (3.5-4.0),Premium (700-1500),31.97
+ZOM1138,The Curry House (Sal),Kolkata,Salt Lake,Bengali,Casual Dining,Yes,Yes,3.8,1843,1428,Pubs and Bars,No,No,52,Good (3.5-4.0),Premium (700-1500),28.57
+ZOM1139,The Grand Kitchen (Dwa),Delhi,Dwarka,North Indian,Fine Dining,Yes,Yes,4.4,4474,4636,Dine-out,No,No,37,Very Good (4.0-4.5),Luxury (1500+),36.99
+ZOM1140,Taste of India (Ban),Mumbai,Bandra,Fast Food,Casual Dining,No,Yes,3.3,228,1226,Delivery,No,No,0,Average (2.5-3.5),Premium (700-1500),17.93
+ZOM1141,Burger House (Ali),Kolkata,Alipore,Bengali,Quick Bites,Yes,No,4.7,4789,247,Pubs and Bars,Yes,No,20,Excellent (4.5+),Budget (<300),39.83
+ZOM1142,Noodle Box (CG ),Ahmedabad,CG Road,North Indian,Casual Dining,No,Yes,3.7,409,1396,Delivery,No,No,0,Good (3.5-4.0),Premium (700-1500),22.26
+ZOM1143,Urban Bites (Con),Delhi,Connaught Place,Mughlai,Fine Dining,Yes,No,3.7,3641,4224,Pubs and Bars,No,No,36,Good (3.5-4.0),Luxury (1500+),30.34
+ZOM1144,Burger House (Kot),Pune,Kothrud,Thai,Delivery Only,No,No,3.8,2053,645,Delivery,No,Yes,0,Good (3.5-4.0),Mid-range (300-700),28.98
+ZOM1145,Burger House (Man),Jaipur,Mansarovar,Italian,Dhaba,Yes,No,4.1,4549,687,Desserts,No,No,51,Very Good (4.0-4.5),Mid-range (300-700),34.53
+ZOM1146,Masala Magic (Vim),Pune,Viman Nagar,Biryani,Quick Bites,No,No,3.1,2086,303,Dine-out,No,No,0,Average (2.5-3.5),Mid-range (300-700),23.69
+ZOM1147,Urban Bites (Sal),Kolkata,Salt Lake,Gujarati,Food Court,Yes,No,3.5,254,637,Delivery,Yes,No,22,Average (2.5-3.5),Mid-range (300-700),19.39
+ZOM1148,Idli House (Dwa),Delhi,Dwarka,Biryani,Bakery,Yes,No,4.4,3967,435,Pubs and Bars,Yes,No,24,Very Good (4.0-4.5),Mid-range (300-700),36.46
+ZOM1149,The Kebab Studio (Kar),Delhi,Karol Bagh,Mughlai,Dhaba,Yes,No,3.3,3042,600,Dine-out,No,No,66,Average (2.5-3.5),Mid-range (300-700),26.47
+ZOM1150,Taste of India (Par),Kolkata,Park Street,Bengali,Cafe,No,No,4.1,3283,474,Dine-out,Yes,No,0,Very Good (4.0-4.5),Mid-range (300-700),33.2
+ZOM1151,Punjabi Tadka (Mal),Jaipur,Malviya Nagar,South Indian,Delivery Only,Yes,No,4.5,4535,302,Desserts,No,Yes,57,Very Good (4.0-4.5),Mid-range (300-700),37.89
+ZOM1152,The Grand Kitchen (Ali),Lucknow,Aliganj,Biryani,Delivery Only,Yes,No,3.7,4864,534,Dine-out,No,No,70,Good (3.5-4.0),Mid-range (300-700),31.41
+ZOM1153,The Kebab Studio (New),Kolkata,New Town,North Indian,Fine Dining,Yes,Yes,3.9,4547,3517,Desserts,Yes,No,71,Good (3.5-4.0),Luxury (1500+),32.85
+ZOM1154,Green Leaf Cafe (And),Mumbai,Andheri,Biryani,Cafe,No,No,4.8,4349,1419,Desserts,No,No,0,Excellent (4.5+),Premium (700-1500),40.21
+ZOM1155,The Sandwich Shop (New),Kolkata,New Town,Biryani,Bakery,Yes,No,3.8,4642,305,Delivery,Yes,No,70,Good (3.5-4.0),Mid-range (300-700),32.08
+ZOM1156,The Curry House (Haz),Lucknow,Hazratganj,Gujarati,Quick Bites,No,No,3.7,2133,489,Desserts,No,No,0,Good (3.5-4.0),Mid-range (300-700),28.36
+ZOM1157,The Biryani Bowl (Hin),Pune,Hinjewadi,Italian,Quick Bites,No,No,4.3,3036,218,Delivery,No,No,0,Very Good (4.0-4.5),Budget (<300),34.48
+ZOM1158,Desi Zaika (Man),Jaipur,Mansarovar,Fast Food,Casual Dining,No,Yes,2.6,2598,525,Delivery,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),20.44
+ZOM1159,Bombay Bites (T N),Chennai,T Nagar,Chinese,Delivery Only,Yes,No,4.5,3823,242,Delivery,Yes,No,42,Very Good (4.0-4.5),Budget (<300),37.12
+ZOM1160,The Grill House (Aun),Pune,Aundh,Chinese,Dhaba,Yes,No,3.1,3450,480,Pubs and Bars,No,No,86,Average (2.5-3.5),Mid-range (300-700),25.25
+ZOM1161,The Pizza Place (Kar),Delhi,Karol Bagh,Biryani,Casual Dining,Yes,Yes,4.1,1892,1066,Delivery,No,No,51,Very Good (4.0-4.5),Premium (700-1500),30.94
+ZOM1162,Bombay Bites (Ind),Lucknow,Indira Nagar,Biryani,Dhaba,Yes,No,2.7,1974,204,Desserts,Yes,No,61,Average (2.5-3.5),Budget (<300),20.49
+ZOM1163,Urban Bites (Jay),Bangalore,Jayanagar,Mexican,Bakery,No,No,4.1,3905,733,Delivery,Yes,No,0,Very Good (4.0-4.5),Premium (700-1500),33.91
+ZOM1164,Green Leaf Cafe (Ind),Lucknow,Indira Nagar,Thai,Quick Bites,Yes,No,3.3,528,227,Dine-out,Yes,No,64,Average (2.5-3.5),Budget (<300),20.69
+ZOM1165,Saffron Kitchen (Kor),Bangalore,Koramangala,Thai,Quick Bites,Yes,No,2.9,2301,196,Dine-out,No,No,75,Average (2.5-3.5),Budget (<300),22.45
+ZOM1166,Flavors Restaurant (Ban),Hyderabad,Banjara Hills,Chinese,Delivery Only,Yes,No,4.3,4207,452,Pubs and Bars,Yes,Yes,71,Very Good (4.0-4.5),Mid-range (300-700),35.88
+ZOM1167,The Sandwich Shop (MG ),Bangalore,MG Road,Mexican,Food Court,No,No,3.3,2771,502,Pubs and Bars,No,No,0,Average (2.5-3.5),Mid-range (300-700),26.16
+ZOM1168,Noodle Box (Sal),Kolkata,Salt Lake,Mexican,Quick Bites,No,No,3.7,643,177,Dine-out,No,Yes,0,Good (3.5-4.0),Budget (<300),23.93
+ZOM1169,Burger House (Ali),Kolkata,Alipore,South Indian,Delivery Only,No,No,3.7,2130,415,Delivery,Yes,No,0,Good (3.5-4.0),Mid-range (300-700),28.36
+ZOM1170,South Kitchen (Ann),Chennai,Anna Nagar,Gujarati,Quick Bites,No,No,4.0,369,387,Desserts,No,Yes,0,Good (3.5-4.0),Mid-range (300-700),23.65
+ZOM1171,Masala Magic (Man),Ahmedabad,Maninagar,Gujarati,Cafe,No,No,3.2,1536,1205,Pubs and Bars,Yes,Yes,0,Average (2.5-3.5),Premium (700-1500),23.48
+ZOM1172,Saffron Kitchen (Nav),Ahmedabad,Navrangpura,Mughlai,Quick Bites,Yes,No,3.1,1911,177,Delivery,Yes,No,58,Average (2.5-3.5),Budget (<300),23.42
+ZOM1173,The Biryani Bowl (Man),Ahmedabad,Maninagar,Thai,Fine Dining,Yes,Yes,3.1,1981,2796,Desserts,No,No,63,Average (2.5-3.5),Luxury (1500+),23.53
+ZOM1174,Urban Bites (Haz),Lucknow,Hazratganj,Gujarati,Bakery,Yes,No,3.9,4637,779,Delivery,No,No,29,Good (3.5-4.0),Premium (700-1500),32.92
+ZOM1175,Masala Magic (Ady),Chennai,Adyar,Biryani,Fine Dining,Yes,Yes,4.3,71,1732,Dine-out,No,No,37,Very Good (4.0-4.5),Luxury (1500+),18.39
+ZOM1176,Bombay Bites (Aun),Pune,Aundh,Bengali,Quick Bites,No,No,4.8,2163,260,Dine-out,Yes,Yes,0,Excellent (4.5+),Budget (<300),36.86
+ZOM1177,The Biryani Bowl (Kot),Pune,Kothrud,Mughlai,Casual Dining,Yes,No,4.1,4012,1147,Dine-out,No,No,61,Very Good (4.0-4.5),Premium (700-1500),34.02
+ZOM1178,Urban Bites (Jub),Hyderabad,Jubilee Hills,Chinese,Fine Dining,Yes,Yes,4.2,2477,4891,Delivery,No,Yes,78,Very Good (4.0-4.5),Luxury (1500+),32.82
+ZOM1179,Taste of India (Ali),Kolkata,Alipore,Chinese,Dhaba,Yes,No,3.5,1980,514,Dine-out,No,No,89,Average (2.5-3.5),Mid-range (300-700),26.57
+ZOM1180,The Diner (Nav),Ahmedabad,Navrangpura,Continental,Bakery,Yes,No,3.3,3817,715,Desserts,No,No,81,Average (2.5-3.5),Premium (700-1500),27.22
+ZOM1181,Bombay Bites (Vas),Ahmedabad,Vastrapur,Thai,Cafe,No,No,2.8,2402,1222,Dine-out,No,No,0,Average (2.5-3.5),Premium (700-1500),21.8
+ZOM1182,The Food Factory (SG ),Ahmedabad,SG Highway,Continental,Dhaba,Yes,No,3.7,1165,239,Pubs and Bars,Yes,No,55,Good (3.5-4.0),Budget (<300),26.13
+ZOM1183,The Grill House (Pow),Mumbai,Powai,Mexican,Bakery,Yes,No,3.1,924,422,Pubs and Bars,Yes,No,25,Average (2.5-3.5),Mid-range (300-700),21.17
+ZOM1184,Tikka Town (Hau),Delhi,Hauz Khas,Fast Food,Food Court,Yes,No,3.3,472,703,Desserts,Yes,No,70,Average (2.5-3.5),Premium (700-1500),20.33
+ZOM1185,Spice Garden (SG ),Ahmedabad,SG Highway,North Indian,Dhaba,No,No,4.2,4294,591,Pubs and Bars,No,No,0,Very Good (4.0-4.5),Mid-range (300-700),35.13
+ZOM1186,The Grand Kitchen (Kor),Pune,Koregaon Park,Mughlai,Cafe,Yes,No,3.1,1146,931,Delivery,No,No,31,Average (2.5-3.5),Premium (700-1500),21.84
+ZOM1187,Curry Leaf (Ind),Bangalore,Indiranagar,North Indian,Delivery Only,No,No,4.1,4659,200,Dine-out,No,No,0,Very Good (4.0-4.5),Budget (<300),34.63
+ZOM1188,The Grand Kitchen (Man),Ahmedabad,Maninagar,North Indian,Quick Bites,Yes,No,4.1,4754,288,Dine-out,Yes,No,22,Very Good (4.0-4.5),Budget (<300),34.71
+ZOM1189,Royal Feast (Laj),Delhi,Lajpat Nagar,Italian,Delivery Only,Yes,No,2.5,3749,209,Dine-out,No,No,24,Poor (<2.5),Budget (<300),20.57
+ZOM1190,Olive Garden (Con),Delhi,Connaught Place,Mexican,Casual Dining,Yes,Yes,3.3,1678,728,Dine-out,No,Yes,36,Average (2.5-3.5),Premium (700-1500),24.51
+ZOM1191,The Food Factory (Ala),Lucknow,Alambagh,Italian,Dhaba,Yes,No,4.2,2829,749,Pubs and Bars,No,Yes,54,Very Good (4.0-4.5),Premium (700-1500),33.38
+ZOM1192,Green Leaf Cafe (Jag),Jaipur,Jagatpura,Thai,Casual Dining,No,No,3.3,3682,775,Desserts,No,No,0,Average (2.5-3.5),Premium (700-1500),27.1
+ZOM1193,Desi Zaika (Juh),Mumbai,Juhu,South Indian,Bakery,Yes,No,4.8,3535,336,Pubs and Bars,No,No,53,Excellent (4.5+),Mid-range (300-700),39.22
+ZOM1194,Dosa Point (Kor),Bangalore,Koramangala,Mughlai,Bakery,Yes,No,4.2,2640,519,Desserts,No,No,41,Very Good (4.0-4.5),Mid-range (300-700),33.09
+ZOM1195,Spice Garden (Ind),Bangalore,Indiranagar,South Indian,Food Court,Yes,No,3.6,3648,548,Dine-out,Yes,No,30,Good (3.5-4.0),Mid-range (300-700),29.53
+ZOM1196,Dosa Point (Juh),Mumbai,Juhu,Fast Food,Dhaba,No,No,4.2,877,490,Dine-out,Yes,No,0,Very Good (4.0-4.5),Mid-range (300-700),28.47
+ZOM1197,The Curry House (Ady),Chennai,Adyar,North Indian,Bakery,Yes,No,4.1,4825,364,Dine-out,No,No,24,Very Good (4.0-4.5),Mid-range (300-700),34.78
+ZOM1198,Noodle Box (Pra),Ahmedabad,Prahlad Nagar,Mughlai,Fine Dining,No,Yes,3.9,2903,1631,Pubs and Bars,No,Yes,0,Good (3.5-4.0),Luxury (1500+),31.1
+ZOM1199,The Grill House (Kor),Pune,Koregaon Park,Continental,Fine Dining,Yes,Yes,5.0,605,3272,Delivery,No,No,61,Excellent (4.5+),Luxury (1500+),32.03
+ZOM1200,The Food Factory (Vel),Chennai,Velachery,Bengali,Dhaba,No,No,3.3,2141,725,Dine-out,No,Yes,0,Average (2.5-3.5),Premium (700-1500),25.31
+ZOM1201,Olive Garden (Ali),Kolkata,Alipore,Continental,Delivery Only,Yes,No,5.0,3767,621,Delivery,No,No,42,Excellent (4.5+),Mid-range (300-700),41.17
+ZOM1202,The Grand Kitchen (Ali),Kolkata,Alipore,Biryani,Fine Dining,Yes,Yes,2.6,4675,2748,Desserts,Yes,No,85,Average (2.5-3.5),Luxury (1500+),21.97
+ZOM1203,The Biryani Bowl (Hau),Delhi,Hauz Khas,Gujarati,Bakery,No,No,3.7,2002,303,Pubs and Bars,Yes,No,0,Good (3.5-4.0),Mid-range (300-700),28.13
+ZOM1204,The Sandwich Shop (SG ),Ahmedabad,SG Highway,Mughlai,Food Court,Yes,No,2.1,4023,778,Pubs and Bars,Yes,No,26,Poor (<2.5),Premium (700-1500),17.43
+ZOM1205,Desi Zaika (Hin),Pune,Hinjewadi,Gujarati,Delivery Only,Yes,No,4.7,1207,753,Delivery,No,No,83,Excellent (4.5+),Premium (700-1500),33.35
+ZOM1206,The Curry House (Man),Ahmedabad,Maninagar,Continental,Quick Bites,Yes,No,4.0,2040,306,Desserts,Yes,No,57,Good (3.5-4.0),Mid-range (300-700),30.48
+ZOM1207,The Kebab Studio (Vas),Ahmedabad,Vastrapur,South Indian,Fine Dining,Yes,Yes,4.8,1125,4568,Desserts,Yes,No,46,Excellent (4.5+),Luxury (1500+),33.73
+ZOM1208,Tikka Town (Beh),Kolkata,Behala,South Indian,Delivery Only,Yes,No,3.5,955,721,Dine-out,No,No,24,Average (2.5-3.5),Premium (700-1500),24.02
+ZOM1209,Flavors Restaurant (Ali),Kolkata,Alipore,Italian,Quick Bites,Yes,No,3.4,1870,267,Dine-out,No,Yes,57,Average (2.5-3.5),Budget (<300),25.62
+ZOM1210,Burger House (Ali),Kolkata,Alipore,Bengali,Bakery,Yes,No,4.6,4915,460,Pubs and Bars,Yes,Yes,48,Excellent (4.5+),Mid-range (300-700),39.1
+ZOM1211,Saffron Kitchen (Vel),Chennai,Velachery,Biryani,Food Court,No,No,3.4,2376,329,Desserts,No,Yes,0,Average (2.5-3.5),Mid-range (300-700),26.43
+ZOM1212,Burger House (Whi),Bangalore,Whitefield,Gujarati,Quick Bites,No,No,4.6,99,431,Pubs and Bars,No,No,0,Excellent (4.5+),Mid-range (300-700),21.18
+ZOM1213,The Sandwich Shop (Man),Jaipur,Mansarovar,Bengali,Fine Dining,Yes,Yes,5.0,1839,4854,Delivery,Yes,No,88,Excellent (4.5+),Luxury (1500+),37.59
+ZOM1214,Curry Leaf (T N),Chennai,T Nagar,Chinese,Bakery,Yes,No,3.6,4111,333,Dine-out,No,No,42,Good (3.5-4.0),Mid-range (300-700),29.96
+ZOM1215,Taste of India (Laj),Delhi,Lajpat Nagar,Italian,Delivery Only,Yes,No,3.9,819,545,Pubs and Bars,No,Yes,65,Good (3.5-4.0),Mid-range (300-700),26.17
+ZOM1216,The Food Factory (Man),Jaipur,Mansarovar,Chinese,Fine Dining,Yes,Yes,3.9,367,4505,Pubs and Bars,Yes,Yes,79,Good (3.5-4.0),Luxury (1500+),23.04
+ZOM1217,Olive Garden (Con),Delhi,Connaught Place,Gujarati,Delivery Only,Yes,No,2.9,2735,659,Pubs and Bars,No,Yes,87,Average (2.5-3.5),Mid-range (300-700),22.95
+ZOM1218,Olive Garden (CG ),Ahmedabad,CG Road,Thai,Delivery Only,Yes,No,3.3,2940,250,Desserts,Yes,No,48,Average (2.5-3.5),Budget (<300),26.36
+ZOM1219,The Food Factory (Vel),Chennai,Velachery,South Indian,Casual Dining,No,Yes,4.6,3538,1178,Desserts,Yes,No,0,Excellent (4.5+),Premium (700-1500),37.59
+ZOM1220,Chaat Corner (Gom),Lucknow,Gomti Nagar,Mughlai,Bakery,Yes,No,5.0,1797,630,Desserts,Yes,No,72,Excellent (4.5+),Mid-range (300-700),37.47
+ZOM1221,Desi Zaika (Jag),Jaipur,Jagatpura,South Indian,Bakery,No,No,4.1,206,635,Delivery,No,No,0,Very Good (4.0-4.5),Mid-range (300-700),21.86
+ZOM1222,Bombay Bites (Jub),Hyderabad,Jubilee Hills,South Indian,Casual Dining,No,Yes,3.1,4217,643,Desserts,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),25.88
+ZOM1223,Flavors Restaurant (Ali),Kolkata,Alipore,Biryani,Bakery,Yes,No,3.9,541,274,Desserts,No,No,57,Good (3.5-4.0),Budget (<300),24.55
+ZOM1224,Urban Bites (SG ),Ahmedabad,SG Highway,Mexican,Casual Dining,No,Yes,2.6,390,746,Dine-out,Yes,No,0,Average (2.5-3.5),Premium (700-1500),15.52
+ZOM1225,South Kitchen (And),Mumbai,Andheri,Fast Food,Food Court,No,No,1.8,3605,378,Dine-out,No,Yes,0,Poor (<2.5),Mid-range (300-700),14.74
+ZOM1226,Chaat Corner (Kar),Delhi,Karol Bagh,Chinese,Delivery Only,Yes,No,3.7,1210,700,Desserts,No,Yes,52,Good (3.5-4.0),Mid-range (300-700),26.27
+ZOM1227,The Biryani Bowl (Kor),Pune,Koregaon Park,Bengali,Cafe,Yes,No,2.8,4385,462,Delivery,No,No,41,Average (2.5-3.5),Mid-range (300-700),23.48
+ZOM1228,Taste of India (Mal),Jaipur,Malviya Nagar,Bengali,Quick Bites,Yes,No,3.5,2718,212,Desserts,No,No,80,Average (2.5-3.5),Budget (<300),27.68
+ZOM1229,South Kitchen (Mal),Jaipur,Malviya Nagar,Chinese,Cafe,No,No,2.9,4427,1389,Pubs and Bars,Yes,Yes,0,Average (2.5-3.5),Premium (700-1500),24.35
+ZOM1230,Idli House (Ban),Mumbai,Bandra,Biryani,Bakery,No,No,4.6,2267,517,Pubs and Bars,No,No,0,Excellent (4.5+),Mid-range (300-700),35.54
+ZOM1231,Curry Leaf (Ami),Lucknow,Aminabad,Chinese,Bakery,Yes,No,3.5,2084,484,Dine-out,No,No,68,Average (2.5-3.5),Mid-range (300-700),26.75
+ZOM1232,Food Junction (Ala),Lucknow,Alambagh,Thai,Food Court,Yes,No,4.5,4529,218,Desserts,Yes,No,37,Very Good (4.0-4.5),Budget (<300),37.88
+ZOM1233,Punjabi Tadka (Beh),Kolkata,Behala,South Indian,Dhaba,Yes,No,3.4,773,789,Delivery,No,No,66,Average (2.5-3.5),Premium (700-1500),22.62
+ZOM1234,Chaat Corner (Myl),Chennai,Mylapore,Bengali,Cafe,Yes,No,1.8,3062,513,Pubs and Bars,No,No,57,Poor (<2.5),Mid-range (300-700),14.45
+ZOM1235,Taste of India (Man),Jaipur,Mansarovar,Biryani,Dhaba,Yes,No,4.5,951,463,Delivery,No,Yes,48,Very Good (4.0-4.5),Mid-range (300-700),30.86
+ZOM1236,The Pizza Place (Ban),Hyderabad,Banjara Hills,Mexican,Bakery,Yes,No,3.6,4155,657,Desserts,No,No,53,Good (3.5-4.0),Mid-range (300-700),30.0
+ZOM1237,The Kebab Studio (Kot),Pune,Kothrud,Bengali,Food Court,Yes,No,4.1,3456,286,Dine-out,No,No,74,Very Good (4.0-4.5),Budget (<300),33.41
+ZOM1238,Saffron Kitchen (Mal),Jaipur,Malviya Nagar,Gujarati,Food Court,No,No,4.4,1828,512,Dine-out,Yes,No,0,Very Good (4.0-4.5),Mid-range (300-700),33.05
+ZOM1239,The Diner (Mal),Jaipur,Malviya Nagar,Thai,Bakery,Yes,No,4.6,2811,642,Pubs and Bars,No,No,73,Excellent (4.5+),Mid-range (300-700),36.53
+ZOM1240,Desi Zaika (Gac),Hyderabad,Gachibowli,Thai,Delivery Only,Yes,No,4.4,3315,463,Dine-out,No,No,53,Very Good (4.0-4.5),Mid-range (300-700),35.67
+ZOM1241,The Grill House (SG ),Ahmedabad,SG Highway,Mexican,Bakery,Yes,No,3.8,2148,287,Dine-out,Yes,No,51,Good (3.5-4.0),Budget (<300),29.16
+ZOM1242,Spice Garden (Hin),Pune,Hinjewadi,Chinese,Delivery Only,Yes,No,2.5,3196,206,Delivery,No,No,26,Poor (<2.5),Budget (<300),20.17
+ZOM1243,Flavors Restaurant (Myl),Chennai,Mylapore,Mexican,Cafe,Yes,No,3.1,2203,546,Pubs and Bars,No,No,38,Average (2.5-3.5),Mid-range (300-700),23.86
+ZOM1244,Desi Zaika (Kor),Bangalore,Koramangala,Bengali,Cafe,Yes,No,4.3,1313,1214,Pubs and Bars,Yes,No,88,Very Good (4.0-4.5),Premium (700-1500),30.88
+ZOM1245,Food Junction (And),Mumbai,Andheri,Continental,Bakery,No,No,3.6,3599,585,Delivery,No,No,0,Good (3.5-4.0),Mid-range (300-700),29.48
+ZOM1246,Olive Garden (Dad),Mumbai,Dadar,Chinese,Dhaba,No,No,2.6,4807,460,Desserts,No,No,0,Average (2.5-3.5),Mid-range (300-700),22.04
+ZOM1247,Curry Leaf (Ady),Chennai,Adyar,Fast Food,Casual Dining,Yes,Yes,4.1,809,1333,Dine-out,No,Yes,28,Very Good (4.0-4.5),Premium (700-1500),27.46
+ZOM1248,Dosa Point (HSR),Bangalore,HSR Layout,Chinese,Casual Dining,No,Yes,3.3,3582,1113,Dine-out,No,No,0,Average (2.5-3.5),Premium (700-1500),27.01
+ZOM1249,Curry Leaf (And),Mumbai,Andheri,Fast Food,Quick Bites,Yes,No,4.0,2684,208,Dine-out,No,No,33,Good (3.5-4.0),Budget (<300),31.58
+ZOM1250,Flavors Restaurant (Jay),Bangalore,Jayanagar,Mexican,Delivery Only,Yes,No,5.0,4621,558,Dine-out,Yes,No,41,Excellent (4.5+),Mid-range (300-700),42.19
+ZOM1251,Chaat Corner (Myl),Chennai,Mylapore,Chinese,Casual Dining,Yes,Yes,4.2,2546,403,Pubs and Bars,No,No,45,Very Good (4.0-4.5),Mid-range (300-700),32.94
+ZOM1252,Dosa Point (Jay),Bangalore,Jayanagar,Gujarati,Dhaba,No,No,3.9,446,274,Pubs and Bars,No,Yes,0,Good (3.5-4.0),Budget (<300),23.8
+ZOM1253,Taste of India (Cam),Pune,Camp,South Indian,Fine Dining,No,Yes,4.1,2180,3589,Dine-out,Yes,No,0,Very Good (4.0-4.5),Luxury (1500+),31.52
+ZOM1254,Masala Magic (Aun),Pune,Aundh,Mexican,Delivery Only,Yes,No,4.0,45,352,Pubs and Bars,No,Yes,46,Good (3.5-4.0),Mid-range (300-700),15.31
+ZOM1255,Spice Garden (Myl),Chennai,Mylapore,Mughlai,Cafe,Yes,No,2.5,650,1130,Desserts,No,No,59,Poor (<2.5),Premium (700-1500),16.2
+ZOM1256,Food Junction (Cam),Pune,Camp,Thai,Delivery Only,Yes,No,4.9,614,654,Dine-out,No,No,29,Excellent (4.5+),Mid-range (300-700),31.47
+ZOM1257,Burger House (Jub),Hyderabad,Jubilee Hills,Mexican,Fine Dining,Yes,Yes,4.4,1713,4972,Pubs and Bars,No,No,45,Very Good (4.0-4.5),Luxury (1500+),32.76
+ZOM1258,Saffron Kitchen (Sec),Hyderabad,Secunderabad,Bengali,Quick Bites,No,No,4.0,3033,213,Pubs and Bars,No,No,0,Good (3.5-4.0),Budget (<300),32.07
+ZOM1259,Dosa Point (Sak),Delhi,Saket,South Indian,Casual Dining,Yes,Yes,2.0,4230,1419,Dine-out,Yes,No,73,Poor (<2.5),Premium (700-1500),16.7
+ZOM1260,Food Junction (Civ),Jaipur,Civil Lines,South Indian,Cafe,No,No,3.5,1391,1075,Delivery,No,No,0,Average (2.5-3.5),Premium (700-1500),25.33
+ZOM1261,Burger House (Col),Mumbai,Colaba,Chinese,Dhaba,Yes,No,4.5,1141,386,Pubs and Bars,No,No,58,Very Good (4.0-4.5),Mid-range (300-700),31.68
+ZOM1262,Chaat Corner (Col),Mumbai,Colaba,Fast Food,Casual Dining,Yes,Yes,3.6,1255,1063,Delivery,No,No,41,Good (3.5-4.0),Premium (700-1500),25.69
+ZOM1263,Curry Leaf (Sak),Delhi,Saket,North Indian,Quick Bites,No,No,4.1,1790,185,Delivery,No,No,0,Very Good (4.0-4.5),Budget (<300),30.71
+ZOM1264,The Biryani Bowl (Ind),Bangalore,Indiranagar,Gujarati,Dhaba,No,No,4.1,755,690,Desserts,No,No,0,Very Good (4.0-4.5),Mid-range (300-700),27.17
+ZOM1265,Olive Garden (Dwa),Delhi,Dwarka,Gujarati,Fine Dining,Yes,No,2.6,3925,4505,Pubs and Bars,No,No,45,Average (2.5-3.5),Luxury (1500+),21.52
+ZOM1266,Burger House (Ban),Hyderabad,Banjara Hills,North Indian,Delivery Only,No,No,2.8,1529,416,Pubs and Bars,No,No,0,Average (2.5-3.5),Mid-range (300-700),20.53
+ZOM1267,The Curry House (Hit),Hyderabad,Hitech City,Mughlai,Fine Dining,Yes,Yes,2.8,65,2438,Delivery,Yes,No,61,Average (2.5-3.5),Luxury (1500+),11.73
+ZOM1268,Urban Bites (Haz),Lucknow,Hazratganj,Italian,Cafe,Yes,No,4.2,4125,507,Pubs and Bars,Yes,No,63,Very Good (4.0-4.5),Mid-range (300-700),34.97
+ZOM1269,Desi Zaika (Ali),Lucknow,Aliganj,Biryani,Casual Dining,Yes,Yes,3.3,1463,501,Dine-out,No,No,31,Average (2.5-3.5),Mid-range (300-700),24.05
+ZOM1270,Desi Zaika (Ban),Mumbai,Bandra,Thai,Delivery Only,Yes,No,4.4,2327,216,Pubs and Bars,No,No,76,Very Good (4.0-4.5),Budget (<300),34.11
+ZOM1271,The Pizza Place (Gac),Hyderabad,Gachibowli,Chinese,Cafe,Yes,No,3.3,3899,411,Dine-out,Yes,No,81,Average (2.5-3.5),Mid-range (300-700),27.29
+ZOM1272,The Biryani Bowl (Kot),Pune,Kothrud,Mexican,Casual Dining,No,Yes,4.0,3668,1060,Dine-out,No,No,0,Good (3.5-4.0),Premium (700-1500),32.83
+ZOM1273,The Food Factory (Aun),Pune,Aundh,Fast Food,Dhaba,No,No,4.1,3157,684,Dine-out,Yes,No,0,Very Good (4.0-4.5),Mid-range (300-700),33.04
+ZOM1274,The Pizza Place (HSR),Bangalore,HSR Layout,North Indian,Dhaba,Yes,No,3.7,2426,665,Desserts,Yes,No,31,Good (3.5-4.0),Mid-range (300-700),28.84
+ZOM1275,Curry Leaf (Gac),Hyderabad,Gachibowli,Gujarati,Quick Bites,No,No,3.7,3731,208,Dine-out,Yes,No,0,Good (3.5-4.0),Budget (<300),30.43
+ZOM1276,The Kebab Studio (Juh),Mumbai,Juhu,Continental,Casual Dining,Yes,No,3.8,3998,1177,Pubs and Bars,No,No,35,Good (3.5-4.0),Premium (700-1500),31.52
+ZOM1277,Curry Leaf (Vas),Ahmedabad,Vastrapur,Mughlai,Delivery Only,Yes,No,3.4,4811,600,Dine-out,Yes,Yes,42,Average (2.5-3.5),Mid-range (300-700),28.83
+ZOM1278,Green Leaf Cafe (Vas),Ahmedabad,Vastrapur,Biryani,Cafe,Yes,No,2.9,3162,1087,Pubs and Bars,No,No,78,Average (2.5-3.5),Premium (700-1500),23.37
+ZOM1279,Bombay Bites (Vim),Pune,Viman Nagar,Thai,Bakery,Yes,No,4.4,4827,676,Dine-out,No,No,58,Very Good (4.0-4.5),Mid-range (300-700),37.32
+ZOM1280,The Sandwich Shop (Nav),Ahmedabad,Navrangpura,Biryani,Food Court,Yes,No,4.4,3047,472,Dine-out,No,No,33,Very Good (4.0-4.5),Mid-range (300-700),35.3
+ZOM1281,Chaat Corner (Kor),Pune,Koregaon Park,Bengali,Cafe,Yes,No,3.3,1187,1394,Delivery,No,No,79,Average (2.5-3.5),Premium (700-1500),23.36
+ZOM1282,Desi Zaika (T N),Chennai,T Nagar,Italian,Bakery,No,No,3.0,135,382,Pubs and Bars,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),14.74
+ZOM1283,The Curry House (Man),Jaipur,Mansarovar,Gujarati,Bakery,No,No,4.6,4464,238,Desserts,No,No,0,Excellent (4.5+),Budget (<300),38.66
+ZOM1284,The Food Factory (Sal),Kolkata,Salt Lake,Chinese,Food Court,Yes,No,4.7,3964,596,Pubs and Bars,Yes,Yes,52,Excellent (4.5+),Mid-range (300-700),38.94
+ZOM1285,Dosa Point (And),Mumbai,Andheri,Continental,Fine Dining,Yes,No,3.8,4116,1992,Dine-out,Yes,No,61,Good (3.5-4.0),Luxury (1500+),31.63
+ZOM1286,South Kitchen (Civ),Jaipur,Civil Lines,Mughlai,Casual Dining,No,Yes,3.8,1136,1462,Delivery,Yes,No,0,Good (3.5-4.0),Premium (700-1500),26.74
+ZOM1287,The Grill House (And),Mumbai,Andheri,Thai,Delivery Only,Yes,No,4.4,818,228,Delivery,No,No,81,Very Good (4.0-4.5),Budget (<300),29.52
+ZOM1288,Desi Zaika (Kor),Bangalore,Koramangala,South Indian,Fine Dining,Yes,Yes,3.3,2037,2196,Dine-out,No,No,35,Average (2.5-3.5),Luxury (1500+),25.15
+ZOM1289,Burger House (Kor),Pune,Koregaon Park,Mughlai,Dhaba,Yes,No,2.0,3516,438,Dine-out,No,Yes,29,Poor (<2.5),Mid-range (300-700),16.33
+ZOM1290,Green Leaf Cafe (And),Mumbai,Andheri,Continental,Dhaba,No,No,3.9,925,776,Delivery,No,Yes,0,Good (3.5-4.0),Premium (700-1500),26.64
+ZOM1291,Olive Garden (Kor),Bangalore,Koramangala,Mexican,Dhaba,Yes,No,2.2,3765,202,Pubs and Bars,Yes,Yes,64,Poor (<2.5),Budget (<300),18.11
+ZOM1292,The Curry House (Jub),Hyderabad,Jubilee Hills,Biryani,Food Court,Yes,No,4.3,1170,345,Delivery,No,No,81,Very Good (4.0-4.5),Mid-range (300-700),30.38
+ZOM1293,The Food Factory (Jag),Jaipur,Jagatpura,Gujarati,Casual Dining,Yes,No,3.4,4393,831,Dine-out,No,No,84,Average (2.5-3.5),Premium (700-1500),28.52
+ZOM1294,Punjabi Tadka (Kor),Pune,Koregaon Park,Fast Food,Fine Dining,Yes,Yes,3.5,2637,2463,Desserts,No,No,31,Average (2.5-3.5),Luxury (1500+),27.57
+ZOM1295,Saffron Kitchen (Cam),Pune,Camp,Chinese,Quick Bites,Yes,No,3.1,2239,442,Delivery,Yes,No,80,Average (2.5-3.5),Mid-range (300-700),23.91
+ZOM1296,The Sandwich Shop (Ban),Hyderabad,Banjara Hills,Mughlai,Dhaba,Yes,No,3.6,4073,639,Delivery,No,No,82,Good (3.5-4.0),Mid-range (300-700),29.92
+ZOM1297,The Grill House (Pra),Ahmedabad,Prahlad Nagar,Italian,Bakery,No,No,3.1,3420,210,Desserts,Yes,No,0,Average (2.5-3.5),Budget (<300),25.23
+ZOM1298,Food Junction (Sak),Delhi,Saket,Fast Food,Cafe,Yes,No,3.6,1873,1284,Delivery,No,No,76,Good (3.5-4.0),Premium (700-1500),27.13
+ZOM1299,Chaat Corner (Cam),Pune,Camp,Gujarati,Fine Dining,No,Yes,3.2,2270,2436,Delivery,Yes,Yes,0,Average (2.5-3.5),Luxury (1500+),24.73
+ZOM1300,Royal Feast (Vel),Chennai,Velachery,Mughlai,Delivery Only,Yes,No,4.1,2805,720,Delivery,Yes,No,39,Very Good (4.0-4.5),Premium (700-1500),32.55
+ZOM1301,Royal Feast (Man),Ahmedabad,Maninagar,Thai,Dhaba,Yes,No,4.5,1918,772,Delivery,No,Yes,54,Very Good (4.0-4.5),Premium (700-1500),34.02
+ZOM1302,The Grand Kitchen (Ami),Lucknow,Aminabad,Mughlai,Dhaba,Yes,No,3.8,2742,202,Desserts,No,Yes,51,Good (3.5-4.0),Budget (<300),30.08
+ZOM1303,The Diner (Vai),Jaipur,Vaishali Nagar,Bengali,Fine Dining,No,No,3.7,4074,2280,Dine-out,No,No,0,Good (3.5-4.0),Luxury (1500+),30.76
+ZOM1304,The Pizza Place (Vas),Ahmedabad,Vastrapur,South Indian,Fine Dining,Yes,Yes,5.0,897,3433,Desserts,Yes,No,30,Excellent (4.5+),Luxury (1500+),34.0
+ZOM1305,South Kitchen (T N),Chennai,T Nagar,Biryani,Food Court,Yes,No,4.4,1645,522,Desserts,Yes,No,48,Very Good (4.0-4.5),Mid-range (300-700),32.59
+ZOM1306,Dosa Point (Ann),Chennai,Anna Nagar,Continental,Bakery,No,No,4.1,1223,460,Dine-out,No,No,0,Very Good (4.0-4.5),Mid-range (300-700),29.15
+ZOM1307,Bombay Bites (Cam),Pune,Camp,Bengali,Fine Dining,Yes,Yes,4.5,1423,2454,Dine-out,No,No,57,Very Good (4.0-4.5),Luxury (1500+),32.68
+ZOM1308,Chaat Corner (HSR),Bangalore,HSR Layout,Mughlai,Delivery Only,No,No,3.7,3977,236,Pubs and Bars,Yes,No,0,Good (3.5-4.0),Budget (<300),30.67
+ZOM1309,Royal Feast (Hin),Pune,Hinjewadi,Continental,Bakery,Yes,No,3.3,3392,792,Pubs and Bars,No,No,59,Average (2.5-3.5),Premium (700-1500),26.83
+ZOM1310,Food Junction (MI ),Jaipur,MI Road,Biryani,Food Court,Yes,No,5.0,1329,522,Desserts,No,Yes,75,Excellent (4.5+),Mid-range (300-700),35.96
+ZOM1311,Olive Garden (Cam),Pune,Camp,Mexican,Fine Dining,Yes,No,3.3,3116,3389,Dine-out,No,No,59,Average (2.5-3.5),Luxury (1500+),26.55
+ZOM1312,Punjabi Tadka (Kor),Pune,Koregaon Park,Mexican,Food Court,No,No,4.0,3935,415,Pubs and Bars,No,No,0,Good (3.5-4.0),Mid-range (300-700),33.11
+ZOM1313,Royal Feast (MI ),Jaipur,MI Road,Mughlai,Quick Bites,Yes,No,4.1,2388,317,Dine-out,Yes,Yes,78,Very Good (4.0-4.5),Mid-range (300-700),31.89
+ZOM1314,The Sandwich Shop (Ali),Lucknow,Aliganj,Gujarati,Dhaba,Yes,No,2.9,1709,369,Desserts,Yes,Yes,82,Average (2.5-3.5),Mid-range (300-700),21.59
+ZOM1315,Burger House (Laj),Delhi,Lajpat Nagar,Italian,Cafe,Yes,No,3.2,3743,821,Desserts,No,No,79,Average (2.5-3.5),Premium (700-1500),26.33
+ZOM1316,Bombay Bites (Par),Kolkata,Park Street,Mexican,Quick Bites,No,No,3.6,561,307,Delivery,Yes,No,0,Good (3.5-4.0),Mid-range (300-700),22.79
+ZOM1317,Idli House (New),Kolkata,New Town,Mughlai,Food Court,Yes,No,3.8,1579,281,Pubs and Bars,No,No,21,Good (3.5-4.0),Budget (<300),27.99
+ZOM1318,Masala Magic (Nav),Ahmedabad,Navrangpura,Mexican,Food Court,Yes,No,3.5,593,423,Dine-out,Yes,Yes,32,Average (2.5-3.5),Mid-range (300-700),22.35
+ZOM1319,The Diner (Juh),Mumbai,Juhu,Gujarati,Quick Bites,Yes,No,3.7,3122,304,Dine-out,No,No,36,Good (3.5-4.0),Mid-range (300-700),29.77
+ZOM1320,Burger House (Vai),Jaipur,Vaishali Nagar,Mughlai,Dhaba,Yes,No,4.2,4460,564,Desserts,No,No,54,Very Good (4.0-4.5),Mid-range (300-700),35.29
+ZOM1321,Green Leaf Cafe (MG ),Bangalore,MG Road,Gujarati,Dhaba,Yes,No,2.8,1012,525,Pubs and Bars,Yes,No,49,Average (2.5-3.5),Mid-range (300-700),19.38
+ZOM1322,Food Junction (Ind),Lucknow,Indira Nagar,Continental,Casual Dining,Yes,No,4.1,3531,971,Delivery,No,Yes,56,Very Good (4.0-4.5),Premium (700-1500),33.5
+ZOM1323,Flavors Restaurant (Vai),Jaipur,Vaishali Nagar,Mughlai,Bakery,No,No,3.7,282,395,Delivery,No,No,0,Good (3.5-4.0),Mid-range (300-700),20.89
+ZOM1324,South Kitchen (Man),Jaipur,Mansarovar,Mughlai,Dhaba,No,No,4.0,1892,600,Pubs and Bars,Yes,No,0,Good (3.5-4.0),Mid-range (300-700),30.18
+ZOM1325,Dosa Point (Bal),Kolkata,Ballygunge,Bengali,Fine Dining,Yes,Yes,3.3,890,4252,Pubs and Bars,Yes,No,41,Average (2.5-3.5),Luxury (1500+),22.41
+ZOM1326,Royal Feast (Par),Kolkata,Park Street,Italian,Delivery Only,Yes,No,5.0,4574,580,Dine-out,No,No,26,Excellent (4.5+),Mid-range (300-700),42.14
+ZOM1327,Punjabi Tadka (Civ),Jaipur,Civil Lines,Continental,Fine Dining,No,Yes,3.2,33,2406,Desserts,No,No,0,Average (2.5-3.5),Luxury (1500+),11.28
+ZOM1328,Taste of India (Vai),Jaipur,Vaishali Nagar,Mexican,Delivery Only,Yes,No,3.6,3109,658,Dine-out,No,Yes,77,Good (3.5-4.0),Mid-range (300-700),28.95
+ZOM1329,Flavors Restaurant (Par),Kolkata,Park Street,Mexican,Fine Dining,No,Yes,2.3,3614,2953,Pubs and Bars,No,No,0,Poor (<2.5),Luxury (1500+),18.84
+ZOM1330,Food Junction (Cam),Pune,Camp,Mexican,Dhaba,No,No,2.8,4838,356,Desserts,Yes,Yes,0,Average (2.5-3.5),Mid-range (300-700),23.76
+ZOM1331,Spice Garden (Haz),Lucknow,Hazratganj,Italian,Delivery Only,Yes,No,3.6,1103,329,Dine-out,No,No,66,Good (3.5-4.0),Mid-range (300-700),25.22
+ZOM1332,The Grill House (HSR),Bangalore,HSR Layout,Bengali,Food Court,Yes,No,2.8,3160,581,Pubs and Bars,Yes,No,75,Average (2.5-3.5),Mid-range (300-700),22.56
+ZOM1333,The Sandwich Shop (Mal),Jaipur,Malviya Nagar,Thai,Casual Dining,No,Yes,4.3,993,420,Desserts,Yes,No,0,Very Good (4.0-4.5),Mid-range (300-700),29.68
+ZOM1334,The Biryani Bowl (Ann),Chennai,Anna Nagar,Mexican,Delivery Only,Yes,No,2.8,4969,652,Desserts,Yes,No,22,Average (2.5-3.5),Mid-range (300-700),23.83
+ZOM1335,The Kebab Studio (Sec),Hyderabad,Secunderabad,Bengali,Bakery,No,No,4.9,4670,726,Dine-out,No,No,0,Excellent (4.5+),Premium (700-1500),41.4
+ZOM1336,The Grill House (Jub),Hyderabad,Jubilee Hills,North Indian,Bakery,Yes,No,2.8,3238,470,Pubs and Bars,No,No,46,Average (2.5-3.5),Mid-range (300-700),22.63
+ZOM1337,Punjabi Tadka (Beh),Kolkata,Behala,Fast Food,Delivery Only,Yes,No,4.7,1612,259,Pubs and Bars,No,Yes,65,Excellent (4.5+),Budget (<300),34.71
+ZOM1338,The Kebab Studio (HSR),Bangalore,HSR Layout,North Indian,Delivery Only,Yes,No,3.9,989,790,Dine-out,Yes,No,46,Good (3.5-4.0),Premium (700-1500),26.9
+ZOM1339,Noodle Box (Sal),Kolkata,Salt Lake,Gujarati,Dhaba,Yes,No,4.0,3638,398,Pubs and Bars,No,No,22,Good (3.5-4.0),Mid-range (300-700),32.8
+ZOM1340,Olive Garden (Vim),Pune,Viman Nagar,Mexican,Quick Bites,Yes,No,3.8,4449,195,Desserts,No,No,34,Good (3.5-4.0),Budget (<300),31.92
+ZOM1341,Punjabi Tadka (Bal),Kolkata,Ballygunge,Mexican,Bakery,Yes,No,4.2,3229,405,Delivery,No,No,36,Very Good (4.0-4.5),Mid-range (300-700),33.94
+ZOM1342,Flavors Restaurant (Par),Kolkata,Park Street,Thai,Dhaba,No,No,3.2,3970,700,Dine-out,No,No,0,Average (2.5-3.5),Mid-range (300-700),26.52
+ZOM1343,Punjabi Tadka (New),Kolkata,New Town,Mughlai,Fine Dining,No,Yes,5.0,121,3933,Delivery,Yes,Yes,0,Excellent (4.5+),Luxury (1500+),24.02
+ZOM1344,Burger House (Nav),Ahmedabad,Navrangpura,South Indian,Fine Dining,No,No,3.4,588,1571,Desserts,Yes,No,0,Average (2.5-3.5),Luxury (1500+),21.69
+ZOM1345,Olive Garden (T N),Chennai,T Nagar,Fast Food,Quick Bites,Yes,No,2.4,3865,423,Dine-out,Yes,No,83,Poor (<2.5),Mid-range (300-700),19.82
+ZOM1346,Chaat Corner (Kor),Bangalore,Koramangala,Continental,Delivery Only,Yes,No,5.0,4438,743,Desserts,No,Yes,30,Excellent (4.5+),Premium (700-1500),41.99
+ZOM1347,Urban Bites (Con),Delhi,Connaught Place,Italian,Food Court,Yes,No,3.4,733,301,Pubs and Bars,Yes,No,60,Average (2.5-3.5),Mid-range (300-700),22.43
+ZOM1348,Dosa Point (And),Mumbai,Andheri,Biryani,Bakery,Yes,No,3.0,783,600,Desserts,No,No,65,Average (2.5-3.5),Mid-range (300-700),19.99
+ZOM1349,Urban Bites (Nav),Ahmedabad,Navrangpura,Italian,Dhaba,Yes,No,3.7,596,509,Delivery,No,No,39,Good (3.5-4.0),Mid-range (300-700),23.65
+ZOM1350,Olive Garden (T N),Chennai,T Nagar,Continental,Fine Dining,Yes,No,3.5,2725,3543,Pubs and Bars,Yes,No,21,Average (2.5-3.5),Luxury (1500+),27.69
+ZOM1351,Olive Garden (SG ),Ahmedabad,SG Highway,Biryani,Cafe,Yes,No,3.7,2853,988,Desserts,No,No,45,Good (3.5-4.0),Premium (700-1500),29.44
+ZOM1352,The Sandwich Shop (Ban),Hyderabad,Banjara Hills,South Indian,Fine Dining,Yes,Yes,4.1,922,1642,Desserts,No,No,63,Very Good (4.0-4.5),Luxury (1500+),27.99
+ZOM1353,Olive Garden (Sal),Kolkata,Salt Lake,Italian,Delivery Only,Yes,No,3.0,1900,516,Dine-out,No,No,86,Average (2.5-3.5),Mid-range (300-700),22.65
+ZOM1354,Saffron Kitchen (Pow),Mumbai,Powai,Fast Food,Cafe,Yes,No,3.7,639,1115,Desserts,No,Yes,27,Good (3.5-4.0),Premium (700-1500),23.91
+ZOM1355,Desi Zaika (Hit),Hyderabad,Hitech City,Continental,Quick Bites,No,No,3.2,3916,327,Pubs and Bars,Yes,Yes,0,Average (2.5-3.5),Mid-range (300-700),26.47
+ZOM1356,The Kebab Studio (New),Kolkata,New Town,Chinese,Dhaba,No,No,4.1,3394,582,Dine-out,No,No,0,Very Good (4.0-4.5),Mid-range (300-700),33.33
+ZOM1357,The Grand Kitchen (Nav),Ahmedabad,Navrangpura,North Indian,Quick Bites,Yes,No,4.6,2059,233,Dine-out,Yes,Yes,23,Excellent (4.5+),Budget (<300),35.1
+ZOM1358,The Pizza Place (Kot),Pune,Kothrud,Fast Food,Dhaba,No,No,3.6,3466,714,Delivery,No,No,0,Good (3.5-4.0),Premium (700-1500),29.34
+ZOM1359,Saffron Kitchen (Ann),Chennai,Anna Nagar,Fast Food,Quick Bites,Yes,No,4.6,4909,337,Dine-out,No,No,33,Excellent (4.5+),Mid-range (300-700),39.1
+ZOM1360,Bombay Bites (Kot),Pune,Kothrud,Gujarati,Quick Bites,No,No,3.5,2139,392,Dine-out,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),26.84
+ZOM1361,South Kitchen (Kar),Delhi,Karol Bagh,South Indian,Food Court,Yes,No,5.0,2174,346,Dine-out,No,No,74,Excellent (4.5+),Mid-range (300-700),38.42
+ZOM1362,Food Junction (Con),Delhi,Connaught Place,Biryani,Fine Dining,Yes,No,3.0,754,3856,Dine-out,No,No,74,Average (2.5-3.5),Luxury (1500+),19.88
+ZOM1363,Chaat Corner (Whi),Bangalore,Whitefield,Chinese,Delivery Only,Yes,No,3.3,2340,506,Delivery,No,No,63,Average (2.5-3.5),Mid-range (300-700),25.6
+ZOM1364,Food Junction (Nun),Chennai,Nungambakkam,South Indian,Delivery Only,Yes,No,4.1,3670,258,Desserts,No,No,22,Very Good (4.0-4.5),Budget (<300),33.65
+ZOM1365,The Biryani Bowl (Col),Mumbai,Colaba,Bengali,Fine Dining,Yes,No,2.3,2976,3237,Delivery,No,Yes,54,Poor (<2.5),Luxury (1500+),18.4
+ZOM1366,Spice Garden (Sec),Hyderabad,Secunderabad,Thai,Casual Dining,Yes,No,3.5,4545,1261,Desserts,No,No,50,Average (2.5-3.5),Premium (700-1500),29.48
+ZOM1367,Desi Zaika (Ind),Bangalore,Indiranagar,North Indian,Dhaba,Yes,No,2.5,1982,223,Dine-out,No,No,39,Poor (<2.5),Budget (<300),18.98
+ZOM1368,Royal Feast (Ann),Chennai,Anna Nagar,Bengali,Bakery,Yes,No,4.3,4616,351,Dine-out,Yes,Yes,69,Very Good (4.0-4.5),Mid-range (300-700),36.28
+ZOM1369,The Sandwich Shop (Kor),Pune,Koregaon Park,Mexican,Delivery Only,Yes,No,4.2,1717,619,Dine-out,Yes,No,85,Very Good (4.0-4.5),Mid-range (300-700),31.29
+ZOM1370,Punjabi Tadka (Juh),Mumbai,Juhu,Italian,Delivery Only,Yes,No,3.6,2387,570,Pubs and Bars,Yes,No,77,Good (3.5-4.0),Mid-range (300-700),28.0
+ZOM1371,Chaat Corner (Ali),Kolkata,Alipore,Mexican,Cafe,Yes,No,4.3,1274,1036,Dine-out,Yes,No,31,Very Good (4.0-4.5),Premium (700-1500),30.75
+ZOM1372,Olive Garden (Ban),Mumbai,Bandra,Thai,Bakery,Yes,No,4.7,3719,719,Dine-out,Yes,No,61,Excellent (4.5+),Premium (700-1500),38.64
+ZOM1373,The Pizza Place (Ann),Chennai,Anna Nagar,Italian,Cafe,No,No,4.7,944,925,Delivery,Yes,No,0,Excellent (4.5+),Premium (700-1500),32.2
+ZOM1374,Food Junction (Con),Delhi,Connaught Place,Italian,Dhaba,Yes,No,3.9,6,752,Desserts,No,Yes,81,Good (3.5-4.0),Premium (700-1500),7.59
+ZOM1375,Olive Garden (Haz),Lucknow,Hazratganj,Thai,Fine Dining,No,No,3.5,1530,3351,Pubs and Bars,Yes,No,0,Average (2.5-3.5),Luxury (1500+),25.67
+ZOM1376,The Kebab Studio (Ind),Bangalore,Indiranagar,Fast Food,Delivery Only,Yes,No,4.2,4481,283,Desserts,No,No,21,Very Good (4.0-4.5),Budget (<300),35.31
+ZOM1377,Urban Bites (Bal),Kolkata,Ballygunge,Fast Food,Cafe,Yes,No,1.7,3819,1237,Dine-out,No,Yes,36,Poor (<2.5),Premium (700-1500),14.02
+ZOM1378,Burger House (Kor),Bangalore,Koramangala,Chinese,Food Court,Yes,No,3.1,2943,362,Desserts,Yes,No,24,Average (2.5-3.5),Mid-range (300-700),24.76
+ZOM1379,The Curry House (Hit),Hyderabad,Hitech City,Fast Food,Food Court,Yes,No,2.6,2051,648,Delivery,Yes,No,59,Average (2.5-3.5),Mid-range (300-700),19.83
+ZOM1380,Taste of India (Haz),Lucknow,Hazratganj,Italian,Bakery,Yes,No,2.6,4560,469,Dine-out,No,No,29,Average (2.5-3.5),Mid-range (300-700),21.91
+ZOM1381,The Curry House (MI ),Jaipur,MI Road,Gujarati,Delivery Only,Yes,No,3.5,2896,560,Delivery,No,No,20,Average (2.5-3.5),Mid-range (300-700),27.9
+ZOM1382,Royal Feast (Man),Jaipur,Mansarovar,Thai,Cafe,No,No,3.5,2365,1086,Delivery,Yes,Yes,0,Average (2.5-3.5),Premium (700-1500),27.19
+ZOM1383,Flavors Restaurant (And),Mumbai,Andheri,Italian,Fine Dining,No,Yes,3.5,2217,3852,Delivery,No,No,0,Average (2.5-3.5),Luxury (1500+),26.97
+ZOM1384,Tikka Town (Con),Delhi,Connaught Place,South Indian,Cafe,No,No,3.4,3573,1019,Dine-out,Yes,No,0,Average (2.5-3.5),Premium (700-1500),27.82
+ZOM1385,The Food Factory (Con),Delhi,Connaught Place,Mexican,Casual Dining,No,Yes,5.0,1279,1356,Desserts,No,Yes,0,Excellent (4.5+),Premium (700-1500),35.77
+ZOM1386,The Biryani Bowl (Cam),Pune,Camp,Continental,Fine Dining,Yes,Yes,3.6,1944,4058,Dine-out,No,No,56,Good (3.5-4.0),Luxury (1500+),27.26
+ZOM1387,Olive Garden (Kor),Bangalore,Koramangala,Bengali,Cafe,Yes,No,3.7,1048,681,Desserts,No,No,48,Good (3.5-4.0),Mid-range (300-700),25.74
+ZOM1388,Taste of India (And),Mumbai,Andheri,Fast Food,Dhaba,No,No,4.2,1063,360,Dine-out,No,No,0,Very Good (4.0-4.5),Mid-range (300-700),29.27
+ZOM1389,Noodle Box (MI ),Jaipur,MI Road,Continental,Bakery,No,No,3.6,1013,405,Dine-out,No,No,0,Good (3.5-4.0),Mid-range (300-700),24.92
+ZOM1390,Masala Magic (Hin),Pune,Hinjewadi,Chinese,Casual Dining,Yes,No,3.8,1040,1462,Dine-out,Yes,No,75,Good (3.5-4.0),Premium (700-1500),26.4
+ZOM1391,The Food Factory (Mal),Jaipur,Malviya Nagar,Bengali,Cafe,Yes,No,4.0,3254,1318,Dine-out,No,No,63,Good (3.5-4.0),Premium (700-1500),32.35
+ZOM1392,The Sandwich Shop (Nun),Chennai,Nungambakkam,Biryani,Casual Dining,Yes,Yes,3.2,3928,528,Desserts,No,No,27,Average (2.5-3.5),Mid-range (300-700),26.48
+ZOM1393,Idli House (Ind),Bangalore,Indiranagar,Bengali,Bakery,Yes,No,4.1,4617,694,Pubs and Bars,Yes,No,66,Very Good (4.0-4.5),Mid-range (300-700),34.59
+ZOM1394,Dosa Point (Ami),Lucknow,Aminabad,Chinese,Cafe,No,No,3.6,3878,702,Pubs and Bars,No,No,0,Good (3.5-4.0),Premium (700-1500),29.75
+ZOM1395,Desi Zaika (Nav),Ahmedabad,Navrangpura,South Indian,Casual Dining,Yes,No,3.7,3957,987,Desserts,Yes,No,65,Good (3.5-4.0),Premium (700-1500),30.65
+ZOM1396,Food Junction (Gom),Lucknow,Gomti Nagar,Chinese,Bakery,Yes,No,4.1,3077,252,Dine-out,Yes,Yes,67,Very Good (4.0-4.5),Budget (<300),32.93
+ZOM1397,The Sandwich Shop (Jay),Bangalore,Jayanagar,Biryani,Fine Dining,Yes,Yes,2.9,2413,4791,Dine-out,Yes,No,85,Average (2.5-3.5),Luxury (1500+),22.59
+ZOM1398,Bombay Bites (Kot),Pune,Kothrud,South Indian,Bakery,Yes,No,4.4,708,784,Dine-out,Yes,No,50,Very Good (4.0-4.5),Premium (700-1500),28.88
+ZOM1399,Food Junction (CG ),Ahmedabad,CG Road,Mughlai,Fine Dining,Yes,No,3.5,493,4518,Pubs and Bars,Yes,No,87,Average (2.5-3.5),Luxury (1500+),21.71
+ZOM1400,Taste of India (Myl),Chennai,Mylapore,Biryani,Delivery Only,Yes,No,2.5,3686,218,Delivery,No,No,89,Poor (<2.5),Budget (<300),20.53
+ZOM1401,Curry Leaf (Haz),Lucknow,Hazratganj,Chinese,Bakery,Yes,No,3.0,3558,793,Pubs and Bars,Yes,No,32,Average (2.5-3.5),Premium (700-1500),24.53
+ZOM1402,Desi Zaika (Whi),Bangalore,Whitefield,Biryani,Quick Bites,Yes,No,4.3,1005,278,Dine-out,Yes,Yes,73,Very Good (4.0-4.5),Budget (<300),29.73
+ZOM1403,Flavors Restaurant (Bal),Kolkata,Ballygunge,North Indian,Delivery Only,Yes,No,3.4,459,264,Delivery,No,No,34,Average (2.5-3.5),Budget (<300),20.85
+ZOM1404,Green Leaf Cafe (Dwa),Delhi,Dwarka,North Indian,Casual Dining,No,Yes,4.3,921,704,Dine-out,No,No,0,Very Good (4.0-4.5),Premium (700-1500),29.35
+ZOM1405,Royal Feast (Hin),Pune,Hinjewadi,Thai,Dhaba,No,No,2.2,740,696,Pubs and Bars,No,No,0,Poor (<2.5),Mid-range (300-700),14.54
+ZOM1406,Bombay Bites (HSR),Bangalore,HSR Layout,South Indian,Casual Dining,Yes,Yes,4.8,3343,1241,Delivery,Yes,No,85,Excellent (4.5+),Premium (700-1500),38.95
+ZOM1407,The Grill House (HSR),Bangalore,HSR Layout,Chinese,Quick Bites,Yes,No,4.4,2994,414,Dine-out,No,No,22,Very Good (4.0-4.5),Mid-range (300-700),35.22
+ZOM1408,South Kitchen (Col),Mumbai,Colaba,Gujarati,Fine Dining,No,No,2.6,3870,3263,Delivery,No,No,0,Average (2.5-3.5),Luxury (1500+),21.48
+ZOM1409,The Diner (Hit),Hyderabad,Hitech City,Biryani,Delivery Only,Yes,No,3.8,2835,242,Dine-out,Yes,Yes,67,Good (3.5-4.0),Budget (<300),30.21
+ZOM1410,Taste of India (Col),Mumbai,Colaba,Bengali,Food Court,Yes,No,4.1,2395,626,Dine-out,Yes,No,40,Very Good (4.0-4.5),Mid-range (300-700),31.9
+ZOM1411,Flavors Restaurant (Laj),Delhi,Lajpat Nagar,Gujarati,Food Court,Yes,No,4.3,411,535,Delivery,Yes,No,66,Very Good (4.0-4.5),Mid-range (300-700),25.89
+ZOM1412,Bombay Bites (Ann),Chennai,Anna Nagar,Mexican,Quick Bites,No,No,3.5,3193,352,Desserts,No,No,0,Average (2.5-3.5),Mid-range (300-700),28.24
+ZOM1413,The Food Factory (Dwa),Delhi,Dwarka,Thai,Dhaba,Yes,No,4.0,4151,523,Desserts,No,No,40,Good (3.5-4.0),Mid-range (300-700),33.33
+ZOM1414,Burger House (Nav),Ahmedabad,Navrangpura,Fast Food,Food Court,Yes,No,3.2,145,572,Dine-out,No,Yes,71,Average (2.5-3.5),Mid-range (300-700),15.95
+ZOM1415,Urban Bites (MG ),Bangalore,MG Road,Gujarati,Quick Bites,Yes,No,3.5,2546,176,Pubs and Bars,No,No,48,Average (2.5-3.5),Budget (<300),27.45
+ZOM1416,The Grill House (MI ),Jaipur,MI Road,Continental,Dhaba,No,No,4.8,110,788,Pubs and Bars,Yes,No,0,Excellent (4.5+),Premium (700-1500),22.61
+ZOM1417,Saffron Kitchen (Ann),Chennai,Anna Nagar,Continental,Casual Dining,Yes,No,4.2,2142,749,Desserts,Yes,No,26,Very Good (4.0-4.5),Premium (700-1500),32.21
+ZOM1418,The Pizza Place (Jub),Hyderabad,Jubilee Hills,Chinese,Casual Dining,Yes,Yes,3.8,3184,1358,Desserts,Yes,No,75,Good (3.5-4.0),Premium (700-1500),30.65
+ZOM1419,Urban Bites (Ala),Lucknow,Alambagh,Mughlai,Quick Bites,No,No,2.8,449,447,Pubs and Bars,No,No,0,Average (2.5-3.5),Mid-range (300-700),17.11
+ZOM1420,Idli House (Nun),Chennai,Nungambakkam,Mexican,Casual Dining,No,No,3.1,40,958,Dine-out,Yes,Yes,0,Average (2.5-3.5),Premium (700-1500),11.51
+ZOM1421,The Kebab Studio (Sak),Delhi,Saket,South Indian,Delivery Only,Yes,No,3.6,2943,340,Desserts,No,No,41,Good (3.5-4.0),Mid-range (300-700),28.76
+ZOM1422,Spice Garden (Man),Ahmedabad,Maninagar,Bengali,Food Court,Yes,No,3.5,1305,720,Dine-out,No,No,34,Average (2.5-3.5),Premium (700-1500),25.11
+ZOM1423,Spice Garden (Ami),Lucknow,Aminabad,Gujarati,Dhaba,No,No,4.0,14,577,Dine-out,No,No,0,Good (3.5-4.0),Mid-range (300-700),10.83
+ZOM1424,Tikka Town (Pow),Mumbai,Powai,Mexican,Delivery Only,Yes,No,3.8,1665,248,Delivery,No,No,45,Good (3.5-4.0),Budget (<300),28.19
+ZOM1425,The Kebab Studio (Ady),Chennai,Adyar,Mexican,Quick Bites,Yes,No,3.9,4959,442,Dine-out,No,No,87,Good (3.5-4.0),Mid-range (300-700),33.19
+ZOM1426,South Kitchen (New),Kolkata,New Town,Biryani,Dhaba,Yes,No,4.2,4150,366,Dine-out,No,No,37,Very Good (4.0-4.5),Mid-range (300-700),34.99
+ZOM1427,Dosa Point (Cam),Pune,Camp,Mexican,Bakery,Yes,No,4.0,3045,638,Pubs and Bars,Yes,Yes,88,Good (3.5-4.0),Mid-range (300-700),32.09
+ZOM1428,Taste of India (Myl),Chennai,Mylapore,Thai,Dhaba,Yes,No,4.1,1589,631,Dine-out,Yes,No,56,Very Good (4.0-4.5),Mid-range (300-700),30.22
+ZOM1429,Spice Garden (Ban),Mumbai,Bandra,North Indian,Food Court,Yes,No,4.0,2471,654,Dine-out,No,No,51,Good (3.5-4.0),Mid-range (300-700),31.25
+ZOM1430,The Diner (Man),Ahmedabad,Maninagar,Continental,Quick Bites,Yes,No,3.3,1551,403,Dine-out,No,No,44,Average (2.5-3.5),Mid-range (300-700),24.25
+ZOM1431,Punjabi Tadka (Ind),Lucknow,Indira Nagar,Chinese,Food Court,Yes,No,2.7,774,519,Dine-out,Yes,No,54,Average (2.5-3.5),Mid-range (300-700),17.96
+ZOM1432,Spice Garden (Laj),Delhi,Lajpat Nagar,North Indian,Dhaba,Yes,No,3.1,4363,573,Pubs and Bars,Yes,No,58,Average (2.5-3.5),Mid-range (300-700),25.98
+ZOM1433,Olive Garden (Sec),Hyderabad,Secunderabad,Italian,Delivery Only,No,No,4.8,4013,658,Pubs and Bars,Yes,Yes,0,Excellent (4.5+),Mid-range (300-700),39.83
+ZOM1434,South Kitchen (Vas),Ahmedabad,Vastrapur,Gujarati,Fine Dining,Yes,No,4.1,3356,2690,Pubs and Bars,No,No,55,Very Good (4.0-4.5),Luxury (1500+),33.29
+ZOM1435,The Curry House (Vim),Pune,Viman Nagar,Mughlai,Food Court,Yes,No,4.8,4844,552,Desserts,No,No,55,Excellent (4.5+),Mid-range (300-700),40.73
+ZOM1436,The Grill House (Haz),Lucknow,Hazratganj,North Indian,Bakery,Yes,No,2.9,77,624,Dine-out,No,Yes,87,Average (2.5-3.5),Mid-range (300-700),12.63
+ZOM1437,Olive Garden (Nav),Ahmedabad,Navrangpura,Mughlai,Delivery Only,Yes,No,3.2,1809,760,Dine-out,No,No,79,Average (2.5-3.5),Premium (700-1500),24.0
+ZOM1438,Tikka Town (Jub),Hyderabad,Jubilee Hills,Thai,Cafe,Yes,No,3.3,3718,559,Pubs and Bars,No,No,40,Average (2.5-3.5),Mid-range (300-700),27.13
+ZOM1439,Bombay Bites (MG ),Bangalore,MG Road,North Indian,Food Court,Yes,No,3.8,2828,429,Desserts,No,No,69,Good (3.5-4.0),Mid-range (300-700),30.2
+ZOM1440,Masala Magic (Dad),Mumbai,Dadar,Biryani,Cafe,Yes,No,2.3,71,741,Pubs and Bars,No,No,89,Poor (<2.5),Premium (700-1500),9.84
+ZOM1441,Dosa Point (Ali),Kolkata,Alipore,Fast Food,Fine Dining,Yes,No,4.0,2779,2695,Desserts,Yes,No,21,Good (3.5-4.0),Luxury (1500+),31.72
+ZOM1442,Olive Garden (Vai),Jaipur,Vaishali Nagar,Gujarati,Bakery,Yes,No,4.9,2666,315,Dine-out,No,No,27,Excellent (4.5+),Mid-range (300-700),38.65
+ZOM1443,The Curry House (Vel),Chennai,Velachery,Mughlai,Bakery,Yes,No,4.0,666,641,Desserts,Yes,No,55,Good (3.5-4.0),Mid-range (300-700),26.01
+ZOM1444,Noodle Box (Pow),Mumbai,Powai,Bengali,Quick Bites,Yes,No,4.6,1873,460,Pubs and Bars,Yes,No,81,Excellent (4.5+),Mid-range (300-700),34.66
+ZOM1445,The Kebab Studio (Mal),Jaipur,Malviya Nagar,Continental,Casual Dining,Yes,No,4.2,637,454,Dine-out,No,No,35,Very Good (4.0-4.5),Mid-range (300-700),27.13
+ZOM1446,The Kebab Studio (Ind),Lucknow,Indira Nagar,Chinese,Bakery,Yes,No,4.6,3088,714,Delivery,No,No,35,Excellent (4.5+),Premium (700-1500),36.96
+ZOM1447,The Grand Kitchen (Whi),Bangalore,Whitefield,Gujarati,Casual Dining,No,No,2.8,241,747,Dine-out,No,No,0,Average (2.5-3.5),Premium (700-1500),15.37
+ZOM1448,Olive Garden (Nav),Ahmedabad,Navrangpura,Chinese,Dhaba,No,No,4.5,4730,348,Desserts,No,No,0,Very Good (4.0-4.5),Mid-range (300-700),38.08
+ZOM1449,Chaat Corner (Kor),Pune,Koregaon Park,North Indian,Cafe,Yes,No,3.8,4042,805,Delivery,No,No,51,Good (3.5-4.0),Premium (700-1500),31.56
+ZOM1450,Desi Zaika (Pow),Mumbai,Powai,North Indian,Cafe,Yes,No,4.1,1017,1137,Dine-out,Yes,Yes,33,Very Good (4.0-4.5),Premium (700-1500),28.39
+ZOM1451,The Food Factory (Kot),Pune,Kothrud,Bengali,Delivery Only,Yes,No,4.1,4581,313,Delivery,No,No,85,Very Good (4.0-4.5),Mid-range (300-700),34.56
+ZOM1452,The Pizza Place (CG ),Ahmedabad,CG Road,Thai,Bakery,Yes,No,2.4,2413,379,Dine-out,No,No,81,Poor (<2.5),Mid-range (300-700),18.69
+ZOM1453,Desi Zaika (Jub),Hyderabad,Jubilee Hills,Continental,Casual Dining,Yes,Yes,4.1,1694,710,Dine-out,Yes,Yes,25,Very Good (4.0-4.5),Premium (700-1500),30.49
+ZOM1454,The Biryani Bowl (Ami),Lucknow,Aminabad,Chinese,Quick Bites,Yes,No,4.0,1447,465,Desserts,No,No,31,Good (3.5-4.0),Mid-range (300-700),29.11
+ZOM1455,The Diner (Jag),Jaipur,Jagatpura,North Indian,Casual Dining,Yes,Yes,4.7,565,441,Delivery,Yes,Yes,57,Excellent (4.5+),Mid-range (300-700),29.79
+ZOM1456,The Grill House (Vim),Pune,Viman Nagar,Continental,Quick Bites,Yes,No,4.7,598,307,Desserts,No,No,25,Excellent (4.5+),Mid-range (300-700),30.06
+ZOM1457,Bombay Bites (Sec),Hyderabad,Secunderabad,Gujarati,Casual Dining,No,Yes,4.5,3143,1430,Pubs and Bars,No,No,0,Very Good (4.0-4.5),Premium (700-1500),36.24
+ZOM1458,Bombay Bites (Kor),Pune,Koregaon Park,Thai,Quick Bites,Yes,No,3.4,77,355,Delivery,No,No,39,Average (2.5-3.5),Mid-range (300-700),14.81
+ZOM1459,The Biryani Bowl (Gom),Lucknow,Gomti Nagar,Fast Food,Cafe,No,No,3.3,4366,1192,Dine-out,Yes,Yes,0,Average (2.5-3.5),Premium (700-1500),27.66
+ZOM1460,Masala Magic (Civ),Jaipur,Civil Lines,Italian,Food Court,Yes,No,3.0,4264,535,Delivery,Yes,Yes,73,Average (2.5-3.5),Mid-range (300-700),25.07
+ZOM1461,Taste of India (Sak),Delhi,Saket,Gujarati,Food Court,Yes,No,3.9,242,580,Pubs and Bars,Yes,Yes,71,Good (3.5-4.0),Mid-range (300-700),21.42
+ZOM1462,Bombay Bites (Myl),Chennai,Mylapore,Italian,Food Court,Yes,No,3.1,2951,736,Desserts,Yes,Yes,87,Average (2.5-3.5),Premium (700-1500),24.77
+ZOM1463,Idli House (Kor),Bangalore,Koramangala,Fast Food,Bakery,Yes,No,3.9,4228,291,Desserts,No,Yes,32,Good (3.5-4.0),Budget (<300),32.56
+ZOM1464,The Diner (Con),Delhi,Connaught Place,North Indian,Fine Dining,Yes,Yes,1.7,547,3351,Desserts,No,No,82,Poor (<2.5),Luxury (1500+),10.72
+ZOM1465,Royal Feast (Laj),Delhi,Lajpat Nagar,Mughlai,Fine Dining,No,Yes,3.9,4490,4219,Desserts,No,No,0,Good (3.5-4.0),Luxury (1500+),32.8
+ZOM1466,Royal Feast (Pra),Ahmedabad,Prahlad Nagar,Gujarati,Fine Dining,Yes,Yes,3.7,1889,4210,Delivery,Yes,Yes,50,Good (3.5-4.0),Luxury (1500+),27.91
+ZOM1467,The Food Factory (Kot),Pune,Kothrud,Mexican,Food Court,No,No,3.5,1958,544,Dine-out,No,Yes,0,Average (2.5-3.5),Mid-range (300-700),26.53
+ZOM1468,Tikka Town (HSR),Bangalore,HSR Layout,Mexican,Quick Bites,No,No,4.8,4742,205,Desserts,Yes,Yes,0,Excellent (4.5+),Budget (<300),40.63
+ZOM1469,Food Junction (Myl),Chennai,Mylapore,Mughlai,Casual Dining,Yes,Yes,3.6,461,1382,Dine-out,No,Yes,28,Good (3.5-4.0),Premium (700-1500),22.09
+ZOM1470,Noodle Box (Cam),Pune,Camp,Biryani,Cafe,Yes,No,3.4,4249,1282,Desserts,Yes,Yes,26,Average (2.5-3.5),Premium (700-1500),28.41
+ZOM1471,The Kebab Studio (Pow),Mumbai,Powai,Chinese,Food Court,No,No,3.2,404,459,Dine-out,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),19.21
+ZOM1472,Spice Garden (Sal),Kolkata,Salt Lake,Mughlai,Delivery Only,Yes,No,3.2,1643,579,Pubs and Bars,No,No,71,Average (2.5-3.5),Mid-range (300-700),23.7
+ZOM1473,Burger House (Aun),Pune,Aundh,South Indian,Food Court,No,No,3.2,3297,619,Delivery,No,No,0,Average (2.5-3.5),Mid-range (300-700),25.92
+ZOM1474,Royal Feast (Par),Kolkata,Park Street,Mexican,Casual Dining,No,Yes,4.0,4224,1167,Pubs and Bars,No,Yes,0,Good (3.5-4.0),Premium (700-1500),33.4
+ZOM1475,Tikka Town (Sak),Delhi,Saket,Bengali,Delivery Only,Yes,No,4.2,2049,682,Desserts,No,No,26,Very Good (4.0-4.5),Mid-range (300-700),32.03
+ZOM1476,The Grill House (Ban),Mumbai,Bandra,Mexican,Bakery,No,No,2.8,2144,797,Dine-out,No,No,0,Average (2.5-3.5),Premium (700-1500),21.48
+ZOM1477,The Grand Kitchen (Con),Delhi,Connaught Place,Gujarati,Cafe,Yes,No,3.6,3721,909,Dine-out,No,No,74,Good (3.5-4.0),Premium (700-1500),29.6
+ZOM1478,Spice Garden (Jag),Jaipur,Jagatpura,Mughlai,Quick Bites,Yes,No,3.5,4486,379,Desserts,Yes,No,40,Average (2.5-3.5),Mid-range (300-700),29.43
+ZOM1479,Flavors Restaurant (Laj),Delhi,Lajpat Nagar,Bengali,Cafe,Yes,No,3.0,905,464,Desserts,Yes,No,32,Average (2.5-3.5),Mid-range (300-700),20.43
+ZOM1480,The Sandwich Shop (Sec),Hyderabad,Secunderabad,Mughlai,Quick Bites,No,No,3.0,2014,337,Delivery,No,Yes,0,Average (2.5-3.5),Mid-range (300-700),22.83
+ZOM1481,Noodle Box (Pra),Ahmedabad,Prahlad Nagar,Gujarati,Fine Dining,Yes,Yes,3.7,2447,2202,Delivery,No,No,40,Good (3.5-4.0),Luxury (1500+),28.87
+ZOM1482,Food Junction (Ind),Lucknow,Indira Nagar,Thai,Fine Dining,Yes,Yes,3.2,2360,4057,Dine-out,Yes,No,87,Average (2.5-3.5),Luxury (1500+),24.85
+ZOM1483,The Pizza Place (Ami),Lucknow,Aminabad,Mughlai,Dhaba,Yes,No,3.4,550,763,Dine-out,No,No,71,Average (2.5-3.5),Premium (700-1500),21.46
+ZOM1484,The Pizza Place (Vel),Chennai,Velachery,Chinese,Fine Dining,Yes,Yes,4.0,3498,4172,Pubs and Bars,No,No,83,Good (3.5-4.0),Luxury (1500+),32.64
+ZOM1485,The Diner (Jub),Hyderabad,Jubilee Hills,Bengali,Delivery Only,Yes,No,3.6,21,319,Dine-out,No,No,28,Good (3.5-4.0),Mid-range (300-700),11.13
+ZOM1486,Food Junction (Jag),Jaipur,Jagatpura,Biryani,Bakery,Yes,No,3.3,429,228,Dine-out,No,No,29,Average (2.5-3.5),Budget (<300),20.01
+ZOM1487,The Diner (Ami),Lucknow,Aminabad,Gujarati,Dhaba,Yes,No,5.0,246,431,Desserts,Yes,Yes,40,Excellent (4.5+),Mid-range (300-700),27.55
+ZOM1488,The Diner (Col),Mumbai,Colaba,Chinese,Casual Dining,Yes,No,2.0,719,1125,Dine-out,No,No,68,Poor (<2.5),Premium (700-1500),13.16
+ZOM1489,Flavors Restaurant (Kor),Bangalore,Koramangala,Biryani,Delivery Only,Yes,No,3.6,83,372,Dine-out,No,Yes,88,Good (3.5-4.0),Mid-range (300-700),15.95
+ZOM1490,Chaat Corner (Ali),Lucknow,Aliganj,Biryani,Cafe,No,No,4.3,2153,807,Dine-out,No,No,0,Very Good (4.0-4.5),Premium (700-1500),33.0
+ZOM1491,Idli House (Col),Mumbai,Colaba,Continental,Dhaba,Yes,No,4.6,2716,216,Pubs and Bars,Yes,Yes,24,Excellent (4.5+),Budget (<300),36.37
+ZOM1492,Dosa Point (T N),Chennai,T Nagar,Bengali,Food Court,Yes,No,3.1,152,565,Dine-out,No,No,30,Average (2.5-3.5),Mid-range (300-700),15.59
+ZOM1493,The Diner (Gac),Hyderabad,Gachibowli,Mexican,Fine Dining,Yes,No,4.6,4536,1898,Dine-out,No,Yes,26,Excellent (4.5+),Luxury (1500+),38.73
+ZOM1494,The Grill House (Kor),Pune,Koregaon Park,Continental,Delivery Only,Yes,No,3.4,2551,460,Dine-out,Yes,No,24,Average (2.5-3.5),Mid-range (300-700),26.67
+ZOM1495,Spice Garden (Juh),Mumbai,Juhu,Mexican,Fine Dining,Yes,Yes,3.4,2042,4923,Pubs and Bars,Yes,No,27,Average (2.5-3.5),Luxury (1500+),25.92
+ZOM1496,Urban Bites (Man),Ahmedabad,Maninagar,Thai,Bakery,Yes,No,3.7,1578,536,Pubs and Bars,Yes,No,27,Good (3.5-4.0),Mid-range (300-700),27.25
+ZOM1497,The Pizza Place (MI ),Jaipur,MI Road,Thai,Fine Dining,No,No,3.1,3844,1859,Dine-out,Yes,No,0,Average (2.5-3.5),Luxury (1500+),25.59
+ZOM1498,The Sandwich Shop (New),Kolkata,New Town,Fast Food,Cafe,No,No,2.8,2381,1235,Pubs and Bars,No,Yes,0,Average (2.5-3.5),Premium (700-1500),21.77
+ZOM1499,Desi Zaika (Dwa),Delhi,Dwarka,Mughlai,Food Court,Yes,No,3.3,1618,368,Delivery,No,No,81,Average (2.5-3.5),Mid-range (300-700),24.39
+ZOM1500,The Grill House (Kor),Pune,Koregaon Park,Continental,Delivery Only,Yes,No,3.2,374,687,Delivery,No,No,21,Average (2.5-3.5),Mid-range (300-700),18.97
+ZOM1501,Spice Garden (Jag),Jaipur,Jagatpura,Mexican,Food Court,Yes,No,3.4,2426,359,Dine-out,No,Yes,35,Average (2.5-3.5),Mid-range (300-700),26.5
+ZOM1502,Olive Garden (Hau),Delhi,Hauz Khas,Thai,Casual Dining,Yes,No,2.9,1316,921,Dine-out,No,No,34,Average (2.5-3.5),Premium (700-1500),20.83
+ZOM1503,Olive Garden (Hau),Delhi,Hauz Khas,Thai,Dhaba,Yes,No,4.0,2325,601,Dine-out,Yes,No,74,Good (3.5-4.0),Mid-range (300-700),31.01
+ZOM1504,Spice Garden (Par),Kolkata,Park Street,South Indian,Quick Bites,Yes,No,3.0,4045,273,Dine-out,No,Yes,41,Average (2.5-3.5),Budget (<300),24.92
+ZOM1505,Green Leaf Cafe (Gom),Lucknow,Gomti Nagar,Fast Food,Dhaba,No,No,2.3,4088,613,Desserts,No,No,0,Poor (<2.5),Mid-range (300-700),19.13
+ZOM1506,The Grill House (Col),Mumbai,Colaba,Gujarati,Quick Bites,Yes,No,3.8,3248,271,Pubs and Bars,Yes,Yes,51,Good (3.5-4.0),Budget (<300),30.73
+ZOM1507,Bombay Bites (Laj),Delhi,Lajpat Nagar,Thai,Quick Bites,Yes,No,3.6,43,417,Pubs and Bars,Yes,No,66,Good (3.5-4.0),Mid-range (300-700),13.62
+ZOM1508,Noodle Box (Pra),Ahmedabad,Prahlad Nagar,Continental,Casual Dining,Yes,Yes,3.5,2201,701,Dine-out,No,No,26,Average (2.5-3.5),Premium (700-1500),26.94
+ZOM1509,Bombay Bites (Mal),Jaipur,Malviya Nagar,Gujarati,Fine Dining,Yes,Yes,4.8,4763,3783,Delivery,No,No,41,Excellent (4.5+),Luxury (1500+),40.65
+ZOM1510,The Grill House (Con),Delhi,Connaught Place,North Indian,Dhaba,Yes,No,3.9,4335,665,Dine-out,Yes,No,21,Good (3.5-4.0),Mid-range (300-700),32.66
+ZOM1511,The Food Factory (Hit),Hyderabad,Hitech City,Gujarati,Fine Dining,Yes,No,2.5,4313,1962,Dine-out,Yes,Yes,71,Poor (<2.5),Luxury (1500+),20.92
+ZOM1512,The Kebab Studio (MG ),Bangalore,MG Road,Bengali,Casual Dining,No,Yes,3.7,287,487,Delivery,No,Yes,0,Good (3.5-4.0),Mid-range (300-700),20.95
+ZOM1513,Masala Magic (Ann),Chennai,Anna Nagar,Italian,Food Court,Yes,No,4.1,465,477,Dine-out,No,No,62,Very Good (4.0-4.5),Mid-range (300-700),25.19
+ZOM1514,Tikka Town (Laj),Delhi,Lajpat Nagar,Bengali,Quick Bites,Yes,No,3.9,2473,340,Dine-out,No,No,38,Good (3.5-4.0),Mid-range (300-700),30.47
+ZOM1515,Food Junction (Ali),Kolkata,Alipore,Gujarati,Delivery Only,Yes,No,5.0,27,612,Pubs and Bars,No,No,49,Excellent (4.5+),Mid-range (300-700),16.66
+ZOM1516,Masala Magic (Bal),Kolkata,Ballygunge,Chinese,Casual Dining,Yes,Yes,3.3,1309,761,Desserts,No,No,77,Average (2.5-3.5),Premium (700-1500),23.69
+ZOM1517,Tikka Town (MG ),Bangalore,MG Road,Biryani,Bakery,No,No,4.0,3732,783,Desserts,No,No,0,Good (3.5-4.0),Premium (700-1500),32.9
+ZOM1518,The Food Factory (Vel),Chennai,Velachery,Thai,Quick Bites,Yes,No,3.5,1289,373,Dine-out,Yes,No,83,Average (2.5-3.5),Mid-range (300-700),25.07
+ZOM1519,Chaat Corner (Myl),Chennai,Mylapore,Gujarati,Quick Bites,Yes,No,4.1,4974,159,Delivery,No,Yes,40,Very Good (4.0-4.5),Budget (<300),34.9
+ZOM1520,Curry Leaf (Ami),Lucknow,Aminabad,Continental,Cafe,Yes,No,4.0,3972,1489,Pubs and Bars,No,No,60,Good (3.5-4.0),Premium (700-1500),33.15
+ZOM1521,Tikka Town (Whi),Bangalore,Whitefield,Continental,Cafe,Yes,No,4.5,2164,1436,Dine-out,No,Yes,28,Very Good (4.0-4.5),Premium (700-1500),34.56
+ZOM1522,The Diner (Hin),Pune,Hinjewadi,Thai,Casual Dining,Yes,Yes,4.5,2552,713,Pubs and Bars,No,No,73,Very Good (4.0-4.5),Premium (700-1500),35.3
+ZOM1523,The Food Factory (Vai),Jaipur,Vaishali Nagar,Mexican,Fine Dining,Yes,Yes,3.8,3088,3756,Desserts,No,Yes,33,Good (3.5-4.0),Luxury (1500+),30.54
+ZOM1524,The Curry House (Hit),Hyderabad,Hitech City,Italian,Quick Bites,Yes,No,4.2,3494,392,Dine-out,Yes,No,89,Very Good (4.0-4.5),Mid-range (300-700),34.27
+ZOM1525,Curry Leaf (Mal),Jaipur,Malviya Nagar,Continental,Food Court,No,No,4.5,3900,410,Delivery,Yes,No,0,Very Good (4.0-4.5),Mid-range (300-700),37.21
+ZOM1526,Dosa Point (Dwa),Delhi,Dwarka,Thai,Delivery Only,Yes,No,3.5,1129,331,Pubs and Bars,No,No,39,Average (2.5-3.5),Mid-range (300-700),24.6
+ZOM1527,Punjabi Tadka (Cam),Pune,Camp,Continental,Bakery,Yes,No,3.0,1934,735,Pubs and Bars,No,No,45,Average (2.5-3.5),Premium (700-1500),22.7
+ZOM1528,Dosa Point (Mad),Hyderabad,Madhapur,Continental,Bakery,Yes,No,3.4,1833,219,Desserts,No,Yes,36,Average (2.5-3.5),Budget (<300),25.55
+ZOM1529,Desi Zaika (Vai),Jaipur,Vaishali Nagar,Mexican,Fine Dining,Yes,Yes,3.4,3195,4130,Dine-out,Yes,No,23,Average (2.5-3.5),Luxury (1500+),27.44
+ZOM1530,The Diner (Ind),Bangalore,Indiranagar,Mughlai,Quick Bites,Yes,No,3.3,3297,485,Desserts,No,Yes,77,Average (2.5-3.5),Mid-range (300-700),26.73
+ZOM1531,Flavors Restaurant (CG ),Ahmedabad,CG Road,Mexican,Food Court,Yes,No,3.8,2952,735,Desserts,Yes,No,53,Good (3.5-4.0),Premium (700-1500),30.36
+ZOM1532,Taste of India (Ban),Mumbai,Bandra,Bengali,Fine Dining,Yes,Yes,3.5,598,4462,Dine-out,Yes,No,68,Average (2.5-3.5),Luxury (1500+),22.38
+ZOM1533,South Kitchen (T N),Chennai,T Nagar,Thai,Dhaba,Yes,No,3.7,3395,410,Dine-out,Yes,No,41,Good (3.5-4.0),Mid-range (300-700),30.08
+ZOM1534,The Food Factory (Man),Ahmedabad,Maninagar,Mexican,Food Court,Yes,No,4.5,668,316,Desserts,No,No,50,Very Good (4.0-4.5),Mid-range (300-700),29.28
+ZOM1535,The Food Factory (Gom),Lucknow,Gomti Nagar,Bengali,Delivery Only,Yes,No,3.2,872,218,Desserts,No,Yes,67,Average (2.5-3.5),Budget (<300),21.67
+ZOM1536,Royal Feast (Hit),Hyderabad,Hitech City,Continental,Fine Dining,Yes,No,4.0,4840,4028,Pubs and Bars,No,No,37,Good (3.5-4.0),Luxury (1500+),33.94
+ZOM1537,Noodle Box (Jay),Bangalore,Jayanagar,South Indian,Fine Dining,Yes,Yes,3.3,835,3151,Pubs and Bars,No,Yes,66,Average (2.5-3.5),Luxury (1500+),22.2
+ZOM1538,Tikka Town (Kar),Delhi,Karol Bagh,Gujarati,Fine Dining,Yes,Yes,3.1,1024,1697,Desserts,No,No,23,Average (2.5-3.5),Luxury (1500+),21.49
+ZOM1539,Desi Zaika (Par),Kolkata,Park Street,Biryani,Dhaba,No,No,3.3,664,246,Desserts,No,Yes,0,Average (2.5-3.5),Budget (<300),21.45
+ZOM1540,The Sandwich Shop (Aun),Pune,Aundh,Fast Food,Food Court,Yes,No,4.3,2015,599,Delivery,No,No,88,Very Good (4.0-4.5),Mid-range (300-700),32.72
+ZOM1541,Punjabi Tadka (T N),Chennai,T Nagar,North Indian,Casual Dining,Yes,Yes,4.3,504,537,Desserts,No,No,69,Very Good (4.0-4.5),Mid-range (300-700),26.77
+ZOM1542,Taste of India (Bal),Kolkata,Ballygunge,Mughlai,Quick Bites,No,No,4.9,3701,347,Pubs and Bars,No,No,0,Excellent (4.5+),Mid-range (300-700),40.26
+ZOM1543,South Kitchen (Civ),Jaipur,Civil Lines,Bengali,Bakery,Yes,No,4.9,3925,762,Desserts,Yes,No,38,Excellent (4.5+),Premium (700-1500),40.55
+ZOM1544,The Biryani Bowl (Jag),Jaipur,Jagatpura,Mexican,Fine Dining,No,No,3.4,1454,2080,Dine-out,No,No,0,Average (2.5-3.5),Luxury (1500+),24.76
+ZOM1545,Chaat Corner (Cam),Pune,Camp,Chinese,Quick Bites,Yes,No,4.1,2008,198,Desserts,No,No,40,Very Good (4.0-4.5),Budget (<300),31.18
+ZOM1546,Idli House (Hau),Delhi,Hauz Khas,Thai,Dhaba,Yes,No,2.9,708,459,Pubs and Bars,No,Yes,58,Average (2.5-3.5),Mid-range (300-700),19.04
+ZOM1547,Idli House (HSR),Bangalore,HSR Layout,Gujarati,Casual Dining,Yes,Yes,3.7,2983,1040,Desserts,No,No,43,Good (3.5-4.0),Premium (700-1500),29.6
+ZOM1548,The Biryani Bowl (Con),Delhi,Connaught Place,Fast Food,Cafe,Yes,No,3.4,3389,1384,Pubs and Bars,Yes,No,55,Average (2.5-3.5),Premium (700-1500),27.64
+ZOM1549,Food Junction (Kot),Pune,Kothrud,Gujarati,Delivery Only,Yes,No,3.5,1436,613,Dine-out,No,No,26,Average (2.5-3.5),Mid-range (300-700),25.45
+ZOM1550,Flavors Restaurant (Nav),Ahmedabad,Navrangpura,Italian,Delivery Only,Yes,No,4.3,167,599,Pubs and Bars,No,No,73,Very Good (4.0-4.5),Mid-range (300-700),22.03
+ZOM1551,The Biryani Bowl (Gom),Lucknow,Gomti Nagar,Gujarati,Casual Dining,Yes,Yes,3.2,2019,604,Dine-out,Yes,No,89,Average (2.5-3.5),Mid-range (300-700),24.35
+ZOM1552,Green Leaf Cafe (Hin),Pune,Hinjewadi,Gujarati,Dhaba,Yes,No,3.3,845,795,Pubs and Bars,Yes,Yes,76,Average (2.5-3.5),Premium (700-1500),22.24
+ZOM1553,The Biryani Bowl (Sak),Delhi,Saket,Fast Food,Bakery,Yes,No,3.7,694,718,Dine-out,No,No,89,Good (3.5-4.0),Premium (700-1500),24.21
+ZOM1554,The Curry House (Pra),Ahmedabad,Prahlad Nagar,Bengali,Casual Dining,Yes,Yes,3.7,1427,598,Delivery,No,Yes,40,Good (3.5-4.0),Mid-range (300-700),26.88
+ZOM1555,Idli House (Mal),Jaipur,Malviya Nagar,Mughlai,Quick Bites,Yes,No,4.1,1454,303,Pubs and Bars,No,No,33,Very Good (4.0-4.5),Mid-range (300-700),29.86
+ZOM1556,The Sandwich Shop (Pra),Ahmedabad,Prahlad Nagar,Bengali,Food Court,Yes,No,2.9,4265,504,Dine-out,No,No,38,Average (2.5-3.5),Mid-range (300-700),24.24
+ZOM1557,The Curry House (Haz),Lucknow,Hazratganj,Mexican,Quick Bites,Yes,No,4.1,375,494,Desserts,No,No,31,Very Good (4.0-4.5),Mid-range (300-700),24.31
+ZOM1558,Saffron Kitchen (Gac),Hyderabad,Gachibowli,Continental,Bakery,Yes,No,3.1,429,797,Dine-out,Yes,No,52,Average (2.5-3.5),Premium (700-1500),18.8
+ZOM1559,Urban Bites (Kar),Delhi,Karol Bagh,Gujarati,Bakery,Yes,No,3.6,4693,772,Desserts,No,No,80,Good (3.5-4.0),Premium (700-1500),30.43
+ZOM1560,Chaat Corner (Mad),Hyderabad,Madhapur,Fast Food,Fine Dining,Yes,Yes,3.8,2095,2028,Dine-out,Yes,No,89,Good (3.5-4.0),Luxury (1500+),29.06
+ZOM1561,Dosa Point (T N),Chennai,T Nagar,Italian,Cafe,Yes,No,3.4,1522,597,Pubs and Bars,No,No,84,Average (2.5-3.5),Mid-range (300-700),24.92
+ZOM1562,South Kitchen (Con),Delhi,Connaught Place,South Indian,Food Court,Yes,No,4.0,4953,256,Pubs and Bars,Yes,No,85,Good (3.5-4.0),Budget (<300),34.03
+ZOM1563,Tikka Town (Ali),Kolkata,Alipore,Mughlai,Food Court,Yes,No,3.1,102,343,Desserts,Yes,No,70,Average (2.5-3.5),Mid-range (300-700),14.37
+ZOM1564,Spice Garden (Aun),Pune,Aundh,Bengali,Fine Dining,No,Yes,3.1,4737,2817,Pubs and Bars,Yes,No,0,Average (2.5-3.5),Luxury (1500+),26.24
+ZOM1565,Royal Feast (Cam),Pune,Camp,Chinese,Food Court,No,No,4.4,4671,442,Dine-out,No,Yes,0,Very Good (4.0-4.5),Mid-range (300-700),37.18
+ZOM1566,Punjabi Tadka (Pow),Mumbai,Powai,Italian,Dhaba,Yes,No,2.2,1859,476,Dine-out,No,No,39,Poor (<2.5),Mid-range (300-700),16.56
+ZOM1567,The Curry House (Jay),Bangalore,Jayanagar,Fast Food,Cafe,No,No,3.7,1182,782,Pubs and Bars,No,No,0,Good (3.5-4.0),Premium (700-1500),26.18
+ZOM1568,The Pizza Place (HSR),Bangalore,HSR Layout,Continental,Cafe,Yes,No,3.8,1096,775,Dine-out,No,No,33,Good (3.5-4.0),Premium (700-1500),26.6
+ZOM1569,Punjabi Tadka (Vas),Ahmedabad,Vastrapur,Bengali,Fine Dining,Yes,Yes,4.8,3053,4227,Dine-out,Yes,No,77,Excellent (4.5+),Luxury (1500+),38.52
+ZOM1570,Noodle Box (Aun),Pune,Aundh,Chinese,Fine Dining,Yes,No,3.7,3872,3491,Desserts,Yes,No,63,Good (3.5-4.0),Luxury (1500+),30.57
+ZOM1571,Green Leaf Cafe (SG ),Ahmedabad,SG Highway,Fast Food,Casual Dining,Yes,Yes,3.2,1582,1411,Delivery,Yes,No,25,Average (2.5-3.5),Premium (700-1500),23.57
+ZOM1572,Chaat Corner (CG ),Ahmedabad,CG Road,South Indian,Food Court,Yes,No,3.4,1819,506,Dine-out,No,No,30,Average (2.5-3.5),Mid-range (300-700),25.52
+ZOM1573,The Grand Kitchen (Jag),Jaipur,Jagatpura,Fast Food,Bakery,No,No,4.5,2556,467,Delivery,No,No,0,Very Good (4.0-4.5),Mid-range (300-700),35.31
+ZOM1574,The Sandwich Shop (Ami),Lucknow,Aminabad,Gujarati,Fine Dining,Yes,Yes,3.5,3662,2820,Pubs and Bars,No,No,55,Average (2.5-3.5),Luxury (1500+),28.72
+ZOM1575,Burger House (Kar),Delhi,Karol Bagh,Bengali,Delivery Only,Yes,No,3.2,489,796,Dine-out,No,No,74,Average (2.5-3.5),Premium (700-1500),19.82
+ZOM1576,The Kebab Studio (Cam),Pune,Camp,Bengali,Dhaba,Yes,No,1.8,4659,653,Delivery,Yes,No,31,Poor (<2.5),Mid-range (300-700),15.2
+ZOM1577,Food Junction (Gac),Hyderabad,Gachibowli,Mughlai,Delivery Only,Yes,No,4.4,2827,586,Pubs and Bars,No,No,22,Very Good (4.0-4.5),Mid-range (300-700),34.97
+ZOM1578,The Pizza Place (Vel),Chennai,Velachery,Mughlai,Food Court,Yes,No,3.5,287,719,Dine-out,Yes,No,51,Average (2.5-3.5),Premium (700-1500),19.82
+ZOM1579,Flavors Restaurant (Sec),Hyderabad,Secunderabad,Fast Food,Quick Bites,Yes,No,3.4,692,256,Desserts,Yes,Yes,23,Average (2.5-3.5),Budget (<300),22.24
+ZOM1580,The Grand Kitchen (Kar),Delhi,Karol Bagh,Thai,Casual Dining,No,Yes,3.9,3018,1439,Delivery,Yes,No,0,Good (3.5-4.0),Premium (700-1500),31.25
+ZOM1581,Bombay Bites (Gom),Lucknow,Gomti Nagar,South Indian,Dhaba,Yes,No,3.3,579,308,Dine-out,No,No,40,Average (2.5-3.5),Mid-range (300-700),21.0
+ZOM1582,Saffron Kitchen (CG ),Ahmedabad,CG Road,Chinese,Fine Dining,Yes,No,3.0,674,2625,Dine-out,No,No,78,Average (2.5-3.5),Luxury (1500+),19.54
+ZOM1583,Taste of India (Man),Ahmedabad,Maninagar,Fast Food,Food Court,Yes,No,4.0,251,736,Pubs and Bars,No,No,22,Good (3.5-4.0),Premium (700-1500),22.12
+ZOM1584,Curry Leaf (Ind),Lucknow,Indira Nagar,Thai,Delivery Only,Yes,No,3.3,2405,426,Desserts,No,No,80,Average (2.5-3.5),Mid-range (300-700),25.69
+ZOM1585,The Pizza Place (Kar),Delhi,Karol Bagh,Fast Food,Bakery,Yes,No,2.8,3552,676,Dine-out,No,Yes,28,Average (2.5-3.5),Mid-range (300-700),22.89
+ZOM1586,Bombay Bites (Dad),Mumbai,Dadar,Chinese,Bakery,No,No,3.9,1400,656,Pubs and Bars,Yes,No,0,Good (3.5-4.0),Mid-range (300-700),28.26
+ZOM1587,Idli House (SG ),Ahmedabad,SG Highway,North Indian,Dhaba,Yes,No,4.2,2777,425,Pubs and Bars,Yes,Yes,22,Very Good (4.0-4.5),Mid-range (300-700),33.3
+ZOM1588,Tikka Town (Mal),Jaipur,Malviya Nagar,Italian,Dhaba,No,No,3.0,592,476,Desserts,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),19.16
+ZOM1589,Urban Bites (Vim),Pune,Viman Nagar,Italian,Delivery Only,No,No,3.3,3836,417,Dine-out,No,No,0,Average (2.5-3.5),Mid-range (300-700),27.23
+ZOM1590,The Pizza Place (Myl),Chennai,Mylapore,Biryani,Delivery Only,Yes,No,3.3,194,745,Delivery,Yes,No,60,Average (2.5-3.5),Premium (700-1500),17.4
+ZOM1591,South Kitchen (Ann),Chennai,Anna Nagar,Gujarati,Food Court,No,No,4.8,4438,513,Dine-out,No,No,0,Excellent (4.5+),Mid-range (300-700),40.31
+ZOM1592,Spice Garden (Gac),Hyderabad,Gachibowli,North Indian,Fine Dining,Yes,No,4.6,1103,3820,Delivery,No,No,88,Excellent (4.5+),Luxury (1500+),32.23
+ZOM1593,Desi Zaika (MG ),Bangalore,MG Road,Mexican,Casual Dining,Yes,No,4.8,1679,1261,Desserts,Yes,No,34,Excellent (4.5+),Premium (700-1500),35.65
+ZOM1594,Burger House (Hin),Pune,Hinjewadi,Mexican,Bakery,Yes,No,3.5,935,447,Dine-out,Yes,No,47,Average (2.5-3.5),Mid-range (300-700),23.95
+ZOM1595,The Grill House (Juh),Mumbai,Juhu,Continental,Quick Bites,No,No,3.2,1075,350,Dine-out,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),22.34
+ZOM1596,Green Leaf Cafe (Kor),Pune,Koregaon Park,South Indian,Cafe,No,No,3.5,4224,841,Dine-out,No,Yes,0,Average (2.5-3.5),Premium (700-1500),29.22
+ZOM1597,Saffron Kitchen (Hit),Hyderabad,Hitech City,Biryani,Quick Bites,Yes,No,3.3,4633,376,Desserts,No,No,76,Average (2.5-3.5),Mid-range (300-700),27.86
+ZOM1598,Chaat Corner (Sal),Kolkata,Salt Lake,Gujarati,Casual Dining,Yes,No,4.7,3705,859,Dine-out,Yes,No,36,Excellent (4.5+),Premium (700-1500),38.62
+ZOM1599,Desi Zaika (Pow),Mumbai,Powai,Italian,Quick Bites,No,No,3.3,4651,401,Dine-out,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),27.87
+ZOM1600,Idli House (Nun),Chennai,Nungambakkam,South Indian,Dhaba,Yes,No,3.9,4945,450,Delivery,Yes,No,42,Good (3.5-4.0),Mid-range (300-700),33.17
+ZOM1601,Desi Zaika (Gom),Lucknow,Gomti Nagar,Mughlai,Quick Bites,Yes,No,4.2,1471,240,Desserts,Yes,No,65,Very Good (4.0-4.5),Budget (<300),30.64
+ZOM1602,Food Junction (And),Mumbai,Andheri,Mughlai,Fine Dining,Yes,No,3.3,2602,4249,Dine-out,No,No,54,Average (2.5-3.5),Luxury (1500+),25.95
+ZOM1603,Food Junction (CG ),Ahmedabad,CG Road,Italian,Casual Dining,No,Yes,2.8,3922,995,Dine-out,No,Yes,0,Average (2.5-3.5),Premium (700-1500),23.17
+ZOM1604,The Grill House (CG ),Ahmedabad,CG Road,Mexican,Delivery Only,No,No,3.5,1909,282,Dine-out,No,No,0,Average (2.5-3.5),Budget (<300),26.44
+ZOM1605,The Curry House (Mal),Jaipur,Malviya Nagar,Mughlai,Food Court,Yes,No,4.0,2951,625,Delivery,No,No,38,Good (3.5-4.0),Mid-range (300-700),31.96
+ZOM1606,Burger House (SG ),Ahmedabad,SG Highway,Fast Food,Bakery,Yes,No,3.0,2336,574,Pubs and Bars,No,No,38,Average (2.5-3.5),Mid-range (300-700),23.27
+ZOM1607,Masala Magic (Dad),Mumbai,Dadar,Mughlai,Cafe,Yes,No,4.5,2995,1411,Pubs and Bars,No,No,33,Very Good (4.0-4.5),Premium (700-1500),36.02
+ZOM1608,South Kitchen (Man),Jaipur,Mansarovar,Mexican,Fine Dining,Yes,Yes,4.0,1148,4483,Dine-out,Yes,Yes,49,Good (3.5-4.0),Luxury (1500+),28.19
+ZOM1609,Dosa Point (Man),Jaipur,Mansarovar,South Indian,Casual Dining,Yes,No,5.0,269,719,Delivery,Yes,Yes,52,Excellent (4.5+),Premium (700-1500),27.99
+ZOM1610,Punjabi Tadka (Vas),Ahmedabad,Vastrapur,South Indian,Casual Dining,No,Yes,4.3,3452,1220,Pubs and Bars,No,No,0,Very Good (4.0-4.5),Premium (700-1500),35.03
+ZOM1611,The Grand Kitchen (Juh),Mumbai,Juhu,Italian,Quick Bites,Yes,No,3.3,1767,483,Desserts,Yes,No,60,Average (2.5-3.5),Mid-range (300-700),24.68
+ZOM1612,Dosa Point (Juh),Mumbai,Juhu,Thai,Dhaba,Yes,No,2.9,72,326,Delivery,No,No,74,Average (2.5-3.5),Mid-range (300-700),12.44
+ZOM1613,Dosa Point (MI ),Jaipur,MI Road,Biryani,Quick Bites,Yes,No,2.8,2529,211,Delivery,Yes,Yes,67,Average (2.5-3.5),Budget (<300),21.94
+ZOM1614,Flavors Restaurant (Dwa),Delhi,Dwarka,Italian,Dhaba,Yes,No,2.6,1698,693,Pubs and Bars,No,No,69,Average (2.5-3.5),Mid-range (300-700),19.34
+ZOM1615,Chaat Corner (Ali),Lucknow,Aliganj,Chinese,Dhaba,Yes,No,3.4,1497,524,Pubs and Bars,No,No,67,Average (2.5-3.5),Mid-range (300-700),24.86
+ZOM1616,The Grill House (Kor),Pune,Koregaon Park,Chinese,Fine Dining,No,Yes,3.7,1304,4560,Dine-out,No,No,0,Good (3.5-4.0),Luxury (1500+),26.54
+ZOM1617,The Kebab Studio (New),Kolkata,New Town,Thai,Bakery,Yes,No,2.6,2049,400,Desserts,No,No,80,Average (2.5-3.5),Mid-range (300-700),19.83
+ZOM1618,Green Leaf Cafe (Ali),Kolkata,Alipore,Italian,Cafe,Yes,No,4.2,1063,731,Dine-out,No,No,73,Very Good (4.0-4.5),Premium (700-1500),29.27
+ZOM1619,Bombay Bites (Kor),Pune,Koregaon Park,Biryani,Casual Dining,Yes,Yes,5.0,3664,573,Dine-out,Yes,No,66,Excellent (4.5+),Mid-range (300-700),41.03
+ZOM1620,The Sandwich Shop (Jub),Hyderabad,Jubilee Hills,Mughlai,Casual Dining,Yes,Yes,4.3,531,1004,Pubs and Bars,No,No,41,Very Good (4.0-4.5),Premium (700-1500),26.99
+ZOM1621,Taste of India (Con),Delhi,Connaught Place,Mexican,Bakery,Yes,No,3.9,1578,704,Dine-out,No,No,48,Good (3.5-4.0),Premium (700-1500),28.72
+ZOM1622,Punjabi Tadka (Gac),Hyderabad,Gachibowli,Fast Food,Quick Bites,No,No,3.8,4279,177,Pubs and Bars,Yes,Yes,0,Good (3.5-4.0),Budget (<300),31.77
+ZOM1623,Dosa Point (Bal),Kolkata,Ballygunge,Chinese,Food Court,Yes,No,2.6,776,605,Pubs and Bars,No,No,64,Average (2.5-3.5),Mid-range (300-700),17.3
+ZOM1624,Urban Bites (Pow),Mumbai,Powai,Bengali,Dhaba,Yes,No,4.0,583,361,Dine-out,No,No,74,Good (3.5-4.0),Mid-range (300-700),25.48
+ZOM1625,Olive Garden (Kor),Pune,Koregaon Park,Italian,Casual Dining,No,No,3.8,1797,613,Pubs and Bars,Yes,No,0,Good (3.5-4.0),Mid-range (300-700),28.48
+ZOM1626,Saffron Kitchen (Jag),Jaipur,Jagatpura,Chinese,Bakery,Yes,No,4.3,3741,666,Dine-out,Yes,No,84,Very Good (4.0-4.5),Mid-range (300-700),35.38
+ZOM1627,Desi Zaika (Man),Ahmedabad,Maninagar,Bengali,Quick Bites,No,No,3.8,4541,242,Dine-out,No,No,0,Good (3.5-4.0),Budget (<300),32.0
+ZOM1628,Punjabi Tadka (Whi),Bangalore,Whitefield,South Indian,Food Court,Yes,No,2.7,1649,490,Pubs and Bars,No,No,67,Average (2.5-3.5),Mid-range (300-700),20.0
+ZOM1629,The Sandwich Shop (Kar),Delhi,Karol Bagh,Thai,Dhaba,Yes,No,3.6,4801,248,Dine-out,No,No,65,Good (3.5-4.0),Budget (<300),30.52
+ZOM1630,The Grill House (Pra),Ahmedabad,Prahlad Nagar,Gujarati,Cafe,Yes,No,3.5,4981,740,Dine-out,Yes,No,68,Average (2.5-3.5),Premium (700-1500),29.8
+ZOM1631,Royal Feast (Hin),Pune,Hinjewadi,Gujarati,Quick Bites,No,No,3.2,708,467,Desserts,No,No,0,Average (2.5-3.5),Mid-range (300-700),21.0
+ZOM1632,The Sandwich Shop (Gac),Hyderabad,Gachibowli,Mughlai,Casual Dining,Yes,No,4.3,2434,1216,Dine-out,No,No,60,Very Good (4.0-4.5),Premium (700-1500),33.53
+ZOM1633,Curry Leaf (Gom),Lucknow,Gomti Nagar,Mexican,Casual Dining,Yes,No,3.3,860,1218,Dine-out,Yes,Yes,78,Average (2.5-3.5),Premium (700-1500),22.3
+ZOM1634,South Kitchen (Dwa),Delhi,Dwarka,North Indian,Cafe,Yes,No,3.7,187,1178,Dine-out,Yes,No,38,Good (3.5-4.0),Premium (700-1500),19.37
+ZOM1635,The Grand Kitchen (Laj),Delhi,Lajpat Nagar,Mexican,Food Court,Yes,No,4.5,1361,326,Dine-out,No,No,65,Very Good (4.0-4.5),Mid-range (300-700),32.48
+ZOM1636,The Grill House (Mad),Hyderabad,Madhapur,Thai,Delivery Only,No,No,2.7,3633,531,Pubs and Bars,No,No,0,Average (2.5-3.5),Mid-range (300-700),22.13
+ZOM1637,The Curry House (Col),Mumbai,Colaba,Bengali,Casual Dining,Yes,No,2.4,4684,855,Dine-out,No,No,80,Poor (<2.5),Premium (700-1500),20.29
+ZOM1638,Urban Bites (Col),Mumbai,Colaba,Gujarati,Casual Dining,No,Yes,2.6,1137,1001,Dine-out,Yes,Yes,0,Average (2.5-3.5),Premium (700-1500),18.3
+ZOM1639,Green Leaf Cafe (Myl),Chennai,Mylapore,Continental,Cafe,Yes,No,4.3,992,919,Dine-out,No,Yes,44,Very Good (4.0-4.5),Premium (700-1500),29.67
+ZOM1640,The Grill House (Ind),Bangalore,Indiranagar,Thai,Food Court,Yes,No,3.4,4959,523,Delivery,Yes,No,52,Average (2.5-3.5),Mid-range (300-700),28.93
+ZOM1641,The Grand Kitchen (Bal),Kolkata,Ballygunge,Continental,Fine Dining,Yes,Yes,4.1,2691,1919,Dine-out,No,No,38,Very Good (4.0-4.5),Luxury (1500+),32.38
+ZOM1642,Olive Garden (Mad),Hyderabad,Madhapur,Fast Food,Casual Dining,Yes,Yes,4.8,1779,731,Delivery,No,No,34,Excellent (4.5+),Premium (700-1500),35.92
+ZOM1643,The Diner (Jub),Hyderabad,Jubilee Hills,Mughlai,Dhaba,Yes,No,3.4,4011,304,Delivery,No,No,85,Average (2.5-3.5),Mid-range (300-700),28.21
+ZOM1644,The Pizza Place (Man),Jaipur,Mansarovar,Bengali,Cafe,Yes,No,3.6,1847,609,Pubs and Bars,Yes,No,70,Good (3.5-4.0),Mid-range (300-700),27.08
+ZOM1645,The Grill House (Nun),Chennai,Nungambakkam,Mughlai,Food Court,Yes,No,3.7,3194,576,Dine-out,No,No,58,Good (3.5-4.0),Mid-range (300-700),29.86
+ZOM1646,The Kebab Studio (Ami),Lucknow,Aminabad,Gujarati,Cafe,Yes,No,3.3,775,786,Dine-out,No,No,35,Average (2.5-3.5),Premium (700-1500),21.96
+ZOM1647,Masala Magic (Aun),Pune,Aundh,Gujarati,Fine Dining,Yes,Yes,4.0,3426,3843,Delivery,Yes,No,21,Good (3.5-4.0),Luxury (1500+),32.56
+ZOM1648,Tikka Town (MG ),Bangalore,MG Road,North Indian,Bakery,No,No,2.5,4013,510,Desserts,No,No,0,Poor (<2.5),Mid-range (300-700),20.74
+ZOM1649,Taste of India (T N),Chennai,T Nagar,Italian,Quick Bites,Yes,No,3.2,2003,362,Delivery,No,No,81,Average (2.5-3.5),Mid-range (300-700),24.33
+ZOM1650,South Kitchen (Ami),Lucknow,Aminabad,Bengali,Cafe,Yes,No,3.6,4149,676,Dine-out,No,Yes,73,Good (3.5-4.0),Mid-range (300-700),29.99
+ZOM1651,Taste of India (Par),Kolkata,Park Street,Biryani,Food Court,No,No,2.7,1135,619,Dine-out,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),19.0
+ZOM1652,Flavors Restaurant (Pra),Ahmedabad,Prahlad Nagar,Chinese,Fine Dining,Yes,No,3.8,2663,3521,Delivery,No,No,49,Good (3.5-4.0),Luxury (1500+),29.97
+ZOM1653,The Sandwich Shop (Sec),Hyderabad,Secunderabad,Gujarati,Cafe,Yes,No,3.1,3264,594,Delivery,Yes,No,47,Average (2.5-3.5),Mid-range (300-700),25.08
+ZOM1654,The Kebab Studio (Ind),Lucknow,Indira Nagar,Biryani,Bakery,No,No,3.6,3248,559,Dine-out,No,No,0,Good (3.5-4.0),Mid-range (300-700),29.11
+ZOM1655,Chaat Corner (Dad),Mumbai,Dadar,Biryani,Dhaba,Yes,No,4.3,2046,317,Desserts,No,Yes,52,Very Good (4.0-4.5),Mid-range (300-700),32.78
+ZOM1656,Dosa Point (MI ),Jaipur,MI Road,Mexican,Food Court,Yes,No,2.9,1948,206,Dine-out,No,No,87,Average (2.5-3.5),Budget (<300),21.97
+ZOM1657,Flavors Restaurant (Dad),Mumbai,Dadar,Continental,Casual Dining,Yes,Yes,3.4,1596,1232,Dine-out,No,No,84,Average (2.5-3.5),Premium (700-1500),25.08
+ZOM1658,Food Junction (HSR),Bangalore,HSR Layout,Fast Food,Casual Dining,Yes,Yes,4.6,2611,1406,Desserts,Yes,Yes,30,Excellent (4.5+),Premium (700-1500),36.19
+ZOM1659,Green Leaf Cafe (Jay),Bangalore,Jayanagar,Biryani,Fine Dining,No,Yes,4.7,4917,4428,Delivery,Yes,No,0,Excellent (4.5+),Luxury (1500+),39.95
+ZOM1660,Urban Bites (Ali),Lucknow,Aliganj,Italian,Food Court,Yes,No,3.8,1834,639,Dine-out,No,No,84,Good (3.5-4.0),Mid-range (300-700),28.56
+ZOM1661,Olive Garden (Con),Delhi,Connaught Place,South Indian,Food Court,Yes,No,4.5,1059,587,Delivery,No,No,69,Very Good (4.0-4.5),Mid-range (300-700),31.35
+ZOM1662,The Grill House (Jag),Jaipur,Jagatpura,Chinese,Dhaba,No,No,3.7,1404,756,Delivery,Yes,No,0,Good (3.5-4.0),Premium (700-1500),26.82
+ZOM1663,The Kebab Studio (Ali),Lucknow,Aliganj,Chinese,Fine Dining,Yes,No,4.0,1183,3537,Delivery,No,No,83,Good (3.5-4.0),Luxury (1500+),28.31
+ZOM1664,Olive Garden (Myl),Chennai,Mylapore,Mexican,Delivery Only,Yes,No,2.6,1262,324,Delivery,Yes,No,34,Average (2.5-3.5),Mid-range (300-700),18.57
+ZOM1665,Burger House (Dad),Mumbai,Dadar,Fast Food,Casual Dining,No,Yes,3.1,4345,941,Pubs and Bars,Yes,No,0,Average (2.5-3.5),Premium (700-1500),25.97
+ZOM1666,Burger House (Jub),Hyderabad,Jubilee Hills,Bengali,Food Court,No,No,3.6,4014,286,Desserts,Yes,Yes,0,Good (3.5-4.0),Budget (<300),29.87
+ZOM1667,Spice Garden (Mad),Hyderabad,Madhapur,Fast Food,Cafe,Yes,No,3.9,790,600,Dine-out,Yes,No,48,Good (3.5-4.0),Mid-range (300-700),26.03
+ZOM1668,Masala Magic (Ban),Mumbai,Bandra,North Indian,Delivery Only,Yes,No,2.9,4177,308,Delivery,Yes,No,41,Average (2.5-3.5),Mid-range (300-700),24.18
+ZOM1669,South Kitchen (Ind),Bangalore,Indiranagar,Gujarati,Delivery Only,Yes,No,3.9,4168,268,Desserts,No,No,56,Good (3.5-4.0),Budget (<300),32.51
+ZOM1670,The Biryani Bowl (And),Mumbai,Andheri,Fast Food,Bakery,No,No,2.8,2357,578,Delivery,No,Yes,0,Average (2.5-3.5),Mid-range (300-700),21.74
+ZOM1671,Food Junction (Vel),Chennai,Velachery,Chinese,Quick Bites,Yes,No,3.8,2395,191,Dine-out,No,No,51,Good (3.5-4.0),Budget (<300),29.57
+ZOM1672,South Kitchen (Vai),Jaipur,Vaishali Nagar,Biryani,Cafe,Yes,No,2.8,3185,699,Delivery,No,Yes,30,Average (2.5-3.5),Mid-range (300-700),22.59
+ZOM1673,The Pizza Place (CG ),Ahmedabad,CG Road,Biryani,Delivery Only,Yes,No,3.1,363,698,Dine-out,No,No,20,Average (2.5-3.5),Mid-range (300-700),18.28
+ZOM1674,Saffron Kitchen (Jay),Bangalore,Jayanagar,Bengali,Food Court,No,No,3.9,1632,634,Desserts,Yes,No,0,Good (3.5-4.0),Mid-range (300-700),28.85
+ZOM1675,The Grand Kitchen (T N),Chennai,T Nagar,North Indian,Quick Bites,No,No,3.4,3175,401,Delivery,No,No,0,Average (2.5-3.5),Mid-range (300-700),27.42
+ZOM1676,Masala Magic (Ind),Lucknow,Indira Nagar,Continental,Casual Dining,Yes,Yes,4.4,2156,1186,Dine-out,Yes,No,56,Very Good (4.0-4.5),Premium (700-1500),33.78
+ZOM1677,Bombay Bites (Ady),Chennai,Adyar,South Indian,Delivery Only,Yes,No,3.3,1003,719,Delivery,Yes,No,47,Average (2.5-3.5),Premium (700-1500),22.81
+ZOM1678,Dosa Point (Bal),Kolkata,Ballygunge,Biryani,Casual Dining,Yes,No,4.1,661,463,Dine-out,No,No,30,Very Good (4.0-4.5),Mid-range (300-700),26.63
+ZOM1679,Noodle Box (Nav),Ahmedabad,Navrangpura,Gujarati,Fine Dining,Yes,Yes,3.9,1850,3208,Pubs and Bars,No,No,66,Good (3.5-4.0),Luxury (1500+),29.34
+ZOM1680,Punjabi Tadka (Cam),Pune,Camp,North Indian,Delivery Only,Yes,No,3.2,3216,383,Pubs and Bars,No,Yes,39,Average (2.5-3.5),Mid-range (300-700),25.84
+ZOM1681,Idli House (Mad),Hyderabad,Madhapur,Gujarati,Bakery,Yes,No,3.8,1965,757,Delivery,Yes,No,31,Good (3.5-4.0),Premium (700-1500),28.82
+ZOM1682,Punjabi Tadka (Juh),Mumbai,Juhu,Continental,Fine Dining,No,No,4.0,887,3271,Delivery,No,No,0,Good (3.5-4.0),Luxury (1500+),27.16
+ZOM1683,Noodle Box (Juh),Mumbai,Juhu,Continental,Quick Bites,Yes,No,3.7,4964,219,Dine-out,No,No,74,Good (3.5-4.0),Budget (<300),31.49
+ZOM1684,Royal Feast (Mad),Hyderabad,Madhapur,Fast Food,Fine Dining,Yes,Yes,4.1,1615,1898,Dine-out,Yes,No,46,Very Good (4.0-4.5),Luxury (1500+),30.29
+ZOM1685,Flavors Restaurant (MI ),Jaipur,MI Road,Mexican,Fine Dining,Yes,Yes,3.2,4815,2203,Pubs and Bars,No,No,70,Average (2.5-3.5),Luxury (1500+),27.14
+ZOM1686,Flavors Restaurant (Kor),Bangalore,Koramangala,Thai,Fine Dining,Yes,Yes,4.5,3807,3546,Pubs and Bars,Yes,Yes,23,Very Good (4.0-4.5),Luxury (1500+),37.1
+ZOM1687,Masala Magic (Ann),Chennai,Anna Nagar,Gujarati,Quick Bites,No,No,3.5,907,312,Delivery,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),23.84
+ZOM1688,Masala Magic (Dad),Mumbai,Dadar,Fast Food,Cafe,Yes,No,3.0,3124,842,Dine-out,No,No,88,Average (2.5-3.5),Premium (700-1500),24.14
+ZOM1689,The Curry House (Mal),Jaipur,Malviya Nagar,Mexican,Quick Bites,Yes,No,3.1,947,338,Dine-out,No,Yes,50,Average (2.5-3.5),Mid-range (300-700),21.25
+ZOM1690,Flavors Restaurant (Dad),Mumbai,Dadar,Thai,Quick Bites,Yes,No,5.0,2772,426,Pubs and Bars,No,No,85,Excellent (4.5+),Mid-range (300-700),39.64
+ZOM1691,The Food Factory (MG ),Bangalore,MG Road,Fast Food,Cafe,Yes,No,4.0,3757,1095,Dine-out,No,No,49,Good (3.5-4.0),Premium (700-1500),32.93
+ZOM1692,The Grand Kitchen (Civ),Jaipur,Civil Lines,North Indian,Fine Dining,No,Yes,3.6,4157,3072,Delivery,Yes,No,0,Good (3.5-4.0),Luxury (1500+),30.0
+ZOM1693,The Food Factory (And),Mumbai,Andheri,Continental,Dhaba,No,No,3.5,2963,748,Pubs and Bars,No,No,0,Average (2.5-3.5),Premium (700-1500),27.98
+ZOM1694,Curry Leaf (Sal),Kolkata,Salt Lake,Biryani,Quick Bites,No,No,4.3,4241,277,Pubs and Bars,Yes,Yes,0,Very Good (4.0-4.5),Budget (<300),35.92
+ZOM1695,The Diner (Nav),Ahmedabad,Navrangpura,Mexican,Delivery Only,No,No,4.2,205,326,Desserts,Yes,No,0,Very Good (4.0-4.5),Mid-range (300-700),22.38
+ZOM1696,Green Leaf Cafe (Jay),Bangalore,Jayanagar,Fast Food,Bakery,Yes,No,3.9,261,303,Dine-out,No,No,42,Good (3.5-4.0),Mid-range (300-700),21.72
+ZOM1697,Royal Feast (Nav),Ahmedabad,Navrangpura,South Indian,Food Court,Yes,No,4.4,3341,583,Desserts,No,No,23,Very Good (4.0-4.5),Mid-range (300-700),35.7
+ZOM1698,Saffron Kitchen (Ady),Chennai,Adyar,Bengali,Fine Dining,Yes,Yes,5.0,418,3515,Delivery,No,Yes,53,Excellent (4.5+),Luxury (1500+),30.19
+ZOM1699,Punjabi Tadka (Nun),Chennai,Nungambakkam,Mexican,Dhaba,No,No,4.2,2097,772,Dine-out,No,No,0,Very Good (4.0-4.5),Premium (700-1500),32.12
+ZOM1700,Urban Bites (Vai),Jaipur,Vaishali Nagar,Mexican,Dhaba,Yes,No,2.4,2135,574,Dine-out,No,No,53,Poor (<2.5),Mid-range (300-700),18.4
+ZOM1701,The Food Factory (Kot),Pune,Kothrud,Mughlai,Cafe,Yes,No,3.8,4550,1436,Pubs and Bars,No,Yes,75,Good (3.5-4.0),Premium (700-1500),32.01
+ZOM1702,The Grill House (Ami),Lucknow,Aminabad,Mexican,Bakery,Yes,No,4.0,2163,650,Desserts,Yes,No,27,Good (3.5-4.0),Mid-range (300-700),30.72
+ZOM1703,The Diner (Kor),Pune,Koregaon Park,Bengali,Quick Bites,No,No,3.5,1243,269,Dine-out,No,Yes,0,Average (2.5-3.5),Budget (<300),24.94
+ZOM1704,The Sandwich Shop (Hau),Delhi,Hauz Khas,Chinese,Casual Dining,Yes,Yes,4.5,3970,1312,Desserts,No,No,49,Very Good (4.0-4.5),Premium (700-1500),37.29
+ZOM1705,Flavors Restaurant (Kot),Pune,Kothrud,Bengali,Food Court,Yes,No,3.9,441,732,Dine-out,No,No,38,Good (3.5-4.0),Premium (700-1500),23.76
+ZOM1706,Punjabi Tadka (Cam),Pune,Camp,Mughlai,Quick Bites,Yes,No,3.1,3863,486,Pubs and Bars,No,No,74,Average (2.5-3.5),Mid-range (300-700),25.6
+ZOM1707,Tikka Town (Whi),Bangalore,Whitefield,North Indian,Bakery,Yes,No,3.9,1594,763,Delivery,No,No,39,Good (3.5-4.0),Premium (700-1500),28.76
+ZOM1708,The Pizza Place (Laj),Delhi,Lajpat Nagar,North Indian,Cafe,No,No,1.9,164,1411,Dine-out,No,No,0,Poor (<2.5),Premium (700-1500),9.7
+ZOM1709,The Diner (Vim),Pune,Viman Nagar,Continental,Cafe,Yes,No,5.0,57,807,Desserts,Yes,No,41,Excellent (4.5+),Premium (700-1500),20.3
+ZOM1710,Taste of India (Civ),Jaipur,Civil Lines,Mughlai,Dhaba,Yes,No,4.0,2312,665,Dine-out,Yes,Yes,31,Good (3.5-4.0),Mid-range (300-700),30.99
+ZOM1711,Chaat Corner (Dwa),Delhi,Dwarka,North Indian,Fine Dining,No,Yes,3.3,3707,3450,Dine-out,Yes,No,0,Average (2.5-3.5),Luxury (1500+),27.12
+ZOM1712,South Kitchen (Vim),Pune,Viman Nagar,Biryani,Dhaba,Yes,No,3.0,4050,760,Desserts,No,No,76,Average (2.5-3.5),Premium (700-1500),24.92
+ZOM1713,Desi Zaika (Civ),Jaipur,Civil Lines,Continental,Bakery,Yes,No,4.4,1269,353,Desserts,No,Yes,37,Very Good (4.0-4.5),Mid-range (300-700),31.45
+ZOM1714,Food Junction (Ind),Lucknow,Indira Nagar,Biryani,Cafe,Yes,No,4.3,3172,1217,Desserts,No,No,27,Very Good (4.0-4.5),Premium (700-1500),34.67
+ZOM1715,Food Junction (And),Mumbai,Andheri,Bengali,Food Court,Yes,No,3.8,2442,524,Delivery,No,No,63,Good (3.5-4.0),Mid-range (300-700),29.64
+ZOM1716,Burger House (Hau),Delhi,Hauz Khas,Biryani,Delivery Only,Yes,No,3.6,893,336,Pubs and Bars,No,Yes,46,Good (3.5-4.0),Mid-range (300-700),24.46
+ZOM1717,The Diner (Hit),Hyderabad,Hitech City,Gujarati,Quick Bites,Yes,No,3.8,4528,249,Pubs and Bars,Yes,No,34,Good (3.5-4.0),Budget (<300),31.99
+ZOM1718,Saffron Kitchen (MI ),Jaipur,MI Road,Mexican,Food Court,No,No,4.3,823,767,Pubs and Bars,No,No,0,Very Good (4.0-4.5),Premium (700-1500),28.87
+ZOM1719,The Food Factory (Hin),Pune,Hinjewadi,Fast Food,Delivery Only,Yes,No,3.6,3497,600,Pubs and Bars,No,No,77,Good (3.5-4.0),Mid-range (300-700),29.38
+ZOM1720,Punjabi Tadka (Ala),Lucknow,Alambagh,North Indian,Food Court,Yes,No,2.0,475,374,Pubs and Bars,Yes,No,42,Poor (<2.5),Mid-range (300-700),12.33
+ZOM1721,Urban Bites (Haz),Lucknow,Hazratganj,Fast Food,Food Court,Yes,No,3.6,3801,434,Pubs and Bars,Yes,No,32,Good (3.5-4.0),Mid-range (300-700),29.68
+ZOM1722,The Curry House (T N),Chennai,T Nagar,Bengali,Delivery Only,Yes,No,3.2,933,651,Delivery,No,Yes,66,Average (2.5-3.5),Mid-range (300-700),21.89
+ZOM1723,The Diner (Gom),Lucknow,Gomti Nagar,Bengali,Fine Dining,No,Yes,3.4,4893,3129,Dine-out,No,No,0,Average (2.5-3.5),Luxury (1500+),28.89
+ZOM1724,Masala Magic (Vas),Ahmedabad,Vastrapur,Thai,Casual Dining,Yes,Yes,5.0,4633,1209,Pubs and Bars,Yes,No,36,Excellent (4.5+),Premium (700-1500),42.21
+ZOM1725,Chaat Corner (Vim),Pune,Viman Nagar,Italian,Food Court,Yes,No,3.4,1129,701,Dine-out,No,No,67,Average (2.5-3.5),Premium (700-1500),23.9
+ZOM1726,Spice Garden (Pow),Mumbai,Powai,Fast Food,Quick Bites,Yes,No,3.6,2592,295,Desserts,No,No,32,Good (3.5-4.0),Budget (<300),28.3
+ZOM1727,Green Leaf Cafe (Vel),Chennai,Velachery,Biryani,Cafe,No,No,4.5,2262,1140,Desserts,No,No,0,Very Good (4.0-4.5),Premium (700-1500),34.76
+ZOM1728,Curry Leaf (Civ),Jaipur,Civil Lines,North Indian,Delivery Only,No,No,4.8,401,528,Desserts,No,No,0,Excellent (4.5+),Mid-range (300-700),28.78
+ZOM1729,Curry Leaf (Man),Jaipur,Mansarovar,North Indian,Quick Bites,Yes,No,3.3,3242,459,Desserts,No,No,75,Average (2.5-3.5),Mid-range (300-700),26.68
+ZOM1730,The Curry House (New),Kolkata,New Town,Fast Food,Quick Bites,No,No,4.2,2010,322,Desserts,No,No,0,Very Good (4.0-4.5),Mid-range (300-700),31.95
+ZOM1731,The Diner (Gom),Lucknow,Gomti Nagar,Thai,Bakery,Yes,No,2.9,1777,361,Dine-out,No,Yes,28,Average (2.5-3.5),Mid-range (300-700),21.7
+ZOM1732,Royal Feast (And),Mumbai,Andheri,North Indian,Dhaba,Yes,No,3.8,1756,637,Desserts,No,No,84,Good (3.5-4.0),Mid-range (300-700),28.39
+ZOM1733,The Grand Kitchen (Ady),Chennai,Adyar,Italian,Casual Dining,Yes,No,3.5,360,634,Pubs and Bars,No,No,32,Average (2.5-3.5),Mid-range (300-700),20.61
+ZOM1734,Urban Bites (Ali),Lucknow,Aliganj,South Indian,Quick Bites,Yes,No,3.7,2101,193,Desserts,No,No,66,Good (3.5-4.0),Budget (<300),28.31
+ZOM1735,Bombay Bites (Dwa),Delhi,Dwarka,Chinese,Delivery Only,No,No,3.0,2105,785,Delivery,No,No,0,Average (2.5-3.5),Premium (700-1500),22.96
+ZOM1736,The Curry House (Vel),Chennai,Velachery,Biryani,Bakery,Yes,No,3.9,4658,597,Delivery,No,Yes,29,Good (3.5-4.0),Mid-range (300-700),32.94
+ZOM1737,The Curry House (Vim),Pune,Viman Nagar,Mughlai,Casual Dining,Yes,No,3.6,679,786,Delivery,No,No,36,Good (3.5-4.0),Premium (700-1500),23.48
+ZOM1738,Royal Feast (Ind),Lucknow,Indira Nagar,Chinese,Food Court,Yes,No,3.6,3856,370,Pubs and Bars,No,No,44,Good (3.5-4.0),Mid-range (300-700),29.73
+ZOM1739,Food Junction (Ali),Lucknow,Aliganj,South Indian,Food Court,Yes,No,3.7,744,577,Delivery,Yes,Yes,79,Good (3.5-4.0),Mid-range (300-700),24.47
+ZOM1740,The Sandwich Shop (Sak),Delhi,Saket,Biryani,Delivery Only,No,No,3.5,2282,664,Delivery,No,No,0,Average (2.5-3.5),Mid-range (300-700),27.07
+ZOM1741,The Curry House (And),Mumbai,Andheri,Gujarati,Dhaba,Yes,No,4.8,2156,701,Dine-out,No,Yes,72,Excellent (4.5+),Premium (700-1500),36.85
+ZOM1742,The Pizza Place (Man),Jaipur,Mansarovar,Mexican,Food Court,No,No,3.5,2227,333,Delivery,No,No,0,Average (2.5-3.5),Mid-range (300-700),26.98
+ZOM1743,Royal Feast (Col),Mumbai,Colaba,Biryani,Food Court,Yes,No,3.8,3467,700,Dine-out,No,No,44,Good (3.5-4.0),Mid-range (300-700),30.98
+ZOM1744,The Biryani Bowl (Kor),Pune,Koregaon Park,Gujarati,Quick Bites,Yes,No,3.1,37,462,Delivery,No,No,31,Average (2.5-3.5),Mid-range (300-700),11.28
+ZOM1745,Green Leaf Cafe (Jub),Hyderabad,Jubilee Hills,Thai,Casual Dining,Yes,No,4.2,724,954,Desserts,Yes,No,26,Very Good (4.0-4.5),Premium (700-1500),27.66
+ZOM1746,Chaat Corner (Nav),Ahmedabad,Navrangpura,Gujarati,Food Court,Yes,No,4.2,4407,655,Dine-out,Yes,No,64,Very Good (4.0-4.5),Mid-range (300-700),35.24
+ZOM1747,Noodle Box (Pow),Mumbai,Powai,Bengali,Cafe,No,No,4.2,3290,1482,Delivery,No,No,0,Very Good (4.0-4.5),Premium (700-1500),34.02
+ZOM1748,Spice Garden (Man),Ahmedabad,Maninagar,Mexican,Casual Dining,Yes,No,3.9,648,556,Delivery,No,Yes,47,Good (3.5-4.0),Mid-range (300-700),25.25
+ZOM1749,The Diner (Sec),Hyderabad,Secunderabad,Gujarati,Food Court,Yes,No,4.1,3281,278,Pubs and Bars,Yes,Yes,63,Very Good (4.0-4.5),Budget (<300),33.19
+ZOM1750,Olive Garden (Pow),Mumbai,Powai,Chinese,Food Court,Yes,No,3.8,1246,633,Desserts,No,Yes,34,Good (3.5-4.0),Mid-range (300-700),27.09
+ZOM1751,The Grand Kitchen (Sec),Hyderabad,Secunderabad,Gujarati,Fine Dining,Yes,Yes,3.7,3876,4087,Dine-out,Yes,No,41,Good (3.5-4.0),Luxury (1500+),30.57
+ZOM1752,Dosa Point (Gom),Lucknow,Gomti Nagar,Bengali,Quick Bites,Yes,No,4.2,237,348,Delivery,No,No,76,Very Good (4.0-4.5),Mid-range (300-700),22.98
+ZOM1753,Idli House (Hau),Delhi,Hauz Khas,Continental,Bakery,No,No,3.1,30,224,Dine-out,Yes,No,0,Average (2.5-3.5),Budget (<300),10.65
+ZOM1754,Masala Magic (Sal),Kolkata,Salt Lake,North Indian,Fine Dining,Yes,No,4.0,465,2506,Dine-out,No,No,47,Good (3.5-4.0),Luxury (1500+),24.58
+ZOM1755,Desi Zaika (Ali),Kolkata,Alipore,Chinese,Food Court,Yes,No,4.5,1999,690,Dine-out,Yes,No,84,Very Good (4.0-4.5),Mid-range (300-700),34.2
+ZOM1756,The Grand Kitchen (Kor),Bangalore,Koramangala,Mexican,Quick Bites,Yes,No,3.6,1077,337,Dine-out,Yes,No,76,Good (3.5-4.0),Mid-range (300-700),25.14
+ZOM1757,Flavors Restaurant (Cam),Pune,Camp,Mexican,Fine Dining,Yes,Yes,4.0,2611,1658,Pubs and Bars,No,No,65,Good (3.5-4.0),Luxury (1500+),31.47
+ZOM1758,South Kitchen (Jub),Hyderabad,Jubilee Hills,Bengali,Casual Dining,Yes,Yes,4.0,3318,760,Pubs and Bars,Yes,No,73,Good (3.5-4.0),Premium (700-1500),32.43
+ZOM1759,Flavors Restaurant (Bal),Kolkata,Ballygunge,North Indian,Cafe,Yes,No,3.8,1701,1345,Pubs and Bars,Yes,No,57,Good (3.5-4.0),Premium (700-1500),28.27
+ZOM1760,The Sandwich Shop (Jag),Jaipur,Jagatpura,Italian,Food Court,Yes,No,3.2,1951,321,Dine-out,Yes,No,40,Average (2.5-3.5),Mid-range (300-700),24.25
+ZOM1761,Noodle Box (Hau),Delhi,Hauz Khas,Gujarati,Food Court,Yes,No,4.6,2505,589,Dine-out,No,Yes,57,Excellent (4.5+),Mid-range (300-700),36.0
+ZOM1762,Flavors Restaurant (Pow),Mumbai,Powai,Mughlai,Delivery Only,No,No,3.6,3650,501,Dine-out,No,No,0,Good (3.5-4.0),Mid-range (300-700),29.53
+ZOM1763,Curry Leaf (And),Mumbai,Andheri,Biryani,Casual Dining,Yes,No,4.7,1937,402,Delivery,No,Yes,25,Excellent (4.5+),Mid-range (300-700),35.58
+ZOM1764,Punjabi Tadka (Hau),Delhi,Hauz Khas,Biryani,Food Court,Yes,No,4.4,1121,360,Desserts,Yes,No,69,Very Good (4.0-4.5),Mid-range (300-700),30.9
+ZOM1765,Royal Feast (Ban),Hyderabad,Banjara Hills,Mughlai,Cafe,Yes,No,3.7,1551,1262,Desserts,Yes,No,47,Good (3.5-4.0),Premium (700-1500),27.19
+ZOM1766,Spice Garden (Ban),Hyderabad,Banjara Hills,Mexican,Food Court,No,No,2.6,3568,473,Dine-out,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),21.27
+ZOM1767,Burger House (HSR),Bangalore,HSR Layout,Mughlai,Fine Dining,Yes,Yes,4.0,874,2385,Dine-out,Yes,No,45,Good (3.5-4.0),Luxury (1500+),27.1
+ZOM1768,The Curry House (Kor),Bangalore,Koramangala,Biryani,Casual Dining,Yes,No,4.1,1288,524,Desserts,No,No,36,Very Good (4.0-4.5),Mid-range (300-700),29.36
+ZOM1769,South Kitchen (Whi),Bangalore,Whitefield,Italian,Delivery Only,Yes,No,4.2,4719,444,Pubs and Bars,Yes,No,85,Very Good (4.0-4.5),Mid-range (300-700),35.53
+ZOM1770,The Kebab Studio (Kar),Delhi,Karol Bagh,Thai,Food Court,Yes,No,3.3,934,207,Pubs and Bars,No,No,84,Average (2.5-3.5),Budget (<300),22.57
+ZOM1771,Chaat Corner (Ann),Chennai,Anna Nagar,Biryani,Dhaba,Yes,No,4.0,4287,795,Dine-out,No,No,63,Good (3.5-4.0),Premium (700-1500),33.45
+ZOM1772,Curry Leaf (Gom),Lucknow,Gomti Nagar,Bengali,Fine Dining,Yes,Yes,4.0,4237,4727,Delivery,Yes,No,61,Good (3.5-4.0),Luxury (1500+),33.41
+ZOM1773,Noodle Box (MI ),Jaipur,MI Road,Continental,Dhaba,Yes,No,4.1,3331,370,Desserts,No,No,61,Very Good (4.0-4.5),Mid-range (300-700),33.26
+ZOM1774,Flavors Restaurant (Sak),Delhi,Saket,North Indian,Dhaba,Yes,No,4.0,4972,354,Dine-out,No,No,86,Good (3.5-4.0),Mid-range (300-700),34.05
+ZOM1775,The Food Factory (Con),Delhi,Connaught Place,Mexican,Delivery Only,No,No,4.2,3952,372,Pubs and Bars,No,Yes,0,Very Good (4.0-4.5),Mid-range (300-700),34.79
+ZOM1776,The Food Factory (Pra),Ahmedabad,Prahlad Nagar,Chinese,Dhaba,Yes,No,5.0,4110,526,Desserts,No,Yes,86,Excellent (4.5+),Mid-range (300-700),41.61
+ZOM1777,Saffron Kitchen (Kar),Delhi,Karol Bagh,Biryani,Bakery,Yes,No,2.7,984,603,Dine-out,No,No,54,Average (2.5-3.5),Mid-range (300-700),18.61
+ZOM1778,Idli House (Ami),Lucknow,Aminabad,Bengali,Cafe,Yes,No,2.5,3701,1440,Pubs and Bars,No,Yes,37,Poor (<2.5),Premium (700-1500),20.54
+ZOM1779,Royal Feast (Man),Jaipur,Mansarovar,Mughlai,Casual Dining,No,Yes,3.4,4785,515,Pubs and Bars,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),28.81
+ZOM1780,The Grill House (Sal),Kolkata,Salt Lake,Gujarati,Quick Bites,Yes,No,2.3,4961,473,Dine-out,No,No,84,Poor (<2.5),Mid-range (300-700),19.57
+ZOM1781,Chaat Corner (MI ),Jaipur,MI Road,Gujarati,Food Court,Yes,No,4.3,2166,257,Dine-out,No,No,45,Very Good (4.0-4.5),Budget (<300),33.03
+ZOM1782,The Curry House (Nun),Chennai,Nungambakkam,Gujarati,Dhaba,Yes,No,3.1,3704,392,Delivery,No,No,36,Average (2.5-3.5),Mid-range (300-700),25.47
+ZOM1783,Noodle Box (Pra),Ahmedabad,Prahlad Nagar,Thai,Quick Bites,Yes,No,4.2,2406,386,Desserts,No,No,60,Very Good (4.0-4.5),Mid-range (300-700),32.7
+ZOM1784,Urban Bites (Hau),Delhi,Hauz Khas,Mexican,Quick Bites,No,No,4.9,2785,461,Dine-out,No,Yes,0,Excellent (4.5+),Mid-range (300-700),38.87
+ZOM1785,Food Junction (Hau),Delhi,Hauz Khas,Fast Food,Quick Bites,Yes,No,3.3,665,248,Desserts,Yes,No,45,Average (2.5-3.5),Budget (<300),21.45
+ZOM1786,The Pizza Place (Man),Jaipur,Mansarovar,North Indian,Delivery Only,Yes,No,3.1,3959,502,Desserts,No,No,45,Average (2.5-3.5),Mid-range (300-700),25.68
+ZOM1787,Bombay Bites (CG ),Ahmedabad,CG Road,Gujarati,Casual Dining,Yes,No,2.8,4652,804,Dine-out,No,No,23,Average (2.5-3.5),Premium (700-1500),23.65
+ZOM1788,Noodle Box (Kot),Pune,Kothrud,Mughlai,Bakery,No,No,3.4,2843,308,Desserts,No,No,0,Average (2.5-3.5),Mid-range (300-700),27.04
+ZOM1789,Noodle Box (T N),Chennai,T Nagar,Fast Food,Cafe,Yes,No,1.5,4321,952,Dine-out,Yes,No,38,Poor (<2.5),Premium (700-1500),12.56
+ZOM1790,South Kitchen (New),Kolkata,New Town,Mexican,Fine Dining,Yes,Yes,3.4,4212,1974,Dine-out,Yes,No,87,Average (2.5-3.5),Luxury (1500+),28.38
+ZOM1791,Spice Garden (Ind),Bangalore,Indiranagar,Italian,Quick Bites,Yes,No,4.0,275,344,Pubs and Bars,Yes,No,43,Good (3.5-4.0),Mid-range (300-700),22.48
+ZOM1792,The Grill House (Ady),Chennai,Adyar,Chinese,Cafe,Yes,No,3.4,3359,1393,Dine-out,No,No,43,Average (2.5-3.5),Premium (700-1500),27.61
+ZOM1793,The Grill House (Bal),Kolkata,Ballygunge,Thai,Fine Dining,Yes,No,4.4,2588,4575,Delivery,No,No,86,Very Good (4.0-4.5),Luxury (1500+),34.58
+ZOM1794,The Grand Kitchen (HSR),Bangalore,HSR Layout,Mughlai,Fine Dining,Yes,Yes,3.8,294,4819,Dine-out,No,No,42,Good (3.5-4.0),Luxury (1500+),21.61
+ZOM1795,Masala Magic (Ali),Lucknow,Aliganj,Chinese,Food Court,Yes,No,4.4,2929,780,Desserts,Yes,No,72,Very Good (4.0-4.5),Premium (700-1500),35.12
+ZOM1796,Green Leaf Cafe (MI ),Jaipur,MI Road,Fast Food,Casual Dining,Yes,Yes,3.2,4781,1079,Delivery,No,Yes,26,Average (2.5-3.5),Premium (700-1500),27.11
+ZOM1797,Idli House (Ali),Lucknow,Aliganj,Italian,Cafe,Yes,No,3.7,3161,611,Dine-out,Yes,Yes,22,Good (3.5-4.0),Mid-range (300-700),29.82
+ZOM1798,Saffron Kitchen (Civ),Jaipur,Civil Lines,Gujarati,Quick Bites,No,No,4.6,388,492,Dine-out,No,No,0,Excellent (4.5+),Mid-range (300-700),27.43
+ZOM1799,Curry Leaf (Ami),Lucknow,Aminabad,Thai,Casual Dining,Yes,Yes,4.3,1854,705,Desserts,No,No,49,Very Good (4.0-4.5),Premium (700-1500),32.36
+ZOM1800,The Biryani Bowl (Par),Kolkata,Park Street,Fast Food,Bakery,Yes,No,3.3,2754,405,Desserts,No,Yes,76,Average (2.5-3.5),Mid-range (300-700),26.14
+ZOM1801,Idli House (Sec),Hyderabad,Secunderabad,Mexican,Dhaba,No,No,4.2,4596,578,Dine-out,Yes,No,0,Very Good (4.0-4.5),Mid-range (300-700),35.42
+ZOM1802,Taste of India (Aun),Pune,Aundh,Bengali,Quick Bites,Yes,No,4.7,3816,390,Dine-out,No,No,35,Excellent (4.5+),Mid-range (300-700),38.76
+ZOM1803,The Grand Kitchen (Sak),Delhi,Saket,Continental,Quick Bites,No,No,2.5,3647,436,Dine-out,No,No,0,Poor (<2.5),Mid-range (300-700),20.5
+ZOM1804,Flavors Restaurant (Civ),Jaipur,Civil Lines,Biryani,Fine Dining,Yes,Yes,2.5,3278,1509,Dine-out,No,No,36,Poor (<2.5),Luxury (1500+),20.24
+ZOM1805,Noodle Box (Juh),Mumbai,Juhu,Bengali,Delivery Only,No,No,3.8,3912,759,Dine-out,Yes,Yes,0,Good (3.5-4.0),Premium (700-1500),31.43
+ZOM1806,Royal Feast (Whi),Bangalore,Whitefield,Fast Food,Food Court,Yes,No,3.8,157,390,Desserts,Yes,No,70,Good (3.5-4.0),Mid-range (300-700),19.24
+ZOM1807,Noodle Box (Ban),Hyderabad,Banjara Hills,South Indian,Delivery Only,Yes,No,3.0,3880,280,Pubs and Bars,No,No,85,Average (2.5-3.5),Budget (<300),24.79
+ZOM1808,The Kebab Studio (Ind),Lucknow,Indira Nagar,Bengali,Dhaba,Yes,No,3.5,4204,577,Desserts,No,Yes,58,Average (2.5-3.5),Mid-range (300-700),29.2
+ZOM1809,The Kebab Studio (Ali),Kolkata,Alipore,Biryani,Casual Dining,Yes,No,3.9,513,712,Delivery,Yes,No,53,Good (3.5-4.0),Premium (700-1500),24.34
+ZOM1810,The Food Factory (CG ),Ahmedabad,CG Road,Chinese,Bakery,Yes,No,4.1,4863,444,Dine-out,No,No,22,Very Good (4.0-4.5),Mid-range (300-700),34.81
+ZOM1811,Saffron Kitchen (Par),Kolkata,Park Street,Fast Food,Delivery Only,Yes,No,2.9,3413,774,Pubs and Bars,Yes,No,68,Average (2.5-3.5),Premium (700-1500),23.59
+ZOM1812,The Kebab Studio (Sak),Delhi,Saket,Chinese,Bakery,Yes,No,3.2,1104,391,Dine-out,No,No,84,Average (2.5-3.5),Mid-range (300-700),22.42
+ZOM1813,Dosa Point (Sak),Delhi,Saket,Bengali,Bakery,Yes,No,5.0,3925,673,Delivery,Yes,No,34,Excellent (4.5+),Mid-range (300-700),41.38
+ZOM1814,Curry Leaf (Bal),Kolkata,Ballygunge,Continental,Bakery,Yes,No,4.2,3176,568,Delivery,Yes,No,62,Very Good (4.0-4.5),Mid-range (300-700),33.87
+ZOM1815,The Pizza Place (Vai),Jaipur,Vaishali Nagar,Italian,Quick Bites,No,No,4.3,1912,227,Delivery,Yes,No,0,Very Good (4.0-4.5),Budget (<300),32.49
+ZOM1816,Food Junction (Col),Mumbai,Colaba,Mughlai,Delivery Only,Yes,No,4.5,2878,514,Dine-out,No,No,48,Very Good (4.0-4.5),Mid-range (300-700),35.84
+ZOM1817,Chaat Corner (MG ),Bangalore,MG Road,Fast Food,Casual Dining,Yes,No,4.0,3927,1301,Dine-out,No,No,68,Good (3.5-4.0),Premium (700-1500),33.1
+ZOM1818,Urban Bites (T N),Chennai,T Nagar,Italian,Fine Dining,No,Yes,2.5,2391,4907,Delivery,Yes,Yes,0,Poor (<2.5),Luxury (1500+),19.45
+ZOM1819,Royal Feast (Pra),Ahmedabad,Prahlad Nagar,North Indian,Cafe,Yes,No,3.2,394,1399,Pubs and Bars,No,Yes,32,Average (2.5-3.5),Premium (700-1500),19.13
+ZOM1820,Urban Bites (Nav),Ahmedabad,Navrangpura,Fast Food,Casual Dining,Yes,Yes,4.0,1860,851,Delivery,Yes,No,63,Good (3.5-4.0),Premium (700-1500),30.12
+ZOM1821,The Grand Kitchen (Gom),Lucknow,Gomti Nagar,Chinese,Bakery,Yes,No,3.5,3227,713,Dine-out,No,No,41,Average (2.5-3.5),Premium (700-1500),28.28
+ZOM1822,The Kebab Studio (Ala),Lucknow,Alambagh,Mughlai,Fine Dining,Yes,Yes,3.2,887,4777,Delivery,Yes,Yes,75,Average (2.5-3.5),Luxury (1500+),21.72
+ZOM1823,Bombay Bites (Vai),Jaipur,Vaishali Nagar,Biryani,Cafe,Yes,No,3.7,379,850,Pubs and Bars,Yes,Yes,35,Good (3.5-4.0),Premium (700-1500),21.98
+ZOM1824,The Biryani Bowl (Mad),Hyderabad,Madhapur,Biryani,Food Court,Yes,No,3.4,3067,312,Desserts,No,Yes,31,Average (2.5-3.5),Mid-range (300-700),27.3
+ZOM1825,Flavors Restaurant (Whi),Bangalore,Whitefield,Continental,Dhaba,Yes,No,3.8,3202,764,Desserts,Yes,No,24,Good (3.5-4.0),Premium (700-1500),30.67
+ZOM1826,Noodle Box (Kar),Delhi,Karol Bagh,South Indian,Fine Dining,Yes,Yes,2.6,144,4116,Pubs and Bars,No,Yes,47,Average (2.5-3.5),Luxury (1500+),12.94
+ZOM1827,Green Leaf Cafe (Laj),Delhi,Lajpat Nagar,Mexican,Quick Bites,Yes,No,4.5,892,208,Desserts,No,No,52,Very Good (4.0-4.5),Budget (<300),30.58
+ZOM1828,Bombay Bites (Vas),Ahmedabad,Vastrapur,Thai,Dhaba,No,No,5.0,54,396,Dine-out,Yes,No,0,Excellent (4.5+),Mid-range (300-700),20.04
+ZOM1829,The Diner (Sal),Kolkata,Salt Lake,North Indian,Food Court,Yes,No,3.2,1478,758,Desserts,No,Yes,58,Average (2.5-3.5),Premium (700-1500),23.36
+ZOM1830,Food Junction (Hau),Delhi,Hauz Khas,Continental,Dhaba,Yes,No,3.3,456,414,Dine-out,Yes,No,38,Average (2.5-3.5),Mid-range (300-700),20.21
+ZOM1831,Royal Feast (Gac),Hyderabad,Gachibowli,Italian,Dhaba,Yes,No,3.9,132,676,Desserts,No,No,39,Good (3.5-4.0),Mid-range (300-700),19.07
+ZOM1832,The Sandwich Shop (Myl),Chennai,Mylapore,Bengali,Delivery Only,No,No,4.0,2766,521,Dine-out,No,No,0,Good (3.5-4.0),Mid-range (300-700),31.7
+ZOM1833,The Sandwich Shop (Man),Ahmedabad,Maninagar,Fast Food,Fine Dining,No,No,3.7,522,2848,Dine-out,No,No,0,Good (3.5-4.0),Luxury (1500+),23.16
+ZOM1834,Royal Feast (Sec),Hyderabad,Secunderabad,Chinese,Casual Dining,Yes,Yes,2.8,1346,824,Desserts,No,Yes,68,Average (2.5-3.5),Premium (700-1500),20.18
+ZOM1835,Taste of India (HSR),Bangalore,HSR Layout,Bengali,Bakery,Yes,No,3.9,3807,403,Pubs and Bars,No,Yes,22,Good (3.5-4.0),Mid-range (300-700),32.15
+ZOM1836,Idli House (Dwa),Delhi,Dwarka,Thai,Food Court,No,No,4.9,4878,713,Dine-out,No,No,0,Excellent (4.5+),Premium (700-1500),41.61
+ZOM1837,Idli House (Man),Ahmedabad,Maninagar,Fast Food,Bakery,Yes,No,3.8,2638,365,Delivery,No,Yes,41,Good (3.5-4.0),Mid-range (300-700),29.94
+ZOM1838,Burger House (Vim),Pune,Viman Nagar,Mughlai,Dhaba,No,No,3.2,158,694,Delivery,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),16.22
+ZOM1839,Noodle Box (Man),Jaipur,Mansarovar,Fast Food,Fine Dining,No,No,3.8,2605,2449,Desserts,No,Yes,0,Good (3.5-4.0),Luxury (1500+),29.89
+ZOM1840,Noodle Box (Ali),Lucknow,Aliganj,Mexican,Food Court,Yes,No,4.9,2200,566,Pubs and Bars,Yes,No,85,Excellent (4.5+),Mid-range (300-700),37.71
+ZOM1841,South Kitchen (Vel),Chennai,Velachery,Bengali,Dhaba,Yes,No,4.6,2854,333,Dine-out,No,Yes,46,Excellent (4.5+),Mid-range (300-700),36.6
+ZOM1842,Dosa Point (Dad),Mumbai,Dadar,North Indian,Fine Dining,Yes,Yes,5.0,3854,4897,Pubs and Bars,Yes,No,78,Excellent (4.5+),Luxury (1500+),41.29
+ZOM1843,The Biryani Bowl (Kor),Pune,Koregaon Park,Continental,Bakery,No,No,3.3,4200,258,Dine-out,Yes,No,0,Average (2.5-3.5),Budget (<300),27.53
+ZOM1844,Punjabi Tadka (Jub),Hyderabad,Jubilee Hills,Gujarati,Delivery Only,Yes,No,3.6,2560,278,Delivery,No,Yes,78,Good (3.5-4.0),Budget (<300),28.25
+ZOM1845,Spice Garden (Sal),Kolkata,Salt Lake,North Indian,Bakery,No,No,3.0,4762,759,Desserts,No,No,0,Average (2.5-3.5),Premium (700-1500),25.41
+ZOM1846,Punjabi Tadka (Ann),Chennai,Anna Nagar,Biryani,Food Court,Yes,No,4.0,2969,613,Dine-out,No,No,44,Good (3.5-4.0),Mid-range (300-700),31.99
+ZOM1847,Royal Feast (Ali),Kolkata,Alipore,South Indian,Food Court,Yes,No,2.8,288,648,Dine-out,No,No,64,Average (2.5-3.5),Mid-range (300-700),15.87
+ZOM1848,The Pizza Place (Jay),Bangalore,Jayanagar,Fast Food,Bakery,Yes,No,3.7,1096,282,Desserts,No,Yes,20,Good (3.5-4.0),Budget (<300),25.9
+ZOM1849,Spice Garden (Vai),Jaipur,Vaishali Nagar,Fast Food,Delivery Only,Yes,No,4.2,3496,272,Pubs and Bars,No,No,65,Very Good (4.0-4.5),Budget (<300),34.27
+ZOM1850,Punjabi Tadka (Ali),Lucknow,Aliganj,South Indian,Quick Bites,Yes,No,3.1,4718,315,Dine-out,Yes,No,36,Average (2.5-3.5),Mid-range (300-700),26.22
+ZOM1851,Olive Garden (Aun),Pune,Aundh,Mughlai,Quick Bites,Yes,No,4.2,4942,432,Pubs and Bars,No,No,73,Very Good (4.0-4.5),Mid-range (300-700),35.72
+ZOM1852,Green Leaf Cafe (Mal),Jaipur,Malviya Nagar,Italian,Dhaba,Yes,No,3.9,4790,326,Pubs and Bars,No,No,44,Good (3.5-4.0),Mid-range (300-700),33.05
+ZOM1853,Punjabi Tadka (Vai),Jaipur,Vaishali Nagar,North Indian,Fine Dining,No,No,3.4,4467,4842,Desserts,No,No,0,Average (2.5-3.5),Luxury (1500+),28.58
+ZOM1854,Saffron Kitchen (Ali),Lucknow,Aliganj,Gujarati,Casual Dining,Yes,Yes,4.9,4744,1314,Dine-out,Yes,No,36,Excellent (4.5+),Premium (700-1500),41.48
+ZOM1855,The Kebab Studio (Vel),Chennai,Velachery,Continental,Bakery,Yes,No,3.4,4143,576,Dine-out,No,No,60,Average (2.5-3.5),Mid-range (300-700),28.32
+ZOM1856,The Diner (Myl),Chennai,Mylapore,Chinese,Delivery Only,Yes,No,3.0,2222,238,Desserts,Yes,Yes,42,Average (2.5-3.5),Budget (<300),23.12
+ZOM1857,Idli House (Ind),Bangalore,Indiranagar,North Indian,Cafe,Yes,No,4.2,1139,1470,Desserts,No,No,82,Very Good (4.0-4.5),Premium (700-1500),29.56
+ZOM1858,The Food Factory (Cam),Pune,Camp,North Indian,Cafe,Yes,No,3.2,2789,1343,Dine-out,Yes,No,53,Average (2.5-3.5),Premium (700-1500),25.39
+ZOM1859,Olive Garden (Myl),Chennai,Mylapore,Thai,Fine Dining,Yes,Yes,3.1,2255,1560,Desserts,Yes,Yes,69,Average (2.5-3.5),Luxury (1500+),23.94
+ZOM1860,The Kebab Studio (Laj),Delhi,Lajpat Nagar,Bengali,Delivery Only,Yes,No,4.0,3015,727,Desserts,No,Yes,67,Good (3.5-4.0),Premium (700-1500),32.05
+ZOM1861,Royal Feast (Cam),Pune,Camp,Chinese,Cafe,Yes,No,2.8,1531,1038,Pubs and Bars,No,No,38,Average (2.5-3.5),Premium (700-1500),20.54
+ZOM1862,The Sandwich Shop (Nav),Ahmedabad,Navrangpura,Italian,Quick Bites,Yes,No,2.7,2371,470,Dine-out,No,No,27,Average (2.5-3.5),Mid-range (300-700),20.98
+ZOM1863,Royal Feast (Hit),Hyderabad,Hitech City,Italian,Fine Dining,Yes,No,3.8,695,1993,Dine-out,No,No,25,Good (3.5-4.0),Luxury (1500+),24.87
+ZOM1864,The Grill House (Nun),Chennai,Nungambakkam,North Indian,Food Court,Yes,No,3.1,299,748,Delivery,No,No,28,Average (2.5-3.5),Premium (700-1500),17.68
+ZOM1865,Tikka Town (CG ),Ahmedabad,CG Road,Italian,Delivery Only,Yes,No,2.7,1878,767,Dine-out,No,No,78,Average (2.5-3.5),Premium (700-1500),20.35
+ZOM1866,Dosa Point (Ann),Chennai,Anna Nagar,Gujarati,Casual Dining,Yes,Yes,2.8,2822,1141,Dine-out,No,No,59,Average (2.5-3.5),Premium (700-1500),22.25
+ZOM1867,Tikka Town (Myl),Chennai,Mylapore,Biryani,Bakery,Yes,No,4.2,2472,451,Pubs and Bars,Yes,No,56,Very Good (4.0-4.5),Mid-range (300-700),32.82
+ZOM1868,Bombay Bites (Kor),Pune,Koregaon Park,Continental,Delivery Only,Yes,No,3.4,1363,384,Dine-out,No,No,23,Average (2.5-3.5),Mid-range (300-700),24.54
+ZOM1869,Tikka Town (HSR),Bangalore,HSR Layout,Gujarati,Bakery,No,No,2.5,4356,334,Delivery,No,Yes,0,Poor (<2.5),Mid-range (300-700),20.95
+ZOM1870,Curry Leaf (Pra),Ahmedabad,Prahlad Nagar,Biryani,Dhaba,Yes,No,3.4,3649,406,Desserts,Yes,No,20,Average (2.5-3.5),Mid-range (300-700),27.89
+ZOM1871,The Pizza Place (Nun),Chennai,Nungambakkam,South Indian,Bakery,Yes,No,3.7,827,202,Desserts,No,Yes,57,Good (3.5-4.0),Budget (<300),24.86
+ZOM1872,Olive Garden (Pow),Mumbai,Powai,Gujarati,Fine Dining,No,Yes,3.2,125,2507,Dine-out,Yes,No,0,Average (2.5-3.5),Luxury (1500+),15.48
+ZOM1873,Punjabi Tadka (Sec),Hyderabad,Secunderabad,Fast Food,Bakery,Yes,No,3.4,929,220,Delivery,Yes,No,86,Average (2.5-3.5),Budget (<300),23.24
+ZOM1874,The Kebab Studio (Man),Jaipur,Mansarovar,Gujarati,Fine Dining,No,Yes,3.6,2673,2463,Dine-out,No,No,0,Good (3.5-4.0),Luxury (1500+),28.41
+ZOM1875,Idli House (Whi),Bangalore,Whitefield,Chinese,Bakery,Yes,No,4.6,4169,328,Dine-out,Yes,No,87,Excellent (4.5+),Mid-range (300-700),38.34
+ZOM1876,Dosa Point (Sal),Kolkata,Salt Lake,Continental,Dhaba,Yes,No,3.8,2192,734,Delivery,Yes,No,44,Good (3.5-4.0),Premium (700-1500),29.23
+ZOM1877,Food Junction (Kar),Delhi,Karol Bagh,Italian,Delivery Only,Yes,No,2.5,281,260,Delivery,No,No,82,Poor (<2.5),Budget (<300),14.1
+ZOM1878,The Biryani Bowl (Ala),Lucknow,Alambagh,Chinese,Quick Bites,Yes,No,4.0,1918,460,Pubs and Bars,Yes,Yes,65,Good (3.5-4.0),Mid-range (300-700),30.24
+ZOM1879,Royal Feast (Civ),Jaipur,Civil Lines,Mexican,Food Court,Yes,No,4.1,2596,766,Dine-out,Yes,No,24,Very Good (4.0-4.5),Premium (700-1500),32.23
+ZOM1880,Taste of India (Myl),Chennai,Mylapore,Mexican,Dhaba,No,No,2.7,1576,513,Dine-out,No,No,0,Average (2.5-3.5),Mid-range (300-700),19.88
+ZOM1881,The Pizza Place (Myl),Chennai,Mylapore,Gujarati,Cafe,Yes,No,4.7,2859,1247,Desserts,Yes,Yes,80,Excellent (4.5+),Premium (700-1500),37.41
+ZOM1882,Curry Leaf (Ady),Chennai,Adyar,Italian,Food Court,Yes,No,3.9,141,460,Dine-out,No,No,61,Good (3.5-4.0),Mid-range (300-700),19.33
+ZOM1883,The Kebab Studio (Con),Delhi,Connaught Place,Mexican,Fine Dining,Yes,Yes,2.2,91,4012,Desserts,No,No,86,Poor (<2.5),Luxury (1500+),9.95
+ZOM1884,Urban Bites (Cam),Pune,Camp,Continental,Delivery Only,Yes,No,2.9,2947,798,Pubs and Bars,Yes,Yes,32,Average (2.5-3.5),Premium (700-1500),23.17
+ZOM1885,South Kitchen (Sal),Kolkata,Salt Lake,Mexican,Bakery,Yes,No,4.0,3634,571,Delivery,No,No,42,Good (3.5-4.0),Mid-range (300-700),32.79
+ZOM1886,Taste of India (Vel),Chennai,Velachery,Gujarati,Bakery,Yes,No,3.8,3323,488,Pubs and Bars,Yes,No,49,Good (3.5-4.0),Mid-range (300-700),30.81
+ZOM1887,Tikka Town (Jay),Bangalore,Jayanagar,Mexican,Bakery,No,No,4.9,725,434,Dine-out,Yes,No,0,Excellent (4.5+),Mid-range (300-700),32.28
+ZOM1888,Royal Feast (Civ),Jaipur,Civil Lines,Chinese,Delivery Only,Yes,No,3.2,503,314,Delivery,Yes,No,55,Average (2.5-3.5),Mid-range (300-700),19.91
+ZOM1889,Bombay Bites (Myl),Chennai,Mylapore,Mughlai,Dhaba,Yes,No,2.8,4774,433,Pubs and Bars,No,No,47,Average (2.5-3.5),Mid-range (300-700),23.72
+ZOM1890,The Sandwich Shop (Aun),Pune,Aundh,Mughlai,Food Court,Yes,No,3.3,2258,326,Pubs and Bars,No,No,38,Average (2.5-3.5),Mid-range (300-700),25.48
+ZOM1891,Desi Zaika (Ban),Mumbai,Bandra,Chinese,Casual Dining,Yes,No,3.2,3987,811,Dine-out,Yes,No,43,Average (2.5-3.5),Premium (700-1500),26.53
+ZOM1892,Burger House (Kor),Pune,Koregaon Park,Mexican,Casual Dining,Yes,Yes,2.2,2415,1357,Pubs and Bars,No,No,38,Poor (<2.5),Premium (700-1500),17.14
+ZOM1893,Royal Feast (Nav),Ahmedabad,Navrangpura,Biryani,Fine Dining,Yes,No,4.7,2247,3877,Dine-out,Yes,No,59,Excellent (4.5+),Luxury (1500+),36.27
+ZOM1894,Punjabi Tadka (Mal),Jaipur,Malviya Nagar,Bengali,Cafe,Yes,No,3.3,453,540,Pubs and Bars,No,No,20,Average (2.5-3.5),Mid-range (300-700),20.19
+ZOM1895,The Diner (Kor),Pune,Koregaon Park,Italian,Food Court,Yes,No,3.0,2982,292,Dine-out,Yes,No,67,Average (2.5-3.5),Budget (<300),24.0
+ZOM1896,Dosa Point (Kar),Delhi,Karol Bagh,Mughlai,Quick Bites,Yes,No,3.9,243,469,Dine-out,Yes,Yes,80,Good (3.5-4.0),Mid-range (300-700),21.44
+ZOM1897,Burger House (CG ),Ahmedabad,CG Road,Gujarati,Food Court,Yes,No,3.1,2977,494,Pubs and Bars,No,Yes,45,Average (2.5-3.5),Mid-range (300-700),24.8
+ZOM1898,Masala Magic (Par),Kolkata,Park Street,Gujarati,Food Court,Yes,No,3.9,4171,650,Dine-out,Yes,No,26,Good (3.5-4.0),Mid-range (300-700),32.51
+ZOM1899,The Grill House (Par),Kolkata,Park Street,Biryani,Quick Bites,No,No,3.4,821,252,Delivery,No,No,0,Average (2.5-3.5),Budget (<300),22.82
+ZOM1900,The Grand Kitchen (Ind),Bangalore,Indiranagar,Continental,Quick Bites,Yes,No,4.1,825,320,Dine-out,No,No,44,Very Good (4.0-4.5),Mid-range (300-700),27.54
+ZOM1901,Royal Feast (Myl),Chennai,Mylapore,Gujarati,Fine Dining,Yes,Yes,4.6,255,3288,Desserts,No,No,22,Excellent (4.5+),Luxury (1500+),25.51
+ZOM1902,Dosa Point (Gom),Lucknow,Gomti Nagar,Mughlai,Quick Bites,Yes,No,4.2,3705,293,Pubs and Bars,Yes,No,44,Very Good (4.0-4.5),Budget (<300),34.51
+ZOM1903,Punjabi Tadka (Pra),Ahmedabad,Prahlad Nagar,Mexican,Delivery Only,No,No,3.0,3898,272,Delivery,No,No,0,Average (2.5-3.5),Budget (<300),24.81
+ZOM1904,Urban Bites (Gom),Lucknow,Gomti Nagar,Continental,Dhaba,Yes,No,3.5,2684,797,Pubs and Bars,No,No,60,Average (2.5-3.5),Premium (700-1500),27.63
+ZOM1905,Curry Leaf (Sec),Hyderabad,Secunderabad,Gujarati,Fine Dining,No,Yes,4.8,2551,2887,Pubs and Bars,Yes,No,0,Excellent (4.5+),Luxury (1500+),37.65
+ZOM1906,Bombay Bites (Pra),Ahmedabad,Prahlad Nagar,South Indian,Food Court,Yes,No,3.9,2999,612,Dine-out,No,No,38,Good (3.5-4.0),Mid-range (300-700),31.22
+ZOM1907,Punjabi Tadka (Mad),Hyderabad,Madhapur,Continental,Delivery Only,Yes,No,2.4,4013,628,Pubs and Bars,Yes,Yes,34,Poor (<2.5),Mid-range (300-700),19.91
+ZOM1908,The Pizza Place (MI ),Jaipur,MI Road,Thai,Dhaba,Yes,No,3.7,4999,256,Desserts,No,No,37,Good (3.5-4.0),Budget (<300),31.51
+ZOM1909,The Sandwich Shop (New),Kolkata,New Town,Bengali,Quick Bites,Yes,No,3.6,2487,197,Delivery,No,No,85,Good (3.5-4.0),Budget (<300),28.15
+ZOM1910,Urban Bites (Ind),Bangalore,Indiranagar,Continental,Casual Dining,No,Yes,3.7,3812,1150,Dine-out,No,No,0,Good (3.5-4.0),Premium (700-1500),30.51
+ZOM1911,Curry Leaf (Man),Ahmedabad,Maninagar,Fast Food,Bakery,Yes,No,3.3,2344,534,Dine-out,Yes,Yes,76,Average (2.5-3.5),Mid-range (300-700),25.61
+ZOM1912,The Pizza Place (Ala),Lucknow,Alambagh,Gujarati,Quick Bites,Yes,No,3.6,3125,194,Delivery,No,Yes,39,Good (3.5-4.0),Budget (<300),28.97
+ZOM1913,Burger House (Ban),Mumbai,Bandra,Gujarati,Food Court,No,No,3.2,4321,522,Pubs and Bars,No,No,0,Average (2.5-3.5),Mid-range (300-700),26.79
+ZOM1914,Food Junction (Nun),Chennai,Nungambakkam,Bengali,Bakery,No,No,2.8,7,258,Dine-out,Yes,No,0,Average (2.5-3.5),Budget (<300),5.82
+ZOM1915,Dosa Point (Kor),Bangalore,Koramangala,Italian,Quick Bites,Yes,No,2.7,2626,281,Dine-out,Yes,No,79,Average (2.5-3.5),Budget (<300),21.26
+ZOM1916,The Pizza Place (CG ),Ahmedabad,CG Road,Chinese,Cafe,Yes,No,4.6,2895,1297,Delivery,No,No,81,Excellent (4.5+),Premium (700-1500),36.67
+ZOM1917,Royal Feast (HSR),Bangalore,HSR Layout,Continental,Casual Dining,Yes,Yes,4.4,1284,960,Desserts,No,No,28,Very Good (4.0-4.5),Premium (700-1500),31.5
+ZOM1918,Flavors Restaurant (Col),Mumbai,Colaba,Bengali,Cafe,Yes,No,4.1,675,1118,Pubs and Bars,No,Yes,67,Very Good (4.0-4.5),Premium (700-1500),26.72
+ZOM1919,The Pizza Place (Par),Kolkata,Park Street,South Indian,Dhaba,No,No,4.2,1960,335,Pubs and Bars,No,No,0,Very Good (4.0-4.5),Mid-range (300-700),31.84
+ZOM1920,Saffron Kitchen (Col),Mumbai,Colaba,Continental,Food Court,No,No,4.5,254,679,Dine-out,No,Yes,0,Very Good (4.0-4.5),Mid-range (300-700),24.94
+ZOM1921,The Grill House (MI ),Jaipur,MI Road,Continental,Bakery,Yes,No,5.0,3390,699,Dine-out,No,No,83,Excellent (4.5+),Mid-range (300-700),40.64
+ZOM1922,Burger House (Nav),Ahmedabad,Navrangpura,Mexican,Bakery,No,No,3.2,48,464,Delivery,Yes,No,0,Average (2.5-3.5),Mid-range (300-700),12.45
+ZOM1923,Desi Zaika (Hit),Hyderabad,Hitech City,Mughlai,Food Court,Yes,No,4.1,2947,419,Pubs and Bars,No,No,25,Very Good (4.0-4.5),Mid-range (300-700),32.75
+ZOM1924,Taste of India (Ali),Lucknow,Aliganj,Gujarati,Food Court,Yes,No,3.4,2977,775,Desserts,No,No,55,Average (2.5-3.5),Premium (700-1500),27.2
+ZOM1925,Bombay Bites (Vas),Ahmedabad,Vastrapur,Bengali,Cafe,Yes,No,3.2,494,1337,Desserts,Yes,No,61,Average (2.5-3.5),Premium (700-1500),19.85
+ZOM1926,Royal Feast (Jub),Hyderabad,Jubilee Hills,Bengali,Food Court,No,No,3.0,3521,719,Desserts,No,No,0,Average (2.5-3.5),Premium (700-1500),24.5
+ZOM1927,The Biryani Bowl (Mad),Hyderabad,Madhapur,North Indian,Casual Dining,Yes,Yes,4.4,620,1482,Dine-out,Yes,Yes,76,Very Good (4.0-4.5),Premium (700-1500),28.3
+ZOM1928,South Kitchen (Laj),Delhi,Lajpat Nagar,Continental,Quick Bites,Yes,No,4.4,959,485,Delivery,No,No,21,Very Good (4.0-4.5),Mid-range (300-700),30.21
+ZOM1929,The Sandwich Shop (SG ),Ahmedabad,SG Highway,Mughlai,Bakery,Yes,No,4.3,3254,595,Pubs and Bars,No,No,42,Very Good (4.0-4.5),Mid-range (300-700),34.78
+ZOM1930,Food Junction (Jag),Jaipur,Jagatpura,Gujarati,Quick Bites,Yes,No,3.6,4758,211,Desserts,No,Yes,57,Good (3.5-4.0),Budget (<300),30.48
+ZOM1931,Dosa Point (Sak),Delhi,Saket,Bengali,Quick Bites,Yes,No,4.1,2557,388,Pubs and Bars,Yes,No,86,Very Good (4.0-4.5),Mid-range (300-700),32.17
+ZOM1932,Chaat Corner (Hau),Delhi,Hauz Khas,Mughlai,Fine Dining,Yes,Yes,3.1,2730,4537,Pubs and Bars,No,Yes,64,Average (2.5-3.5),Luxury (1500+),24.53
+ZOM1933,Dosa Point (MG ),Bangalore,MG Road,Mughlai,Bakery,Yes,No,4.2,4256,577,Delivery,Yes,No,32,Very Good (4.0-4.5),Mid-range (300-700),35.1
+ZOM1934,Masala Magic (Kor),Pune,Koregaon Park,Italian,Food Court,Yes,No,2.6,927,636,Pubs and Bars,Yes,Yes,23,Average (2.5-3.5),Mid-range (300-700),17.77
+ZOM1935,The Biryani Bowl (Ady),Chennai,Adyar,Biryani,Dhaba,Yes,No,4.1,1819,539,Dine-out,No,No,52,Very Good (4.0-4.5),Mid-range (300-700),30.78
+ZOM1936,Curry Leaf (Jub),Hyderabad,Jubilee Hills,Continental,Dhaba,No,No,3.9,4492,319,Desserts,No,No,0,Good (3.5-4.0),Mid-range (300-700),32.8
+ZOM1937,Food Junction (Col),Mumbai,Colaba,Chinese,Casual Dining,Yes,No,2.6,1842,1089,Dine-out,No,No,67,Average (2.5-3.5),Premium (700-1500),19.55
+ZOM1938,The Diner (Kor),Pune,Koregaon Park,Continental,Casual Dining,Yes,Yes,2.7,2954,854,Delivery,No,No,37,Average (2.5-3.5),Premium (700-1500),21.58
+ZOM1939,Chaat Corner (Vim),Pune,Viman Nagar,Gujarati,Delivery Only,Yes,No,3.5,2383,381,Dine-out,Yes,No,57,Average (2.5-3.5),Mid-range (300-700),27.22
+ZOM1940,Burger House (Jag),Jaipur,Jagatpura,Chinese,Dhaba,Yes,No,5.0,2740,599,Pubs and Bars,No,No,32,Excellent (4.5+),Mid-range (300-700),39.58
+ZOM1941,Tikka Town (Beh),Kolkata,Behala,Continental,Cafe,Yes,No,2.9,2855,1411,Delivery,Yes,No,78,Average (2.5-3.5),Premium (700-1500),23.08
+ZOM1942,Saffron Kitchen (Cam),Pune,Camp,Biryani,Fine Dining,Yes,No,3.9,2969,3546,Pubs and Bars,No,No,67,Good (3.5-4.0),Luxury (1500+),31.19
+ZOM1943,The Grand Kitchen (Mal),Jaipur,Malviya Nagar,Gujarati,Fine Dining,Yes,Yes,4.7,2855,4145,Pubs and Bars,No,No,57,Excellent (4.5+),Luxury (1500+),37.4
+ZOM1944,Saffron Kitchen (Gac),Hyderabad,Gachibowli,Biryani,Dhaba,Yes,No,4.1,3491,555,Delivery,No,No,51,Very Good (4.0-4.5),Mid-range (300-700),33.45
+ZOM1945,The Sandwich Shop (Mal),Jaipur,Malviya Nagar,South Indian,Casual Dining,Yes,Yes,4.6,3844,914,Pubs and Bars,No,Yes,88,Excellent (4.5+),Premium (700-1500),37.97
+ZOM1946,The Biryani Bowl (SG ),Ahmedabad,SG Highway,Italian,Cafe,Yes,No,4.8,3201,782,Dine-out,No,No,38,Excellent (4.5+),Premium (700-1500),38.74
+ZOM1947,Royal Feast (Kot),Pune,Kothrud,Biryani,Cafe,Yes,No,4.9,2735,473,Pubs and Bars,No,No,80,Excellent (4.5+),Mid-range (300-700),38.78
+ZOM1948,Food Junction (Bal),Kolkata,Ballygunge,South Indian,Fine Dining,No,Yes,3.5,2263,2493,Delivery,Yes,Yes,0,Average (2.5-3.5),Luxury (1500+),27.04
+ZOM1949,Burger House (Aun),Pune,Aundh,Mexican,Cafe,Yes,No,4.4,2592,1300,Dine-out,No,No,70,Very Good (4.0-4.5),Premium (700-1500),34.59
+ZOM1950,The Kebab Studio (Ami),Lucknow,Aminabad,Thai,Dhaba,Yes,No,4.5,2832,369,Pubs and Bars,No,No,57,Very Good (4.0-4.5),Mid-range (300-700),35.77
+ZOM1951,Dosa Point (CG ),Ahmedabad,CG Road,Mexican,Dhaba,Yes,No,3.7,1042,487,Dine-out,No,No,30,Good (3.5-4.0),Mid-range (300-700),25.71
+ZOM1952,Food Junction (CG ),Ahmedabad,CG Road,Mexican,Fine Dining,Yes,Yes,4.4,2966,4435,Desserts,No,Yes,40,Very Good (4.0-4.5),Luxury (1500+),35.18
+ZOM1953,South Kitchen (Jay),Bangalore,Jayanagar,Mughlai,Quick Bites,No,No,3.5,944,282,Delivery,Yes,No,0,Average (2.5-3.5),Budget (<300),23.98
+ZOM1954,Royal Feast (Ala),Lucknow,Alambagh,North Indian,Fine Dining,Yes,Yes,4.5,3419,2500,Dine-out,No,No,73,Very Good (4.0-4.5),Luxury (1500+),36.62
+ZOM1955,Idli House (Nav),Ahmedabad,Navrangpura,Chinese,Fine Dining,No,No,4.5,2510,2417,Dine-out,No,No,0,Very Good (4.0-4.5),Luxury (1500+),35.23
+ZOM1956,Royal Feast (MG ),Bangalore,MG Road,Mexican,Casual Dining,Yes,No,4.2,1879,592,Delivery,No,No,34,Very Good (4.0-4.5),Mid-range (300-700),31.66
+ZOM1957,Tikka Town (Ala),Lucknow,Alambagh,Bengali,Food Court,Yes,No,4.1,620,605,Desserts,No,No,66,Very Good (4.0-4.5),Mid-range (300-700),26.37
+ZOM1958,The Sandwich Shop (Jay),Bangalore,Jayanagar,Gujarati,Food Court,No,No,3.6,4193,495,Desserts,Yes,No,0,Good (3.5-4.0),Mid-range (300-700),30.03
+ZOM1959,Green Leaf Cafe (Sak),Delhi,Saket,Gujarati,Dhaba,Yes,No,2.8,1146,731,Desserts,No,Yes,57,Average (2.5-3.5),Premium (700-1500),19.73
+ZOM1960,The Kebab Studio (CG ),Ahmedabad,CG Road,Fast Food,Quick Bites,Yes,No,4.0,2695,162,Delivery,No,No,85,Good (3.5-4.0),Budget (<300),31.6
+ZOM1961,Flavors Restaurant (Man),Jaipur,Mansarovar,South Indian,Quick Bites,Yes,No,3.8,809,379,Pubs and Bars,No,No,85,Good (3.5-4.0),Mid-range (300-700),25.45
+ZOM1962,The Diner (Man),Ahmedabad,Maninagar,North Indian,Quick Bites,Yes,No,3.8,3880,448,Delivery,No,No,41,Good (3.5-4.0),Mid-range (300-700),31.4
+ZOM1963,Urban Bites (Sec),Hyderabad,Secunderabad,Bengali,Food Court,Yes,No,3.5,4396,539,Desserts,No,Yes,74,Average (2.5-3.5),Mid-range (300-700),29.36
+ZOM1964,The Food Factory (Nav),Ahmedabad,Navrangpura,Mughlai,Dhaba,No,No,2.9,946,244,Delivery,No,No,0,Average (2.5-3.5),Budget (<300),19.87
+ZOM1965,Royal Feast (Hin),Pune,Hinjewadi,South Indian,Quick Bites,Yes,No,4.1,959,388,Dine-out,Yes,No,75,Very Good (4.0-4.5),Mid-range (300-700),28.15
+ZOM1966,The Pizza Place (Ann),Chennai,Anna Nagar,Chinese,Delivery Only,Yes,No,4.5,948,455,Delivery,No,No,54,Very Good (4.0-4.5),Mid-range (300-700),30.85
+ZOM1967,Bombay Bites (Kor),Bangalore,Koramangala,Biryani,Casual Dining,No,No,3.3,4279,611,Dine-out,No,No,0,Average (2.5-3.5),Mid-range (300-700),27.59
+ZOM1968,Flavors Restaurant (Vel),Chennai,Velachery,South Indian,Casual Dining,Yes,Yes,3.9,1833,1030,Pubs and Bars,Yes,No,76,Good (3.5-4.0),Premium (700-1500),29.31
+ZOM1969,The Curry House (Jag),Jaipur,Jagatpura,Continental,Quick Bites,Yes,No,4.3,1235,244,Dine-out,No,No,39,Very Good (4.0-4.5),Budget (<300),30.61
+ZOM1970,Olive Garden (Kar),Delhi,Karol Bagh,North Indian,Dhaba,Yes,No,3.6,3861,270,Delivery,No,Yes,77,Good (3.5-4.0),Budget (<300),29.73
+ZOM1971,Bombay Bites (Mad),Hyderabad,Madhapur,Gujarati,Fine Dining,No,Yes,3.2,767,3823,Pubs and Bars,Yes,No,0,Average (2.5-3.5),Luxury (1500+),21.26
+ZOM1972,The Grill House (Ali),Kolkata,Alipore,Chinese,Cafe,No,No,3.4,4150,963,Pubs and Bars,No,Yes,0,Average (2.5-3.5),Premium (700-1500),28.33
+ZOM1973,Olive Garden (Col),Mumbai,Colaba,Bengali,Delivery Only,Yes,No,3.5,4883,684,Delivery,Yes,No,22,Average (2.5-3.5),Mid-range (300-700),29.73
+ZOM1974,The Biryani Bowl (Nun),Chennai,Nungambakkam,Fast Food,Dhaba,Yes,No,3.7,2045,255,Pubs and Bars,No,No,42,Good (3.5-4.0),Budget (<300),28.21
+ZOM1975,Bombay Bites (Ban),Mumbai,Bandra,Biryani,Quick Bites,Yes,No,4.0,4460,259,Desserts,No,Yes,83,Good (3.5-4.0),Budget (<300),33.61
+ZOM1976,Tikka Town (MG ),Bangalore,MG Road,Thai,Delivery Only,No,No,3.4,908,619,Dine-out,No,No,0,Average (2.5-3.5),Mid-range (300-700),23.16
+ZOM1977,The Curry House (Beh),Kolkata,Behala,Fast Food,Food Court,Yes,No,4.5,641,212,Dine-out,No,No,55,Very Good (4.0-4.5),Budget (<300),29.09
+ZOM1978,Curry Leaf (Man),Ahmedabad,Maninagar,Mughlai,Casual Dining,Yes,Yes,4.3,2153,852,Delivery,No,No,83,Very Good (4.0-4.5),Premium (700-1500),33.0
+ZOM1979,The Pizza Place (And),Mumbai,Andheri,Gujarati,Fine Dining,No,Yes,4.8,4586,2789,Pubs and Bars,Yes,Yes,0,Excellent (4.5+),Luxury (1500+),40.47
+ZOM1980,The Diner (MI ),Jaipur,MI Road,Gujarati,Food Court,Yes,No,2.9,1452,311,Dine-out,No,No,79,Average (2.5-3.5),Mid-range (300-700),21.12
+ZOM1981,Royal Feast (Aun),Pune,Aundh,Biryani,Casual Dining,No,Yes,2.9,3221,1488,Dine-out,No,Yes,0,Average (2.5-3.5),Premium (700-1500),23.43
+ZOM1982,The Diner (Sec),Hyderabad,Secunderabad,North Indian,Delivery Only,Yes,No,3.7,3323,638,Dine-out,Yes,No,72,Good (3.5-4.0),Mid-range (300-700),30.0
+ZOM1983,Spice Garden (Jub),Hyderabad,Jubilee Hills,Mexican,Bakery,Yes,No,3.8,230,288,Desserts,No,No,67,Good (3.5-4.0),Budget (<300),20.68
+ZOM1984,Royal Feast (Ban),Mumbai,Bandra,Gujarati,Dhaba,Yes,No,4.5,534,598,Pubs and Bars,No,No,34,Very Good (4.0-4.5),Mid-range (300-700),28.27
+ZOM1985,Urban Bites (Jay),Bangalore,Jayanagar,Italian,Fine Dining,Yes,Yes,4.2,1531,2178,Dine-out,No,No,32,Very Good (4.0-4.5),Luxury (1500+),30.8
+ZOM1986,The Kebab Studio (Man),Jaipur,Mansarovar,Fast Food,Cafe,Yes,No,3.7,2901,1244,Pubs and Bars,No,No,82,Good (3.5-4.0),Premium (700-1500),29.5
+ZOM1987,Olive Garden (Civ),Jaipur,Civil Lines,North Indian,Dhaba,Yes,No,3.5,3920,627,Dine-out,No,No,57,Average (2.5-3.5),Mid-range (300-700),28.96
+ZOM1988,Noodle Box (Ann),Chennai,Anna Nagar,Gujarati,Food Court,Yes,No,3.1,1239,247,Pubs and Bars,Yes,No,37,Average (2.5-3.5),Budget (<300),22.08
+ZOM1989,Masala Magic (Juh),Mumbai,Juhu,Continental,Food Court,Yes,No,3.9,2964,638,Desserts,Yes,No,58,Good (3.5-4.0),Mid-range (300-700),31.18
+ZOM1990,Food Junction (Sak),Delhi,Saket,North Indian,Cafe,No,No,4.0,3784,887,Delivery,Yes,No,0,Good (3.5-4.0),Premium (700-1500),32.96
+ZOM1991,Olive Garden (Whi),Bangalore,Whitefield,Fast Food,Quick Bites,Yes,No,1.9,1937,486,Delivery,No,No,25,Poor (<2.5),Mid-range (300-700),14.38
+ZOM1992,Dosa Point (Dad),Mumbai,Dadar,Gujarati,Bakery,Yes,No,3.5,1886,750,Dine-out,Yes,No,44,Average (2.5-3.5),Premium (700-1500),26.4
+ZOM1993,Saffron Kitchen (Gac),Hyderabad,Gachibowli,North Indian,Bakery,Yes,No,4.4,2897,386,Delivery,No,No,82,Very Good (4.0-4.5),Mid-range (300-700),35.08
+ZOM1994,Urban Bites (Dwa),Delhi,Dwarka,Mexican,Quick Bites,Yes,No,3.5,1450,280,Delivery,No,No,41,Average (2.5-3.5),Budget (<300),25.48
+ZOM1995,Spice Garden (Hau),Delhi,Hauz Khas,North Indian,Food Court,Yes,No,3.9,2299,271,Pubs and Bars,No,No,81,Good (3.5-4.0),Budget (<300),30.19
+ZOM1996,The Grill House (Con),Delhi,Connaught Place,Gujarati,Casual Dining,Yes,No,4.6,2058,786,Desserts,No,Yes,78,Excellent (4.5+),Premium (700-1500),35.1
+ZOM1997,Burger House (Ind),Lucknow,Indira Nagar,Italian,Casual Dining,No,Yes,3.3,831,748,Desserts,No,Yes,0,Average (2.5-3.5),Premium (700-1500),22.19
+ZOM1998,Burger House (Beh),Kolkata,Behala,Gujarati,Casual Dining,Yes,Yes,4.1,3913,686,Delivery,Yes,Yes,41,Very Good (4.0-4.5),Mid-range (300-700),33.92
+ZOM1999,Tikka Town (Ali),Lucknow,Aliganj,South Indian,Cafe,Yes,No,3.0,4625,1038,Pubs and Bars,No,No,61,Average (2.5-3.5),Premium (700-1500),25.32

@@ -1,0 +1,51 @@
+City,Rating_Category,Count
+Ahmedabad,Poor (<2.5),2
+Ahmedabad,Average (2.5-3.5),46
+Ahmedabad,Good (3.5-4.0),31
+Ahmedabad,Very Good (4.0-4.5),21
+Ahmedabad,Excellent (4.5+),14
+Bangalore,Poor (<2.5),6
+Bangalore,Average (2.5-3.5),22
+Bangalore,Good (3.5-4.0),33
+Bangalore,Very Good (4.0-4.5),21
+Bangalore,Excellent (4.5+),11
+Chennai,Poor (<2.5),9
+Chennai,Average (2.5-3.5),37
+Chennai,Good (3.5-4.0),20
+Chennai,Very Good (4.0-4.5),25
+Chennai,Excellent (4.5+),8
+Delhi,Poor (<2.5),9
+Delhi,Average (2.5-3.5),36
+Delhi,Good (3.5-4.0),36
+Delhi,Very Good (4.0-4.5),18
+Delhi,Excellent (4.5+),13
+Hyderabad,Poor (<2.5),4
+Hyderabad,Average (2.5-3.5),31
+Hyderabad,Good (3.5-4.0),33
+Hyderabad,Very Good (4.0-4.5),21
+Hyderabad,Excellent (4.5+),7
+Jaipur,Poor (<2.5),2
+Jaipur,Average (2.5-3.5),39
+Jaipur,Good (3.5-4.0),26
+Jaipur,Very Good (4.0-4.5),22
+Jaipur,Excellent (4.5+),18
+Kolkata,Poor (<2.5),3
+Kolkata,Average (2.5-3.5),34
+Kolkata,Good (3.5-4.0),21
+Kolkata,Very Good (4.0-4.5),18
+Kolkata,Excellent (4.5+),10
+Lucknow,Poor (<2.5),3
+Lucknow,Average (2.5-3.5),32
+Lucknow,Good (3.5-4.0),28
+Lucknow,Very Good (4.0-4.5),22
+Lucknow,Excellent (4.5+),5
+Mumbai,Poor (<2.5),6
+Mumbai,Average (2.5-3.5),30
+Mumbai,Good (3.5-4.0),26
+Mumbai,Very Good (4.0-4.5),16
+Mumbai,Excellent (4.5+),11
+Pune,Poor (<2.5),5
+Pune,Average (2.5-3.5),48
+Pune,Good (3.5-4.0),29
+Pune,Very Good (4.0-4.5),19
+Pune,Excellent (4.5+),13

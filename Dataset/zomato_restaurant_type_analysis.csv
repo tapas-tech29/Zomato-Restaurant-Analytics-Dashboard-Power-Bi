@@ -1,0 +1,9 @@
+Restaurant_Type,Count,Avg_Rating,Avg_Cost,Avg_Votes,Online_Pct,Table_Booking_Pct
+Bakery,128,3.76,509.0,2582.0,73.4,0.0
+Casual Dining,122,3.74,962.0,2317.0,69.7,68.0
+Fine Dining,129,3.73,3284.0,2427.0,73.6,70.5
+Delivery Only,127,3.71,480.0,2463.0,79.5,0.0
+Quick Bites,126,3.7,328.0,2368.0,71.4,0.0
+Dhaba,134,3.7,517.0,2417.0,73.1,0.0
+Food Court,130,3.68,512.0,2309.0,82.3,0.0
+Cafe,104,3.6,1015.0,2541.0,76.0,0.0
